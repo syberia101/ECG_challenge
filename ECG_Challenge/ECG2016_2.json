@@ -1,0 +1,74 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"sci2016\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"104.61"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"13466430",
+"text":":facetid:toc:db/conf/f-egc/sci2016.bht"
+}
+},
+"hits":{
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"168671",
+"info":{"authors":{"author":["Bruno Pinaud","Fabrice Guillet","Bruno Crémilleux","Cyril de Runz"]},"title":"Advances in Knowledge Discovery and Management - Volume 7 [Best of EGC 2016,Reims, France].","venue":["EGC","Studies in Computational Intelligence"],"volume":"732","publisher":"Springer","year":"2018","type":"Editorship","key":"conf/f-egc/2016sci","doi":"10.1007/978-3-319-65406-5","ee":"https://doi.org/10.1007/978-3-319-65406-5","url":"https://dblp.org/rec/conf/f-egc/2016sci"},
+"url":"URL#168671"
+},
+{
+"@score":"1",
+"@id":"661853",
+"info":{"authors":{"author":["Céline Alec","Chantal Reynaud-Delaître","Brigitte Safar"]},"title":"A Combined Approach for Ontology Enrichment from Textual and Open Data.","venue":"EGC","pages":"1-21","year":"2016","type":"Conference and Workshop Papers","key":"conf/f-egc/AlecRS16a","doi":"10.1007/978-3-319-65406-5_1","ee":"https://doi.org/10.1007/978-3-319-65406-5_1","url":"https://dblp.org/rec/conf/f-egc/AlecRS16a"},
+"url":"URL#661853"
+},
+{
+"@score":"1",
+"@id":"661879",
+"info":{"authors":{"author":["Amadou Fall Dia","Zakia Kazi-Aoul","Aliou Boly","Yousra Chabchoub"]},"title":"C-SPARQL Extension for Sampling RDF Graphs Streams.","venue":"EGC","pages":"23-40","year":"2016","type":"Conference and Workshop Papers","key":"conf/f-egc/DiaKBC16","doi":"10.1007/978-3-319-65406-5_2","ee":"https://doi.org/10.1007/978-3-319-65406-5_2","url":"https://dblp.org/rec/conf/f-egc/DiaKBC16"},
+"url":"URL#661879"
+},
+{
+"@score":"1",
+"@id":"661894",
+"info":{"authors":{"author":["Thomas Guyet","Yves Moinard","René Quiniou","Torsten Schaub"]},"title":"Efficiency Analysis of ASP Encodings for Sequential Pattern Mining Tasks.","venue":"EGC","pages":"41-81","year":"2016","type":"Conference and Workshop Papers","key":"conf/f-egc/GuyetMQS16a","doi":"10.1007/978-3-319-65406-5_3","ee":"https://doi.org/10.1007/978-3-319-65406-5_3","url":"https://dblp.org/rec/conf/f-egc/GuyetMQS16a"},
+"url":"URL#661894"
+},
+{
+"@score":"1",
+"@id":"661903",
+"info":{"authors":{"author":["Sathiya Prabhu Kumar","Sylvain Lefebvre 0002","Raja Chiky","Olivier Hermant"]},"title":"Consistency-Latency Trade-Off of the LibRe Protocol - A Detailed Study.","venue":"EGC","pages":"83-108","year":"2016","type":"Conference and Workshop Papers","key":"conf/f-egc/Kumar0CH16","doi":"10.1007/978-3-319-65406-5_4","ee":"https://doi.org/10.1007/978-3-319-65406-5_4","url":"https://dblp.org/rec/conf/f-egc/Kumar0CH16"},
+"url":"URL#661903"
+},
+{
+"@score":"1",
+"@id":"661933",
+"info":{"authors":{"author":["Rabih Taleb","Rabah Mazouzi","Lynda Seddiki","Cyril de Runz","Kevin Guelton","Herman Akdag"]},"title":"A Fault Detection Approach for Robotic Systems Combining the Data Obtained from Sensor Measurements and Linear Observer-Based Estimations.","venue":"EGC","pages":"109-125","year":"2016","type":"Conference and Workshop Papers","key":"conf/f-egc/TalebMSRGA16","doi":"10.1007/978-3-319-65406-5_5","ee":"https://doi.org/10.1007/978-3-319-65406-5_5","url":"https://dblp.org/rec/conf/f-egc/TalebMSRGA16"},
+"url":"URL#661933"
+},
+{
+"@score":"1",
+"@id":"661936",
+"info":{"authors":{"author":["Andrés Troya-Galvis","Pierre Gançarski","Laure Berti-Équille"]},"title":"A Collaborative Framework for Joint Segmentation and Classification of Remote Sensing Images.","venue":"EGC","pages":"127-145","year":"2016","type":"Conference and Workshop Papers","key":"conf/f-egc/Troya-GalvisGB16a","doi":"10.1007/978-3-319-65406-5_6","ee":"https://doi.org/10.1007/978-3-319-65406-5_6","url":"https://dblp.org/rec/conf/f-egc/Troya-GalvisGB16a"},
+"url":"URL#661936"
+}
+]
+}
+}
+}

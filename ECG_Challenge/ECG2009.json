@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2009\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"121.07"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"83",
+"@dc":"83",
+"@oc":"83",
+"@id":"13466416",
+"text":":facetid:toc:db/conf/f-egc/egc2009.bht"
+}
+},
+"hits":{
+"@total":"83",
+"@computed":"83",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2444357",
+"info":{"authors":{"author":["Sofiane Abbar","Mokrane Bouzeghoub","Dimitre Kostadinov","Stéphane Lopes"]},"title":"A contextualization service for a Personalized Access Model.","venue":"EGC","pages":"265-270","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/AbbarBKL09","ee":"http://editions-rnti.fr/?inprocid=1000771","url":"https://dblp.org/rec/conf/f-egc/AbbarBKL09"},
+"url":"URL#2444357"
+},
+{
+"@score":"1",
+"@id":"2444358",
+"info":{"authors":{"author":["Filipe Afonso","Edwin Diday","Wassim Khaskhoussi"]},"title":"Le logiciel SYR pour l&apos;analyse de données symboliques.","venue":"EGC","pages":"501","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/AfonsoDK09","ee":"http://editions-rnti.fr/?inprocid=1000823","url":"https://dblp.org/rec/conf/f-egc/AfonsoDK09"},
+"url":"URL#2444358"
+},
+{
+"@score":"1",
+"@id":"2444359",
+"info":{"authors":{"author":["Emanuel Aldea","Isabelle Bloch"]},"title":"Vers une utilisation améliorée de relations spatiales pour l&apos;apprentissage de données dans les modèles graphiques.","venue":"EGC","pages":"271-282","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/AldeaB09","ee":"http://editions-rnti.fr/?inprocid=1000772","url":"https://dblp.org/rec/conf/f-egc/AldeaB09"},
+"url":"URL#2444359"
+},
+{
+"@score":"1",
+"@id":"2444360",
+"info":{"authors":{"author":["Tomàs Aluja-Banet","Josep Daunis-i-Estadella","Enric Ripoll"]},"title":"Assessing the uncertainty in knn Data Fusion.","venue":"EGC","pages":"441-442","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/Aluja-BanetDR09","ee":"http://editions-rnti.fr/?inprocid=1000794","url":"https://dblp.org/rec/conf/f-egc/Aluja-BanetDR09"},
+"url":"URL#2444360"
+},
+{
+"@score":"1",
+"@id":"2444361",
+"info":{"authors":{"author":["Emna Bahri","Stéphane Lallich"]},"title":"FCP-Growth, une adaptation de FP-Growth pour générer des règles d&apos;association de classe.","venue":"EGC","pages":"461-462","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BahriL09","ee":"http://editions-rnti.fr/?inprocid=1000804","url":"https://dblp.org/rec/conf/f-egc/BahriL09"},
+"url":"URL#2444361"
+},
+{
+"@score":"1",
+"@id":"2444362",
+"info":{"authors":{"author":["Flavien Balbo","Julien Saunier","Edwin Diday","Suzanne Pinson"]},"title":"De l&apos;utilisation de l&apos;analyse de données symboliques dans les systèmes multi-agents.","venue":"EGC","pages":"139-150","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BalboSDP09","ee":"http://editions-rnti.fr/?inprocid=1000746","url":"https://dblp.org/rec/conf/f-egc/BalboSDP09"},
+"url":"URL#2444362"
+},
+{
+"@score":"1",
+"@id":"2444363",
+"info":{"authors":{"author":["Nicolas Béchet","Mathieu Roche","Jacques Chauché"]},"title":"Comment valider automatiquement des relations syntaxiques induites.","venue":"EGC","pages":"169-180","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BechetRC09","ee":"http://editions-rnti.fr/?inprocid=1000749","url":"https://dblp.org/rec/conf/f-egc/BechetRC09"},
+"url":"URL#2444363"
+},
+{
+"@score":"1",
+"@id":"2444364",
+"info":{"authors":{"author":["Arriel Benis","Mélanie Courtine"]},"title":"Un système pour l&apos;extraction de corrélations linéaires dans des données de génomique médicale.","venue":"EGC","pages":"467-468","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BenisC09","ee":"http://editions-rnti.fr/?inprocid=1000807","url":"https://dblp.org/rec/conf/f-egc/BenisC09"},
+"url":"URL#2444364"
+},
+{
+"@score":"1",
+"@id":"2444365",
+"info":{"authors":{"author":["Alain Berger","Jean-Pierre Cotton","Pierre Mariot"]},"title":"Accompagner au début du ème siècle les organisations dans la mise en place d&apos;une gestion des connaissances - retour d&apos;expérience.","venue":"EGC","pages":"475-478","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BergerCM09","ee":"http://editions-rnti.fr/?inprocid=1000811","url":"https://dblp.org/rec/conf/f-egc/BergerCM09"},
+"url":"URL#2444365"
+},
+{
+"@score":"1",
+"@id":"2444366",
+"info":{"authors":{"author":["Aurélie Bertaux","Florence Le Ber","Agnès Braud"]},"title":"Correspondances de Galois pour la manipulation de contextes flous multi-valués.","venue":"EGC","pages":"193-198","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BertauxBB09","ee":"http://editions-rnti.fr/?inprocid=1000763","url":"https://dblp.org/rec/conf/f-egc/BertauxBB09"},
+"url":"URL#2444366"
+},
+{
+"@score":"1",
+"@id":"2444367",
+"info":{"authors":{"author":"Marc Boullé"},"title":"Une méthode de classification supervisée sans paramètre pour l&apos;apprentissage sur les grandes bases de données.","venue":"EGC","pages":"259-264","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/Boulle09","ee":"http://editions-rnti.fr/?inprocid=1000770","url":"https://dblp.org/rec/conf/f-egc/Boulle09"},
+"url":"URL#2444367"
+},
+{
+"@score":"1",
+"@id":"2444368",
+"info":{"authors":{"author":["Romain Bourqui","Paolo Simonetto","Fabien Jourdan"]},"title":"Un algorithme stable de décomposition pour l&apos;analyse des réseaux sociaux dynamiques.","venue":"EGC","pages":"337-348","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BourquiSJ09","ee":"http://editions-rnti.fr/?inprocid=1000778","url":"https://dblp.org/rec/conf/f-egc/BourquiSJ09"},
+"url":"URL#2444368"
+},
+{
+"@score":"1",
+"@id":"2444369",
+"info":{"authors":{"author":["Alexis Bultey","François Rousselot","Cecilia Zanni","Denis Cavallucci"]},"title":"CISNA - Un système hybride LD+Règles pour gérer des connaissances.","venue":"EGC","pages":"497","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/BulteyRZC09","ee":"http://editions-rnti.fr/?inprocid=1000821","url":"https://dblp.org/rec/conf/f-egc/BulteyRZC09"},
+"url":"URL#2444369"
+},
+{
+"@score":"1",
+"@id":"2444370",
+"info":{"authors":{"author":["Guénaël Cabanes","Younès Bennani","Dominique Fresneau"]},"title":"Exploration de données de traçabilité issues de la RFID par apprentissage non-supervisé.","venue":"EGC","pages":"451-452","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/CabanesBF09","ee":"http://editions-rnti.fr/?inprocid=1000799","url":"https://dblp.org/rec/conf/f-egc/CabanesBF09"},
+"url":"URL#2444370"
+},
+{
+"@score":"1",
+"@id":"2444371",
+"info":{"authors":{"author":"Farid Cerbah"},"title":"Fouille de données dans les bases relationnelles pour l&apos;acquisition d&apos;ontologies riches en hiérarchies de classes.","venue":"EGC","pages":"397-408","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/Cerbah09","ee":"http://editions-rnti.fr/?inprocid=1000786","url":"https://dblp.org/rec/conf/f-egc/Cerbah09"},
+"url":"URL#2444371"
+},
+{
+"@score":"1",
+"@id":"2444372",
+"info":{"authors":{"author":"Farid Cerbah"},"title":"RDBToOnto - un logiciel dédié à l&apos;apprentissage d&apos;ontologies à partir de bases de données relationnelles.","venue":"EGC","pages":"495","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/Cerbah09a","ee":"http://editions-rnti.fr/?inprocid=1000820","url":"https://dblp.org/rec/conf/f-egc/Cerbah09a"},
+"url":"URL#2444372"
+},
+{
+"@score":"1",
+"@id":"2444373",
+"info":{"authors":{"author":["Loïc Cerf","Jérémy Besson","Jean-François Boulicaut"]},"title":"Extraction de motifs fermés dans des relations n-aires bruitées.","venue":"EGC","pages":"163-168","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/CerfBB09","ee":"http://editions-rnti.fr/?inprocid=1000748","url":"https://dblp.org/rec/conf/f-egc/CerfBB09"},
+"url":"URL#2444373"
+},
+{
+"@score":"1",
+"@id":"2444374",
+"info":{"authors":{"author":["Malika Charrad","Yves Lechevallier","Gilbert Saporta","Mohamed Ben Ahmed"]},"title":"Détermination du nombre des classes dans l&apos;algorithme CROKI de classification croisée.","venue":"EGC","pages":"447-448","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/CharradLSA09","ee":"http://editions-rnti.fr/?inprocid=1000797","url":"https://dblp.org/rec/conf/f-egc/CharradLSA09"},
+"url":"URL#2444374"
+},
+{
+"@score":"1",
+"@id":"2444375",
+"info":{"authors":{"author":["Stefan du Château","Danielle Boulanger","Eunika Mercier-Laurent"]},"title":"Management des connaissances dans le domaine du patrimoine culturel.","venue":"EGC","pages":"437-438","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/ChateauBM09","ee":"http://editions-rnti.fr/?inprocid=1000792","url":"https://dblp.org/rec/conf/f-egc/ChateauBM09"},
+"url":"URL#2444375"
+},
+{
+"@score":"1",
+"@id":"2444376",
+"info":{"authors":{"author":"Guillaume Cleuziou"},"title":"OKMed et WOKM - deux variantes de OKM pour la classification recouvrante.","venue":"EGC","pages":"31-42","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/Cleuziou09","ee":"http://editions-rnti.fr/?inprocid=1000736","url":"https://dblp.org/rec/conf/f-egc/Cleuziou09"},
+"url":"URL#2444376"
+},
+{
+"@score":"1",
+"@id":"2444377",
+"info":{"authors":{"author":["Lucie Copin","Nicolas Pecheur","Anne Laurent","Yudi Augusta","Budi Sentana","Dominique Laurent","Tao-Yuan Jen"]},"title":"DBFrequentQueries - Extraction de requêtes fréquentes.","venue":"EGC","pages":"499","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/CopinPLASLJ09","ee":"http://editions-rnti.fr/?inprocid=1000822","url":"https://dblp.org/rec/conf/f-egc/CopinPLASLJ09"},
+"url":"URL#2444377"
+},
+{
+"@score":"1",
+"@id":"2444378",
+"info":{"authors":{"author":["Amélie Cordier","Jean Lieber","Emmanuel Nauer","Yannick Toussaint"]},"title":"Taaable - système de recherche et de création, par adaptation, de recettes de cuisine.","venue":"EGC","pages":"479","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/CordierLNT09","ee":"http://editions-rnti.fr/?inprocid=1000812","url":"https://dblp.org/rec/conf/f-egc/CordierLNT09"},
+"url":"URL#2444378"
+},
+{
+"@score":"1",
+"@id":"2444379",
+"info":{"authors":{"author":["Lisa Di-Jorio","Anne Laurent","Maguelonne Teisseire"]},"title":"Extraction efficace de règles graduelles.","venue":"EGC","pages":"199-204","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/Di-JorioLT09","ee":"http://editions-rnti.fr/?inprocid=1000764","url":"https://dblp.org/rec/conf/f-egc/Di-JorioLT09"},
+"url":"URL#2444379"
+},
+{
+"@score":"1",
+"@id":"2444380",
+"info":{"authors":{"author":["Ousmane Djanga","Hanine Hamzioui","Mickaël Hatchi","Isabelle Mougenot","Mathieu Roche"]},"title":"Regroupement des définitions de sigles biomédicaux.","venue":"EGC","pages":"487","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/DjangaHHMR09","ee":"http://editions-rnti.fr/?inprocid=1000816","url":"https://dblp.org/rec/conf/f-egc/DjangaHHMR09"},
+"url":"URL#2444380"
+},
+{
+"@score":"1",
+"@id":"2444381",
+"info":{"authors":{"author":["Thanh-Nghi Do","Stéphane Lallich","Nguyen-Khang Pham","Philippe Lenca"]},"title":"Un nouvel algorithme de forêts aléatoires d&apos;arbres obliques particulièrement adapté à la classification de données en grandes dimensions.","venue":"EGC","pages":"79-90","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/DoLPL09","ee":"http://editions-rnti.fr/?inprocid=1000741","url":"https://dblp.org/rec/conf/f-egc/DoLPL09"},
+"url":"URL#2444381"
+},
+{
+"@score":"1",
+"@id":"2444382",
+"info":{"authors":{"author":["Christophe Dousson","Pierre Le Maigat"]},"title":"Contrôle des observations pour la gestion des systèmes de flux de données.","venue":"EGC","pages":"449-450","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/DoussonM09","ee":"http://editions-rnti.fr/?inprocid=1000798","url":"https://dblp.org/rec/conf/f-egc/DoussonM09"},
+"url":"URL#2444382"
+},
+{
+"@score":"1",
+"@id":"2444383",
+"info":{"authors":{"author":["Christian Ernst","Alain Casali"]},"title":"Extraction de règles de corrélation décisionnelles.","venue":"EGC","pages":"187-192","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/ErnstC09","ee":"http://editions-rnti.fr/?inprocid=1000761","url":"https://dblp.org/rec/conf/f-egc/ErnstC09"},
+"url":"URL#2444383"
+},
+{
+"@score":"1",
+"@id":"2444384",
+"info":{"authors":{"author":["Matthieu Exbrayat","Lionel Martin"]},"title":"Explorer3D - classification et visualisation de données.","venue":"EGC","pages":"489","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/ExbrayatM09","ee":"http://editions-rnti.fr/?inprocid=1000817","url":"https://dblp.org/rec/conf/f-egc/ExbrayatM09"},
+"url":"URL#2444384"
+},
+{
+"@score":"1",
+"@id":"2444385",
+"info":{"authors":{"author":["Françoise Fessant","Fabrice Clérot","Pascal Gouzien"]},"title":"La carte GHSOM comme alternative à la SOM pour l&apos;analyse exploratoire de données.","venue":"EGC","pages":"19-24","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/FessantCG09","ee":"http://editions-rnti.fr/?inprocid=1000734","url":"https://dblp.org/rec/conf/f-egc/FessantCG09"},
+"url":"URL#2444385"
+},
+{
+"@score":"1",
+"@id":"2444386",
+"info":{"authors":{"author":["Frédéric Flouvat","Sébastien Gassmann","Jean-Marc Petit","Alain Ribière"]},"title":"DesEsper - un logiciel de pré-traitement de flux appliqué à la surveillance des centrales hydrauliques.","venue":"EGC","pages":"493","year":"2009","type":"Conference and Workshop Papers","key":"conf/f-egc/FlouvatGPR09","ee":"http://editions-rnti.fr/?inprocid=1000819","url":"https://dblp.org/rec/conf/f-egc/FlouvatGPR09"},
+"url":"URL#2444386"
+}
+]
+}
+}
+}

@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2001\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"99.60"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"13463214",
+"text":":facetid:toc:db/conf/f-egc/egc2001.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3602801",
+"info":{"authors":{"author":"Mounir Asseraf"},"title":"Extension de la distance de Kolomogorov-Smirnov pour la segmentation et ses propriétés asymptotiques.","venue":"EGC","pages":"365","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Asseraf01","url":"https://dblp.org/rec/conf/f-egc/Asseraf01"},
+"url":"URL#3602801"
+},
+{
+"@score":"1",
+"@id":"3602802",
+"info":{"authors":{"author":["Philippe Benhamou","Jean-Louis Ermine","Jean-Pierre Taran","Thierno Tounkara","Arnaud Waeters"]},"title":"Evolution des connaissances et innovation - Application à une technologie laser à l&apos;Onera.","venue":"EGC","pages":"279-290","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/BenhamouETTW01","url":"https://dblp.org/rec/conf/f-egc/BenhamouETTW01"},
+"url":"URL#3602802"
+},
+{
+"@score":"1",
+"@id":"3602803",
+"info":{"authors":{"author":["Fadila Bentayeb","Omar Boussaid","Nicolas Nicoloyannis"]},"title":"Un cadre topologique pour OLAP.","venue":"EGC","pages":"355","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/BentayebBN01","url":"https://dblp.org/rec/conf/f-egc/BentayebBN01"},
+"url":"URL#3602803"
+},
+{
+"@score":"1",
+"@id":"3602804",
+"info":{"authors":{"author":["Gilles Bisson","Claire Nedellec"]},"title":"Aide à la conception de méthodes de classification pour la construction d&apos;ontologies - l&apos;atelier Mo&apos;K.","venue":"EGC","pages":"213-225","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/BissonN01","url":"https://dblp.org/rec/conf/f-egc/BissonN01"},
+"url":"URL#3602804"
+},
+{
+"@score":"1",
+"@id":"3602805",
+"info":{"authors":{"author":["Nadia Bouassida","Hanêne Ben-Abdallah","Walid Mahdi","Liming Chen 0002"]},"title":"Script alignment based video retrieval.","venue":"EGC","pages":"149-154","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/BouassidaBMC01","url":"https://dblp.org/rec/conf/f-egc/BouassidaBMC01"},
+"url":"URL#3602805"
+},
+{
+"@score":"1",
+"@id":"3602806",
+"info":{"authors":{"author":["Imed Boughzala","Manuel Zacklad","Nada Matta"]},"title":"Gestion des connaissances dans une entreprise étendue - Mémoire d&apos;entreprise et systèmes d&apos;information coopératifs interentreprises.","venue":"EGC","pages":"259-270","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/BoughzalaZM01","url":"https://dblp.org/rec/conf/f-egc/BoughzalaZM01"},
+"url":"URL#3602806"
+},
+{
+"@score":"1",
+"@id":"3602807",
+"info":{"authors":{"author":["Isabelle Bournaud","Mélanie Courtine"]},"title":"Un espace de généralisations pour l&apos;extraction de règles d&apos;association.","venue":"EGC","pages":"129-134","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/BournaudC01","url":"https://dblp.org/rec/conf/f-egc/BournaudC01"},
+"url":"URL#3602807"
+},
+{
+"@score":"1",
+"@id":"3602808",
+"info":{"authors":{"author":["Philippe Caillou","Edwin Diday"]},"title":"Modélisation des données boursières à l&apos;aide de l&apos;analyse de données symboliques.","venue":"EGC","pages":"169-180","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/CaillouD01","url":"https://dblp.org/rec/conf/f-egc/CaillouD01"},
+"url":"URL#3602808"
+},
+{
+"@score":"1",
+"@id":"3602809",
+"info":{"authors":{"author":["Jean-Hugues Chauchat","Ricco Rakotomalala"]},"title":"TQC - un indice d&apos;évaluation de la détection d&apos;événements rares, une application au ciblage en marketing.","venue":"EGC","pages":"155-159","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/ChauchatR01","url":"https://dblp.org/rec/conf/f-egc/ChauchatR01"},
+"url":"URL#3602809"
+},
+{
+"@score":"1",
+"@id":"3602810",
+"info":{"authors":{"author":["Nadjim Chelghoum","Karine Zeitouni"]},"title":"Arbre de décision spatial - Application en sécurité routière.","venue":"EGC","pages":"359","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/ChelghoumZ01","url":"https://dblp.org/rec/conf/f-egc/ChelghoumZ01"},
+"url":"URL#3602810"
+},
+{
+"@score":"1",
+"@id":"3602811",
+"info":{"authors":{"author":["Max Chevalier","Christine Julien 0002"]},"title":"ISIDORView - une interface de visualisation des résultats de recherche d&apos;informations.","venue":"EGC","pages":"135-140","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/ChevalierJ01","url":"https://dblp.org/rec/conf/f-egc/ChevalierJ01"},
+"url":"URL#3602811"
+},
+{
+"@score":"1",
+"@id":"3602812",
+"info":{"authors":{"author":["Bertrand Cuissart","Bruno Crémilleux","Jean-Jacques Hébrard","Frédérique Touffet"]},"title":"Prédiction de la biodégradabilité des composés chimiques - un apport des méthodes d&apos;arbre de décision.","venue":"EGC","pages":"351","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/CuissartCHT01","url":"https://dblp.org/rec/conf/f-egc/CuissartCHT01"},
+"url":"URL#3602812"
+},
+{
+"@score":"1",
+"@id":"3602813",
+"info":{"authors":{"author":"Luc Damas"},"title":"Le Modèle Essais/Episodes - Un modèle pour l&apos;apprentissage à partir de traces d&apos;utilisation pour l&apos;assistance à la réutilisation.","venue":"EGC","pages":"353","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Damas01","url":"https://dblp.org/rec/conf/f-egc/Damas01"},
+"url":"URL#3602813"
+},
+{
+"@score":"1",
+"@id":"3602814",
+"info":{"authors":{"author":"Paul Degoul"},"title":"Essai sur l&apos;articulation entre intelligence économique et gestion des connaissances.","venue":"EGC","pages":"271-277","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Degoul01","url":"https://dblp.org/rec/conf/f-egc/Degoul01"},
+"url":"URL#3602814"
+},
+{
+"@score":"1",
+"@id":"3602815",
+"info":{"authors":{"author":["Arnaud Devillez","Alain Bourmaud"]},"title":"Connaissance des modes de fonctionnement d&apos;une presse à injecter à partir de données de production.","venue":"EGC","pages":"343-348","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/DevillezB01","url":"https://dblp.org/rec/conf/f-egc/DevillezB01"},
+"url":"URL#3602815"
+},
+{
+"@score":"1",
+"@id":"3602816",
+"info":{"authors":{"author":"Jean-Louis Ermine"},"title":"Les processus de la gestion des connaissances.","venue":"EGC","pages":"17-29","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Ermine01","url":"https://dblp.org/rec/conf/f-egc/Ermine01"},
+"url":"URL#3602816"
+},
+{
+"@score":"1",
+"@id":"3602817",
+"info":{"authors":{"author":["Dominique Follut","Fabrice Guillet","Jacques Philippe","Pascal Vandekerckhove"]},"title":"ATHANOR - Un système pour la capitalisation et le déploiement de connaissances de diagnostic.","venue":"EGC","pages":"315-323","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/FollutGPV01","url":"https://dblp.org/rec/conf/f-egc/FollutGPV01"},
+"url":"URL#3602817"
+},
+{
+"@score":"1",
+"@id":"3602818",
+"info":{"authors":{"author":"Alain-Jérôme Fougères"},"title":"Construction de la base de connaissances d&apos;un système tutoriel intelligent pour la formation de régulateurs de trafic.","venue":"EGC","pages":"367","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Fougeres01","url":"https://dblp.org/rec/conf/f-egc/Fougeres01"},
+"url":"URL#3602818"
+},
+{
+"@score":"1",
+"@id":"3602819",
+"info":{"authors":{"author":["Nathalie Friburger","Denis Maurel"]},"title":"Prétraitements pour l&apos;extraction de connaissances sur les anthroponymes.","venue":"EGC","pages":"239-249","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/FriburgerM01","url":"https://dblp.org/rec/conf/f-egc/FriburgerM01"},
+"url":"URL#3602819"
+},
+{
+"@score":"1",
+"@id":"3602820",
+"info":{"authors":{"author":"Béatrice Fuchs"},"title":"Plusieurs contributions à la gestion des connaissances par capitalisation d&apos;expérience.","venue":"EGC","pages":"309-314","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Fuchs01","url":"https://dblp.org/rec/conf/f-egc/Fuchs01"},
+"url":"URL#3602820"
+},
+{
+"@score":"1",
+"@id":"3602821",
+"info":{"authors":{"author":["Chirine Ghedira","Pierre Maret","Paul Rubel"]},"title":"Gestion des connaissances et navigation hypermédia adaptative.","venue":"EGC","pages":"331-342","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/GhediraMR01","url":"https://dblp.org/rec/conf/f-egc/GhediraMR01"},
+"url":"URL#3602821"
+},
+{
+"@score":"1",
+"@id":"3602822",
+"info":{"authors":{"author":["Régis Gras","Pascale Kuntz","Raphaël Couturier","Fabrice Guillet"]},"title":"Une version entropique de l&apos;intensité d&apos;implication pour les corpus volumineux.","venue":"EGC","pages":"69-80","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/GrasKCG01","url":"https://dblp.org/rec/conf/f-egc/GrasKCG01"},
+"url":"URL#3602822"
+},
+{
+"@score":"1",
+"@id":"3602823",
+"info":{"authors":{"author":["Sylvie Guillaume","Ali Khenchaf"]},"title":"Découverte de règles ordinales.","venue":"EGC","pages":"117-128","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/GuillaumeK01","url":"https://dblp.org/rec/conf/f-egc/GuillaumeK01"},
+"url":"URL#3602823"
+},
+{
+"@score":"1",
+"@id":"3602824",
+"info":{"authors":{"author":["Rim Al Hulou","Emmanuel Nauer","Amedeo Napoli"]},"title":"XML et les systèmes de représentation de connaissances par objets pour la gestion de données semi-structurées.","venue":"EGC","pages":"363","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/HulouNN01","url":"https://dblp.org/rec/conf/f-egc/HulouNN01"},
+"url":"URL#3602824"
+},
+{
+"@score":"1",
+"@id":"3602825",
+"info":{"authors":{"author":["Radwan Jalam","Olivier Teytaud"]},"title":"Identification de la langue et catégorisation de textes basées sur les N-grammes.","venue":"EGC","pages":"227-238","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/JalamT01","url":"https://dblp.org/rec/conf/f-egc/JalamT01"},
+"url":"URL#3602825"
+},
+{
+"@score":"1",
+"@id":"3602826",
+"info":{"authors":{"author":"Michel Jambu"},"title":"Datamining et Customer Relationship Management.","venue":"EGC","pages":"31-42","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Jambu01","url":"https://dblp.org/rec/conf/f-egc/Jambu01"},
+"url":"URL#3602826"
+},
+{
+"@score":"1",
+"@id":"3602827",
+"info":{"authors":{"author":["François-Xavier Jollois","Mohamed Nadif","Franck Marchetti"]},"title":"Classification de données qualitatives.","venue":"EGC","pages":"369","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/JolloisNM01","url":"https://dblp.org/rec/conf/f-egc/JolloisNM01"},
+"url":"URL#3602827"
+},
+{
+"@score":"1",
+"@id":"3602828",
+"info":{"authors":{"author":"Yves Kodratoff"},"title":"Applications de l&apos;apprentissage automatique et de la fouille de données.","venue":"EGC","pages":"57-68","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Kodratoff01","url":"https://dblp.org/rec/conf/f-egc/Kodratoff01"},
+"url":"URL#3602828"
+},
+{
+"@score":"1",
+"@id":"3602829",
+"info":{"authors":{"author":"Anne Laurent"},"title":"De l&apos;OLAP Mining au F-OLAP Mining - représentations de données imparfaites dans les bases de données multidimensionnelles pour la fouille de données.","venue":"EGC","pages":"189-200","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/Laurent01","url":"https://dblp.org/rec/conf/f-egc/Laurent01"},
+"url":"URL#3602829"
+},
+{
+"@score":"1",
+"@id":"3602830",
+"info":{"authors":{"author":["Michel Leclère","Bruno Tixier","Francky Trichet"]},"title":"Capitaliser et partager des connaissances - une approche fondée sur l&apos;exploitation d&apos;un système à base de connaissances de type tâche/méthode.","venue":"EGC","pages":"291-302","year":"2001","type":"Conference and Workshop Papers","key":"conf/f-egc/LeclereTT01","url":"https://dblp.org/rec/conf/f-egc/LeclereTT01"},
+"url":"URL#3602830"
+}
+]
+}
+}
+}

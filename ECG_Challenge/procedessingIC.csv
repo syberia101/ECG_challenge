@@ -1,0 +1,1179 @@
+,authors,nom,prenom,rank_author,title,year
+0,Xavier Aimé,Aimé,Xavier,1,Gradient de prototypicalité lexicale : définition et cas d'application sur la terminologie des ontologies.,2012
+1,Frédéric Fürst,Fürst,Frédéric,2,Gradient de prototypicalité lexicale : définition et cas d'application sur la terminologie des ontologies.,2012
+2,Pascale Kuntz,Kuntz,Pascale,3,Gradient de prototypicalité lexicale : définition et cas d'application sur la terminologie des ontologies.,2012
+3,Francky Trichet,Trichet,Francky,4,Gradient de prototypicalité lexicale : définition et cas d'application sur la terminologie des ontologies.,2012
+4,Jean Charlet,Charlet,Jean,5,Gradient de prototypicalité lexicale : définition et cas d'application sur la terminologie des ontologies.,2012
+5,Béatrice Fuchs,Fuchs,Béatrice,1,Focaliser l'extraction d'épisodes séquentiels à partir de traces par le contexte.,2018
+6,Gaëlle Lortal,Lortal,Gaëlle,1,Soutenir la coopération par l'indexation semi-automatique d'annotations.,2006
+7,Amalia Todirascu,Todirascu,Amalia,2,Soutenir la coopération par l'indexation semi-automatique d'annotations.,2006
+8,Myriam Lewkowicz,Lewkowicz,Myriam,3,Soutenir la coopération par l'indexation semi-automatique d'annotations.,2006
+9,Amélie Cordier,Cordier,Amélie,1,Modéliser les traces d'interaction pour raisonner à partir de l'expérience tracée.,2013
+10,Marie Lefèvre,Lefèvre,Marie,2,Modéliser les traces d'interaction pour raisonner à partir de l'expérience tracée.,2013
+11,Pierre-Antoine Champin,Champin,Pierre-Antoine,3,Modéliser les traces d'interaction pour raisonner à partir de l'expérience tracée.,2013
+12,Alain Mille,Mille,Alain,4,Modéliser les traces d'interaction pour raisonner à partir de l'expérience tracée.,2013
+13,Bertrand Richard,Richard,Bertrand,1,Lecture active de documents audiovisuels : organisation de connaissances personnelles par la structuration d'annotations.,2007
+14,Yannick Prié,Prié,Yannick,2,Lecture active de documents audiovisuels : organisation de connaissances personnelles par la structuration d'annotations.,2007
+15,Sylvie Calabretto,Calabretto,Sylvie,3,Lecture active de documents audiovisuels : organisation de connaissances personnelles par la structuration d'annotations.,2007
+16,Diyé Dia,Dia,Diyé,1,Suis-je celui que je prétends être ?,2014
+17,Olivier Coupelon,Coupelon,Olivier,2,Suis-je celui que je prétends être ?,2014
+18,Yannick Loiseau,Loiseau,Yannick,3,Suis-je celui que je prétends être ?,2014
+19,Olivier Raynaud,Raynaud,Olivier,4,Suis-je celui que je prétends être ?,2014
+20,Emmanuelle Gaillard,Gaillard,Emmanuelle,1,Raisonner sur des connaissances provenant d'une e-communauté.,2013
+21,Jean Lieber,Lieber,Jean,2,Raisonner sur des connaissances provenant d'une e-communauté.,2013
+22,Yannick Naudet,Naudet,Yannick,3,Raisonner sur des connaissances provenant d'une e-communauté.,2013
+23,Emmanuel Nauer,Nauer,Emmanuel,4,Raisonner sur des connaissances provenant d'une e-communauté.,2013
+24,Pavel Arapov,Arapov,Pavel,1,"Programmer le web de données avec un ""wiki-based IDE"".",2014
+25,Michel Buffa,Buffa,Michel,2,"Programmer le web de données avec un ""wiki-based IDE"".",2014
+26,Amel Ben Othmane,Ben,Amel,3,"Programmer le web de données avec un ""wiki-based IDE"".",2014
+27,Fabienne Kettani,Kettani,Fabienne,1,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+28,Stéphane Schneider,Schneider,Stéphane,2,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+29,Sophie Aubin,Aubin,Sophie,3,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+30,Robert Bossy,Bossy,Robert,4,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+31,Claire François,François,Claire,5,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+32,Clement Jonquet,Jonquet,Clement,6,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+33,Andon Tchechmedjiev,Tchechmedjiev,Andon,7,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+34,Anne Toulet,Toulet,Anne,8,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+35,Claire Nédellec,Nédellec,Claire,9,"Projet VisaTM : l'interconnexion OpenMinTeD - AgroPortal - ISTEX, un exemple de service de Text et Data Mining pour les scientifiques français.",2018
+36,Béatrice Fuchs,Fuchs,Béatrice,1,Assister l'utilisateur à expliciter un modèle de trace avec l'analyse de concepts formels.,2017
+37,Jacques Bouaud,Bouaud,Jacques,1,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+38,Dominique Sauquet,Sauquet,Dominique,2,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+39,Philippe Giral,Giral,Philippe,3,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+40,Jacques Julien,Julien,Jacques,4,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+41,Philippe Cornet,Cornet,Philippe,5,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+42,Hector Falcoff,Falcoff,Hector,6,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+43,Brigitte Séroussi,Séroussi,Brigitte,7,Pourquoi les médecins ne suivent-ils pas les systèmes de recommandations de bonnes pratiques ? une hypothèse liée à l'utilisabilité évaluée avec le mode guidé d'ASTI.,2010
+44,Nicolas Greffard,Greffard,Nicolas,1,Vers une Ingénierie des Connaissances Personnelles - Étude de cas pour l'organisation des collections musicales.,2016
+45,Pascale Kuntz,Kuntz,Pascale,2,Vers une Ingénierie des Connaissances Personnelles - Étude de cas pour l'organisation des collections musicales.,2016
+46,Éric Languénou,Languénou,Éric,3,Vers une Ingénierie des Connaissances Personnelles - Étude de cas pour l'organisation des collections musicales.,2016
+47,Bogdan Moisuc,Moisuc,Bogdan,1,Apports de la modélisation algébrique pour la représentation de connaissances par objets : illustration en AROM.,2006
+48,Philippe Genoud,Genoud,Philippe,2,Apports de la modélisation algébrique pour la représentation de connaissances par objets : illustration en AROM.,2006
+49,Danielle Ziébelin,Ziébelin,Danielle,3,Apports de la modélisation algébrique pour la représentation de connaissances par objets : illustration en AROM.,2006
+50,Jérôme Gensel,Gensel,Jérôme,4,Apports de la modélisation algébrique pour la représentation de connaissances par objets : illustration en AROM.,2006
+51,Cécile Capponi,Capponi,Cécile,5,Apports de la modélisation algébrique pour la représentation de connaissances par objets : illustration en AROM.,2006
+52,Jacques Bouaud,Bouaud,Jacques,1,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+53,Arnaud Soulet,Soulet,Arnaud,2,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+54,Jean-Philippe Spano,Spano,Jean-Philippe,3,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+55,Jean-Pierre Lefranc,Lefranc,Jean-Pierre,4,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+56,Isabelle Cojean-Zelek,Cojean-Zelek,Isabelle,5,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+57,Brigitte Blaszka-Jaulerry,Blaszka-Jaulerry,Brigitte,6,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+58,Laurent Zelek,Zelek,Laurent,7,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+59,Axel Durieux,Durieux,Axel,8,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+60,Christophe Tournigand,Tournigand,Christophe,9,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+61,Nizar Messai,Messai,Nizar,10,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+62,Alexandra Rousseau,Rousseau,Alexandra,11,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+63,Brigitte Séroussi,Séroussi,Brigitte,12,Quels sont les patients atteints d'un cancer du sein dont la décision de prise en charge thérapeutique bénéficie de l'utilisation d'un système d'aide à la décision ? Un exemple utilisant la fouille de données et OncoDoc2.,2014
+64,Isabelle Mirbel,Mirbel,Isabelle,1,Vers une ontologie pour les communautés de développement de logiciel libre.,2008
+65,Marion Richard,Richard,Marion,1,LOVMI : vers une méthode interactive pour la validation d'ontologies.,2015
+66,Xavier Aimé,Aimé,Xavier,2,LOVMI : vers une méthode interactive pour la validation d'ontologies.,2015
+67,Marie-Odile Krebs,Krebs,Marie-Odile,3,LOVMI : vers une méthode interactive pour la validation d'ontologies.,2015
+68,Jean Charlet,Charlet,Jean,4,LOVMI : vers une méthode interactive pour la validation d'ontologies.,2015
+69,Nicolas Férey,Férey,Nicolas,1,REVIVOS: REalité VIrtuelle pour la construction de VOcabulaires Spécialisés.,2007
+70,Claire Toffano-Nioche,Toffano-Nioche,Claire,2,REVIVOS: REalité VIrtuelle pour la construction de VOcabulaires Spécialisés.,2007
+71,Oriane Matte-Tailliez,Matte-Tailliez,Oriane,3,REVIVOS: REalité VIrtuelle pour la construction de VOcabulaires Spécialisés.,2007
+72,Rachid Gherbi,Gherbi,Rachid,4,REVIVOS: REalité VIrtuelle pour la construction de VOcabulaires Spécialisés.,2007
+73,William A. Turner,A.,William,5,REVIVOS: REalité VIrtuelle pour la construction de VOcabulaires Spécialisés.,2007
+74,Fabrice Papy,Papy,Fabrice,1,Modélisation des meta-données bibliographiques : une contribution in-trumentée destinée à améliorer la circulation des usagers dans les connaissances de la bibliothèque.,2006
+75,Xavier Aimé,Aimé,Xavier,1,SEMIOSEM : une mesure de similarité conceptuelle fondée sur une approche sémiotique.,2009
+76,Frédéric Fürst,Fürst,Frédéric,2,SEMIOSEM : une mesure de similarité conceptuelle fondée sur une approche sémiotique.,2009
+77,Pascale Kuntz,Kuntz,Pascale,3,SEMIOSEM : une mesure de similarité conceptuelle fondée sur une approche sémiotique.,2009
+78,Francky Trichet,Trichet,Francky,4,SEMIOSEM : une mesure de similarité conceptuelle fondée sur une approche sémiotique.,2009
+79,Emmanuel Blanchard,Blanchard,Emmanuel,1,Vers une classification des similarités basées sur le contenu informationnel des concepts d'une hiérarchie de subsomption.,2007
+80,Mounira Harzallah,Harzallah,Mounira,2,Vers une classification des similarités basées sur le contenu informationnel des concepts d'une hiérarchie de subsomption.,2007
+81,Pascale Kuntz-Cosperec,Kuntz-Cosperec,Pascale,3,Vers une classification des similarités basées sur le contenu informationnel des concepts d'une hiérarchie de subsomption.,2007
+82,Laurie Serrano,Serrano,Laurie,1,Extraction et agrégation automatique d'événements pour la veille en sources ouvertes : du texte à la connaissance.,2013
+83,Maroua Bouzid,Bouzid,Maroua,2,Extraction et agrégation automatique d'événements pour la veille en sources ouvertes : du texte à la connaissance.,2013
+84,Thierry Charnois,Charnois,Thierry,3,Extraction et agrégation automatique d'événements pour la veille en sources ouvertes : du texte à la connaissance.,2013
+85,Stephan Brunessaux,Brunessaux,Stephan,4,Extraction et agrégation automatique d'événements pour la veille en sources ouvertes : du texte à la connaissance.,2013
+86,Bruno Grilhères,Grilhères,Bruno,5,Extraction et agrégation automatique d'événements pour la veille en sources ouvertes : du texte à la connaissance.,2013
+87,Houda Khrouf,Khrouf,Houda,1,Réconcilier les événements dans le web de données.,2011
+88,Raphaël Troncy,Troncy,Raphaël,2,Réconcilier les événements dans le web de données.,2011
+89,Rim Djedidi,Djedidi,Rim,1,Enrichissement d'ontologies : maintenance de la consistance et évaluation de la qualité.,2008
+90,Marie-Aude Aufaure,Aufaure,Marie-Aude,2,Enrichissement d'ontologies : maintenance de la consistance et évaluation de la qualité.,2008
+91,Jacques Bouaud,Bouaud,Jacques,1,Impact de la réactualisation de recommandations de pratiques cliniques sur l'évolution d'une base de connaissances.,2008
+92,Brigitte Séroussi,Séroussi,Brigitte,2,Impact de la réactualisation de recommandations de pratiques cliniques sur l'évolution d'une base de connaissances.,2008
+93,Ambre Brizon,Brizon,Ambre,3,Impact de la réactualisation de recommandations de pratiques cliniques sur l'évolution d'une base de connaissances.,2008
+94,Adama Sow,Sow,Adama,1,Intégration d'ontologies médicales : améloriation par association des maladies humaines à leurs plus pertinents signes caratéristiques.,2018
+95,Abdoulaye Guissé,Guissé,Abdoulaye,2,Intégration d'ontologies médicales : améloriation par association des maladies humaines à leurs plus pertinents signes caratéristiques.,2018
+96,Oumar Niang,Niang,Oumar,3,Intégration d'ontologies médicales : améloriation par association des maladies humaines à leurs plus pertinents signes caratéristiques.,2018
+97,Xavier Aimé,Aimé,Xavier,1,Eléments de réflexion sur l'utilisation de corpus pour la construction d'ontologies.,2015
+98,Jean-François Viaud,Viaud,Jean-François,1,Décomposition sous-directe d'un treillis en facteurs irréductibles.,2015
+99,Karell Bertet,Bertet,Karell,2,Décomposition sous-directe d'un treillis en facteurs irréductibles.,2015
+100,Christophe Demko,Demko,Christophe,3,Décomposition sous-directe d'un treillis en facteurs irréductibles.,2015
+101,Rokia Missaoui,Missaoui,Rokia,4,Décomposition sous-directe d'un treillis en facteurs irréductibles.,2015
+102,Jean-Claude Xheneumont,Xheneumont,Jean-Claude,1,"Les compétences comme valeurs communes de l'emploi, éducation et formation.",2007
+103,Thierry Vermeeren,Vermeeren,Thierry,2,"Les compétences comme valeurs communes de l'emploi, éducation et formation.",2007
+104,Fabien Gandon,Gandon,Fabien,1,Un modèle d'index pour la résolution distribuée de requêtes sur un nombre restreint de bases d'annotations RDF.,2008
+105,Moussa Lo,Lo,Moussa,2,Un modèle d'index pour la résolution distribuée de requêtes sur un nombre restreint de bases d'annotations RDF.,2008
+106,Cheikh Niang,Niang,Cheikh,3,Un modèle d'index pour la résolution distribuée de requêtes sur un nombre restreint de bases d'annotations RDF.,2008
+107,Sylvie Desprès,Desprès,Sylvie,1,Des primitives visuelles pour l'assistance aux échanges entre experts et ontologues.,2016
+108,Jérôme Nobécourt,Nobécourt,Jérôme,2,Des primitives visuelles pour l'assistance aux échanges entre experts et ontologues.,2016
+109,Fanny Rigour,Rigour,Fanny,3,Des primitives visuelles pour l'assistance aux échanges entre experts et ontologues.,2016
+110,Alice Hermann,Hermann,Alice,1,Aide à la création d'objets dans une base RDF(S) avec des règles de relaxation.,2012
+111,Sébastien Ferré,Ferré,Sébastien,2,Aide à la création d'objets dans une base RDF(S) avec des règles de relaxation.,2012
+112,Mireille Ducassé,Ducassé,Mireille,3,Aide à la création d'objets dans une base RDF(S) avec des règles de relaxation.,2012
+113,Benjamin Huynh-Kim-Bang,Huynh-Kim-Bang,Benjamin,1,Social bookmarking et tags structurés.,2008
+114,Eric Dané,Dané,Eric,2,Social bookmarking et tags structurés.,2008
+115,Raafat Zarka,Zarka,Raafat,1,Trace replay with change propagation impact in client/server applications.,2011
+116,Amélie Cordier,Cordier,Amélie,2,Trace replay with change propagation impact in client/server applications.,2011
+117,ElOd Egyed-Zsigmond,Egyed-Zsigmond,ElOd,3,Trace replay with change propagation impact in client/server applications.,2011
+118,Alain Mille,Mille,Alain,4,Trace replay with change propagation impact in client/server applications.,2011
+119,Gilles Kassel,Kassel,Gilles,1,Une alternative à la distinction 'continuant' vs 'occurrent'.,2018
+120,Mohamed Nader Jelassi,Nader,Mohamed,1,Étude du profil utilisateur pour la recommandation dans les folksonomies.,2016
+121,Sadok Ben Yahia,Ben,Sadok,2,Étude du profil utilisateur pour la recommandation dans les folksonomies.,2016
+122,Engelbert Mephu Nguifo,Mephu,Engelbert,3,Étude du profil utilisateur pour la recommandation dans les folksonomies.,2016
+123,Radouan Dahbi,Dahbi,Radouan,1,Modélisation de connaissances métier pour la classification de pièces de bois.,2018
+124,Vincent Bombardier,Bombardier,Vincent,2,Modélisation de connaissances métier pour la classification de pièces de bois.,2018
+125,David Brie,Brie,David,3,Modélisation de connaissances métier pour la classification de pièces de bois.,2018
+126,Eric Masson,Masson,Eric,4,Modélisation de connaissances métier pour la classification de pièces de bois.,2018
+127,Namrata Patel,Patel,Namrata,1,Une approche hybride pour la détection d'influenceurs dans les médias sociaux.,2017
+128,Cédric Lopez,Lopez,Cédric,2,Une approche hybride pour la détection d'influenceurs dans les médias sociaux.,2017
+129,Ioannis Partalas,Partalas,Ioannis,3,Une approche hybride pour la détection d'influenceurs dans les médias sociaux.,2017
+130,Frédérique Segond,Segond,Frédérique,4,Une approche hybride pour la détection d'influenceurs dans les médias sociaux.,2017
+131,Mathilde Thébault,Thébault,Mathilde,1,VigiTermes : une plateforme de recherche et d'analyse des publications scientifiques au service de la pharmacovigilance.,2010
+132,Florence Amardeilh,Amardeilh,Florence,2,VigiTermes : une plateforme de recherche et d'analyse des publications scientifiques au service de la pharmacovigilance.,2010
+133,Denis Delamarre,Delamarre,Denis,3,VigiTermes : une plateforme de recherche et d'analyse des publications scientifiques au service de la pharmacovigilance.,2010
+134,Sylvie Guillemin-Lanne,Guillemin-Lanne,Sylvie,4,VigiTermes : une plateforme de recherche et d'analyse des publications scientifiques au service de la pharmacovigilance.,2010
+135,Anne Jamet,Jamet,Anne,5,VigiTermes : une plateforme de recherche et d'analyse des publications scientifiques au service de la pharmacovigilance.,2010
+136,Agnès Lillo-Le Louët,Lillo-Le,Agnès,6,VigiTermes : une plateforme de recherche et d'analyse des publications scientifiques au service de la pharmacovigilance.,2010
+137,Amina Saoutal,Saoutal,Amina,1,Vers une cartographie participative basée sur la communication transversale des acteurs dans les situations de crise.,2014
+138,Jean-Pierre Cahier,Cahier,Jean-Pierre,2,Vers une cartographie participative basée sur la communication transversale des acteurs dans les situations de crise.,2014
+139,Nada Matta,Matta,Nada,3,Vers une cartographie participative basée sur la communication transversale des acteurs dans les situations de crise.,2014
+140,Fabien Gandon,Gandon,Fabien,1,Le Web sémantique n'est pas antisocial.,2006
+141,Vincenzo Daponte,Daponte,Vincenzo,1,Une ontologie pour la formalisation et la visualisation des connaissances scientifiques.,2018
+142,Gilles Falquet,Falquet,Gilles,2,Une ontologie pour la formalisation et la visualisation des connaissances scientifiques.,2018
+143,Yaya Traore,Traore,Yaya,1,Approche de découverte de nouvelles catégories dans un wiki sémantique basée sur les motifs fréquents.,2015
+144,Sadouanouan Malo,Malo,Sadouanouan,2,Approche de découverte de nouvelles catégories dans un wiki sémantique basée sur les motifs fréquents.,2015
+145,Cheikh Talibouya Diop,Talibouya,Cheikh,3,Approche de découverte de nouvelles catégories dans un wiki sémantique basée sur les motifs fréquents.,2015
+146,Moussa Lo,Lo,Moussa,4,Approche de découverte de nouvelles catégories dans un wiki sémantique basée sur les motifs fréquents.,2015
+147,Stanislas Ouaro,Ouaro,Stanislas,5,Approche de découverte de nouvelles catégories dans un wiki sémantique basée sur les motifs fréquents.,2015
+148,Claude Moulin,Moulin,Claude,1,Le projet ECOPACK : environnement socio-technique support à une analyse stratégique.,2017
+149,Marie-Hélène Abel,Abel,Marie-Hélène,2,Le projet ECOPACK : environnement socio-technique support à une analyse stratégique.,2017
+150,Véronique Misséri,Misséri,Véronique,3,Le projet ECOPACK : environnement socio-technique support à une analyse stratégique.,2017
+151,Ines Jilani,Jilani,Ines,1,Enrichissement automatique d'une base de connaissances biologiques à l'aide des outils du Web sémantique.,2009
+152,Florence Amardeilh,Amardeilh,Florence,2,Enrichissement automatique d'une base de connaissances biologiques à l'aide des outils du Web sémantique.,2009
+153,Julie Bourbeillon,Bourbeillon,Julie,1,Construction semi-automatique d'une ontologie de la perception des paysages.,2013
+154,Laëtitia Piel,Piel,Laëtitia,2,Construction semi-automatique d'une ontologie de la perception des paysages.,2013
+155,Ramla El Ayeb,El,Ramla,3,Construction semi-automatique d'une ontologie de la perception des paysages.,2013
+156,Damien Rousselière,Rousselière,Damien,4,Construction semi-automatique d'une ontologie de la perception des paysages.,2013
+157,Thomas Guyet,Guyet,Thomas,5,Construction semi-automatique d'une ontologie de la perception des paysages.,2013
+158,Fabien Jalabert,Jalabert,Fabien,1,Environnement d'ingénierie des connaissances : intégration et visualisation dans le domaine du vivant.,2006
+159,Sylvie Ranwez,Ranwez,Sylvie,2,Environnement d'ingénierie des connaissances : intégration et visualisation dans le domaine du vivant.,2006
+160,Michel Crampes,Crampes,Michel,3,Environnement d'ingénierie des connaissances : intégration et visualisation dans le domaine du vivant.,2006
+161,Vincent Derozier,Derozier,Vincent,4,Environnement d'ingénierie des connaissances : intégration et visualisation dans le domaine du vivant.,2006
+162,Catherine Dominguès,Dominguès,Catherine,1,Du besoin de l'utilisateur à la spécification de sa carte.,2007
+163,Julien Plu,Plu,Julien,1,ADEL : une méthode adaptative de désambiguïsation d'entités nommées.,2017
+164,Raphaël Troncy,Troncy,Raphaël,2,ADEL : une méthode adaptative de désambiguïsation d'entités nommées.,2017
+165,Giuseppe Rizzo 0002,Rizzo,Giuseppe,3,ADEL : une méthode adaptative de désambiguïsation d'entités nommées.,2017
+166,Valentina Beretta,Beretta,Valentina,1,Utilisation d'ontologies pour la quête de vérité : une étude expérimentale.,2016
+167,Sébastien Harispe,Harispe,Sébastien,2,Utilisation d'ontologies pour la quête de vérité : une étude expérimentale.,2016
+168,Sylvie Ranwez,Ranwez,Sylvie,3,Utilisation d'ontologies pour la quête de vérité : une étude expérimentale.,2016
+169,Isabelle Mougenot,Mougenot,Isabelle,4,Utilisation d'ontologies pour la quête de vérité : une étude expérimentale.,2016
+170,Damien De Nizza,De,Damien,1,Formalisation et Construction d'une Ontologie dans le Domaine des Infections Orthopédiques.,2013
+171,James Jerson Ortiz,Jerson,James,2,Formalisation et Construction d'une Ontologie dans le Domaine des Infections Orthopédiques.,2013
+172,Hubert Meurisse,Meurisse,Hubert,3,Formalisation et Construction d'une Ontologie dans le Domaine des Infections Orthopédiques.,2013
+173,Pierre-Yves Schobbens,Schobbens,Pierre-Yves,4,Formalisation et Construction d'une Ontologie dans le Domaine des Infections Orthopédiques.,2013
+174,Brigitte Séroussi,Séroussi,Brigitte,1,Une modélisation qualitative de la plausibilité du diagnostic de pneumopathie médicamenteuse.,2007
+175,Jacques Bouaud,Bouaud,Jacques,2,Une modélisation qualitative de la plausibilité du diagnostic de pneumopathie médicamenteuse.,2007
+176,Huguette Lioté,Lioté,Huguette,3,Une modélisation qualitative de la plausibilité du diagnostic de pneumopathie médicamenteuse.,2007
+177,Charles Mayaud,Mayaud,Charles,4,Une modélisation qualitative de la plausibilité du diagnostic de pneumopathie médicamenteuse.,2007
+178,Thibault Mondary,Mondary,Thibault,1,Construction d'ontologies à partir de textes : la phase de conceptualisation.,2008
+179,Sylvie Desprès,Desprès,Sylvie,2,Construction d'ontologies à partir de textes : la phase de conceptualisation.,2008
+180,Adeline Nazarenko,Nazarenko,Adeline,3,Construction d'ontologies à partir de textes : la phase de conceptualisation.,2008
+181,Sylvie Szulman,Szulman,Sylvie,4,Construction d'ontologies à partir de textes : la phase de conceptualisation.,2008
+182,Rémy Kessler,Kessler,Rémy,1,Exploration par apprentissage de discussions de personnes en détresse psychologique.,2018
+183,Nicolas Béchet,Béchet,Nicolas,2,Exploration par apprentissage de discussions de personnes en détresse psychologique.,2018
+184,Gudrun Ledegen,Ledegen,Gudrun,3,Exploration par apprentissage de discussions de personnes en détresse psychologique.,2018
+185,Frédéric Pugniere-Saavedra,Pugniere-Saavedra,Frédéric,4,Exploration par apprentissage de discussions de personnes en détresse psychologique.,2018
+186,Élodie Thiéblin,Thiéblin,Élodie,1,Vers une approche pour la reformulation automatique de requêtes à partir d'alignements complexes.,2016
+187,Fabien Amarger,Amarger,Fabien,2,Vers une approche pour la reformulation automatique de requêtes à partir d'alignements complexes.,2016
+188,Ollivier Haemmerlé,Haemmerlé,Ollivier,3,Vers une approche pour la reformulation automatique de requêtes à partir d'alignements complexes.,2016
+189,Nathalie Hernandez,Hernandez,Nathalie,4,Vers une approche pour la reformulation automatique de requêtes à partir d'alignements complexes.,2016
+190,Cássia Trojahn,Trojahn,Cássia,5,Vers une approche pour la reformulation automatique de requêtes à partir d'alignements complexes.,2016
+191,Nicolas Seydoux,Seydoux,Nicolas,1,Sémantique et Internet des objets : d'un état de l'art à une ontologie modulaire.,2015
+192,Mahdi Ben Alaya,Ben,Mahdi,2,Sémantique et Internet des objets : d'un état de l'art à une ontologie modulaire.,2015
+193,Nathalie Hernandez,Hernandez,Nathalie,3,Sémantique et Internet des objets : d'un état de l'art à une ontologie modulaire.,2015
+194,Thierry Monteil 0001,Monteil,Thierry,4,Sémantique et Internet des objets : d'un état de l'art à une ontologie modulaire.,2015
+195,Ollivier Haemmerlé,Haemmerlé,Ollivier,5,Sémantique et Internet des objets : d'un état de l'art à une ontologie modulaire.,2015
+196,Nicolas Guelfi,Guelfi,Nicolas,1,Les ontologies pour la recherche ciblée d'information sur le Web : une utilisation et extension d'OWL pour l'expansion de requêtes.,2007
+197,Cédric Pruski,Pruski,Cédric,2,Les ontologies pour la recherche ciblée d'information sur le Web : une utilisation et extension d'OWL pour l'expansion de requêtes.,2007
+198,Chantal Reynaud,Reynaud,Chantal,3,Les ontologies pour la recherche ciblée d'information sur le Web : une utilisation et extension d'OWL pour l'expansion de requêtes.,2007
+199,Khaled Khelif,Khelif,Khaled,1,Vers une personnalisation de la navigation par l'apprentissage de profils utilisateurs.,2008
+200,Yassine Mrabet,Mrabet,Yassine,2,Vers une personnalisation de la navigation par l'apprentissage de profils utilisateurs.,2008
+201,Rose Dieng-Kuntz,Dieng-Kuntz,Rose,3,Vers une personnalisation de la navigation par l'apprentissage de profils utilisateurs.,2008
+202,Nicolas Moreau,Moreau,Nicolas,1,Annotation formelle graphique de documents multimédia.,2007
+203,Michel Leclère,Leclère,Michel,2,Annotation formelle graphique de documents multimédia.,2007
+204,Michel Chein,Chein,Michel,3,Annotation formelle graphique de documents multimédia.,2007
+205,Alain Gutierrez,Gutierrez,Alain,4,Annotation formelle graphique de documents multimédia.,2007
+206,Olivier Corby,Corby,Olivier,1,Démarches sémantiques de recherche d'information sur le Web.,2009
+207,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,Démarches sémantiques de recherche d'information sur le Web.,2009
+208,Isabelle Mirbel,Mirbel,Isabelle,3,Démarches sémantiques de recherche d'information sur le Web.,2009
+209,Sylvie Desprès,Desprès,Sylvie,1,Construction d'une ontologie modulaire pour l'univers de la cuisine numérique.,2014
+210,Pascal Lando,Lando,Pascal,1,Premiers pas vers une ontologie générale des programmes informatiques.,2007
+211,Frédéric Fürst,Fürst,Frédéric,2,Premiers pas vers une ontologie générale des programmes informatiques.,2007
+212,Gilles Kassel,Kassel,Gilles,3,Premiers pas vers une ontologie générale des programmes informatiques.,2007
+213,Anne Lapujade,Lapujade,Anne,4,Premiers pas vers une ontologie générale des programmes informatiques.,2007
+214,Brigitte Séroussi,Séroussi,Brigitte,1,Formalisation de l'attitude des médecins vis à vis des propositions d'un système d'aide à la décision : évaluation de l'« e-iatrogénie » sur un cas d'hypertension avec ASTI mode guidé.,2011
+215,Dominique Sauquet,Sauquet,Dominique,2,Formalisation de l'attitude des médecins vis à vis des propositions d'un système d'aide à la décision : évaluation de l'« e-iatrogénie » sur un cas d'hypertension avec ASTI mode guidé.,2011
+216,Hector Falcoff,Falcoff,Hector,3,Formalisation de l'attitude des médecins vis à vis des propositions d'un système d'aide à la décision : évaluation de l'« e-iatrogénie » sur un cas d'hypertension avec ASTI mode guidé.,2011
+217,Jacques Julien,Julien,Jacques,4,Formalisation de l'attitude des médecins vis à vis des propositions d'un système d'aide à la décision : évaluation de l'« e-iatrogénie » sur un cas d'hypertension avec ASTI mode guidé.,2011
+218,Jacques Bouaud,Bouaud,Jacques,5,Formalisation de l'attitude des médecins vis à vis des propositions d'un système d'aide à la décision : évaluation de l'« e-iatrogénie » sur un cas d'hypertension avec ASTI mode guidé.,2011
+219,Anne-Lyse Minard,Minard,Anne-Lyse,1,Extraction de relations dans des comptes rendus hospitaliers.,2011
+220,Anne-Laure Ligozat,Ligozat,Anne-Laure,2,Extraction de relations dans des comptes rendus hospitaliers.,2011
+221,Brigitte Grau,Grau,Brigitte,3,Extraction de relations dans des comptes rendus hospitaliers.,2011
+222,François Rousselot,Rousselot,François,1,Formalisation des connaissances capitalisées en conception inventive.,2008
+223,Alexis Bultey,Bultey,Alexis,2,Formalisation des connaissances capitalisées en conception inventive.,2008
+224,Cecilia Zanni,Zanni,Cecilia,3,Formalisation des connaissances capitalisées en conception inventive.,2008
+225,Majd Saleh,Saleh,Majd,1,Système de systèmes d'information et écosystème apprenant.,2017
+226,Mohamed Ali Ben Ameur,Ali,Mohamed,2,Système de systèmes d'information et écosystème apprenant.,2017
+227,Marie-Hélène Abel,Abel,Marie-Hélène,3,Système de systèmes d'information et écosystème apprenant.,2017
+228,Michel Crampes,Crampes,Michel,1,Cartographie sémantique auto-organisée d'un référentiel de connaissances partagé.,2008
+229,Sylvie Ranwez,Ranwez,Sylvie,2,Cartographie sémantique auto-organisée d'un référentiel de connaissances partagé.,2008
+230,Jean Villerd,Villerd,Jean,3,Cartographie sémantique auto-organisée d'un référentiel de connaissances partagé.,2008
+231,Norbert Tsopzé,Tsopzé,Norbert,1,Ontologies et relations spatiales dans la lecture d'une bande dessinée.,2012
+232,Clément Guérin,Guérin,Clément,2,Ontologies et relations spatiales dans la lecture d'une bande dessinée.,2012
+233,Karell Bertet,Bertet,Karell,3,Ontologies et relations spatiales dans la lecture d'une bande dessinée.,2012
+234,Arnaud Revel,Revel,Arnaud,4,Ontologies et relations spatiales dans la lecture d'une bande dessinée.,2012
+235,Rabia Azzi,Azzi,Rabia,1,D'un modèle statistique à un modè le de connaissance : retour d'expérience.,2018
+236,Sylvie Desprès,Desprès,Sylvie,2,D'un modèle statistique à un modè le de connaissance : retour d'expérience.,2018
+237,Jérôme Nobécourt,Nobécourt,Jérôme,3,D'un modèle statistique à un modè le de connaissance : retour d'expérience.,2018
+238,Patrice Bouvier,Bouvier,Patrice,1,Approche qualitative pour identifier et qualifier l'engagement des joueurs à partir de leurs traces d'interaction.,2013
+239,Karim Sehaba,Sehaba,Karim,2,Approche qualitative pour identifier et qualifier l'engagement des joueurs à partir de leurs traces d'interaction.,2013
+240,Élise Lavoué,Lavoué,Élise,3,Approche qualitative pour identifier et qualifier l'engagement des joueurs à partir de leurs traces d'interaction.,2013
+241,Sébastien George,George,Sébastien,4,Approche qualitative pour identifier et qualifier l'engagement des joueurs à partir de leurs traces d'interaction.,2013
+242,Helbert Arenas,Arenas,Helbert,1,Ontologie pour l'intégration de données d'observation de la Terre et contextuelles basée sur les relations topologiques.,2018
+243,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,2,Ontologie pour l'intégration de données d'observation de la Terre et contextuelles basée sur les relations topologiques.,2018
+244,Catherine Comparot,Comparot,Catherine,3,Ontologie pour l'intégration de données d'observation de la Terre et contextuelles basée sur les relations topologiques.,2018
+245,Cássia Trojahn,Trojahn,Cássia,4,Ontologie pour l'intégration de données d'observation de la Terre et contextuelles basée sur les relations topologiques.,2018
+246,Leila Yahiaoui,Yahiaoui,Leila,1,Redocumentation des traces d'activité médiée informatiquement dans le cadre des transactions communicationnelles.,2008
+247,Yannick Prié,Prié,Yannick,2,Redocumentation des traces d'activité médiée informatiquement dans le cadre des transactions communicationnelles.,2008
+248,Zizette Boufaïda,Boufaïda,Zizette,3,Redocumentation des traces d'activité médiée informatiquement dans le cadre des transactions communicationnelles.,2008
+249,Axel Reymonet,Reymonet,Axel,1,"Tâche, domaine et application : influences sur le processus de modélisation de connaissances.",2006
+250,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,2,"Tâche, domaine et application : influences sur le processus de modélisation de connaissances.",2006
+251,Jérôme Thomas,Thomas,Jérôme,3,"Tâche, domaine et application : influences sur le processus de modélisation de connaissances.",2006
+252,Olivier Carloni,Carloni,Olivier,1,Introduction de raisonnement dans un outil de gestion des connaissances basé sur les Topic Maps.,2006
+253,Michel Leclère,Leclère,Michel,2,Introduction de raisonnement dans un outil de gestion des connaissances basé sur les Topic Maps.,2006
+254,Marie-Laure Mugnier,Mugnier,Marie-Laure,3,Introduction de raisonnement dans un outil de gestion des connaissances basé sur les Topic Maps.,2006
+255,Molka Tounsi,Tounsi,Molka,1,Construction d'ontologie pour le domaine du sourcing.,2018
+256,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,Construction d'ontologie pour le domaine du sourcing.,2018
+257,Andrea Tettamanzi,Tettamanzi,Andrea,3,Construction d'ontologie pour le domaine du sourcing.,2018
+258,Nicolas Béchet,Béchet,Nicolas,1,Construction et peuplement de structures hiérarchiques de concepts dans le domaine du e-tourisme.,2011
+259,Marie-Aude Aufaure,Aufaure,Marie-Aude,2,Construction et peuplement de structures hiérarchiques de concepts dans le domaine du e-tourisme.,2011
+260,Yves Lechevallier,Lechevallier,Yves,3,Construction et peuplement de structures hiérarchiques de concepts dans le domaine du e-tourisme.,2011
+261,Yahaya Alassan Mahaman Sanoussi,Alassan,Yahaya,1,Construction de ressources sémantiques pour l'amélioration de la qualité du clustering de messages courts.,2016
+262,Étienne Deparis,Deparis,Étienne,1,Modélisation sociale d'une organisation et usage de son réseau.,2013
+263,Marie-Hélène Abel,Abel,Marie-Hélène,2,Modélisation sociale d'une organisation et usage de son réseau.,2013
+264,Gaëlle Lortal,Lortal,Gaëlle,3,Modélisation sociale d'une organisation et usage de son réseau.,2013
+265,Juliette Mattioli,Mattioli,Juliette,4,Modélisation sociale d'une organisation et usage de son réseau.,2013
+266,Michel Leclère,Leclère,Michel,1,Différentes notions de réponses pour un système d'interrogation de bases de graphes.,2008
+267,Nicolas Moreau,Moreau,Nicolas,2,Différentes notions de réponses pour un système d'interrogation de bases de graphes.,2008
+268,Daniel Memmi,Memmi,Daniel,1,Modeling Social Information Skills.,2007
+269,Nizar Messai,Messai,Nizar,1,Traitement d'attributs inter-dépendants pour la recherche d'information par treillis.,2007
+270,Marie-Dominique Devignes,Devignes,Marie-Dominique,2,Traitement d'attributs inter-dépendants pour la recherche d'information par treillis.,2007
+271,Amedeo Napoli,Napoli,Amedeo,3,Traitement d'attributs inter-dépendants pour la recherche d'information par treillis.,2007
+272,Malika Smaïl-Tabbone,Smaïl-Tabbone,Malika,4,Traitement d'attributs inter-dépendants pour la recherche d'information par treillis.,2007
+273,Cédric Lopez,Lopez,Cédric,1,"OntoCoins : données ouvertes liées pour la numismatique, patrimoine culturel.",2017
+274,Marie-Laure Le Brazidec,Le,Marie-Laure,2,"OntoCoins : données ouvertes liées pour la numismatique, patrimoine culturel.",2017
+275,Jean-Albert Chevillon,Chevillon,Jean-Albert,3,"OntoCoins : données ouvertes liées pour la numismatique, patrimoine culturel.",2017
+276,Francis Couturas,Couturas,Francis,4,"OntoCoins : données ouvertes liées pour la numismatique, patrimoine culturel.",2017
+277,Dominique Hollard,Hollard,Dominique,5,"OntoCoins : données ouvertes liées pour la numismatique, patrimoine culturel.",2017
+278,Aurélien Pierre,Pierre,Aurélien,6,"OntoCoins : données ouvertes liées pour la numismatique, patrimoine culturel.",2017
+279,François Rousselot,Rousselot,François,1,Une Base de Connaissances Opérationnelle pour la Conception Inventive.,2011
+280,François de Bertrand de Beuvron,de,François,2,Une Base de Connaissances Opérationnelle pour la Conception Inventive.,2011
+281,Cecilia Zanni-Merk,Zanni-Merk,Cecilia,3,Une Base de Connaissances Opérationnelle pour la Conception Inventive.,2011
+282,Anastasiya Yurchyshyna,Yurchyshyna,Anastasiya,1,Une approche ontologique pour formaliser la connaissance experte dans le modèle du contrôle de conformité en construction.,2008
+283,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,Une approche ontologique pour formaliser la connaissance experte dans le modèle du contrôle de conformité en construction.,2008
+284,Isabelle Mirbel,Mirbel,Isabelle,3,Une approche ontologique pour formaliser la connaissance experte dans le modèle du contrôle de conformité en construction.,2008
+285,Birahim Sall,Sall,Birahim,4,Une approche ontologique pour formaliser la connaissance experte dans le modèle du contrôle de conformité en construction.,2008
+286,Nhan Le Thanh,Le,Nhan,5,Une approche ontologique pour formaliser la connaissance experte dans le modèle du contrôle de conformité en construction.,2008
+287,Alain Zarli,Zarli,Alain,6,Une approche ontologique pour formaliser la connaissance experte dans le modèle du contrôle de conformité en construction.,2008
+288,Sébastien Ferré,Ferré,Sébastien,1,Conception interactive d'ontologies par élimination de mondes possibles.,2015
+289,Pierre-Yves Vandenbussche,Vandenbussche,Pierre-Yves,1,Méta-modèle général de description de ressources terminologiques et ontologiques.,2009
+290,Jean Charlet,Charlet,Jean,2,Méta-modèle général de description de ressources terminologiques et ontologiques.,2009
+291,Julien Corman,Corman,Julien,1,Explorer les théorèmes d'une Tbox.,2013
+292,Nadia Nadah,Nadah,Nadia,1,Expression générique des licences : l'apport de l'ontologie.,2007
+293,Bruno Bachimont,Bachimont,Bruno,2,Expression générique des licences : l'apport de l'ontologie.,2007
+294,Sahbi Zahaf,Zahaf,Sahbi,1,Mémoire organisationnelle appuyée par un cadre ontologique pour l'exploitation des processus d'affaires : application au processus RAO.,2013
+295,Faïez Gargouri,Gargouri,Faïez,2,Mémoire organisationnelle appuyée par un cadre ontologique pour l'exploitation des processus d'affaires : application au processus RAO.,2013
+296,Nizar Messai,Messai,Nizar,1,Connaissances de domaine et treillis de concepts pour l'exploration progressive de données complexes.,2010
+297,Marie-Dominique Devignes,Devignes,Marie-Dominique,2,Connaissances de domaine et treillis de concepts pour l'exploration progressive de données complexes.,2010
+298,Amedeo Napoli,Napoli,Amedeo,3,Connaissances de domaine et treillis de concepts pour l'exploration progressive de données complexes.,2010
+299,Malika Smaïl-Tabbone,Smaïl-Tabbone,Malika,4,Connaissances de domaine et treillis de concepts pour l'exploration progressive de données complexes.,2010
+300,Amélie Cordier,Cordier,Amélie,1,De l'Ingénierie à l'Apprentissage des connaissances d'adaptation en Raisonnement à Partir de Cas.,2006
+301,Béatrice Fuchs,Fuchs,Béatrice,2,De l'Ingénierie à l'Apprentissage des connaissances d'adaptation en Raisonnement à Partir de Cas.,2006
+302,Alain Mille,Mille,Alain,3,De l'Ingénierie à l'Apprentissage des connaissances d'adaptation en Raisonnement à Partir de Cas.,2006
+303,Mohamed Ramzi Haddad,Ramzi,Mohamed,1,Un modèle de recommandation contextuel pour la prédiction des intérêts des consommateurs sur le Web.,2015
+304,Hajer Baazaoui Zghal,Baazaoui,Hajer,2,Un modèle de recommandation contextuel pour la prédiction des intérêts des consommateurs sur le Web.,2015
+305,Djemel Ziou,Ziou,Djemel,3,Un modèle de recommandation contextuel pour la prédiction des intérêts des consommateurs sur le Web.,2015
+306,Henda Ben Ghézala,Ben,Henda,4,Un modèle de recommandation contextuel pour la prédiction des intérêts des consommateurs sur le Web.,2015
+307,Alain Giboin,Giboin,Alain,1,Etude de l'évolution du modèle de l'utilisateur des systèmes de construction collaborative d'ontologies.,2018
+308,Mohamed Nader Jelassi,Nader,Mohamed,1,Un outil de catégorisation conceptuelle des formations professionnelles.,2017
+309,Sylvie Ranwez,Ranwez,Sylvie,2,Un outil de catégorisation conceptuelle des formations professionnelles.,2017
+310,Sébastien Harispe,Harispe,Sébastien,3,Un outil de catégorisation conceptuelle des formations professionnelles.,2017
+311,Jacky Montmain,Montmain,Jacky,4,Un outil de catégorisation conceptuelle des formations professionnelles.,2017
+312,Christophe Blondeau,Blondeau,Christophe,5,Un outil de catégorisation conceptuelle des formations professionnelles.,2017
+313,Michel Buffa,Buffa,Michel,1,Wiki et Web Sémantique.,2007
+314,Guillaume Erétéo,Erétéo,Guillaume,2,Wiki et Web Sémantique.,2007
+315,Fabien L. Gandon,L.,Fabien,3,Wiki et Web Sémantique.,2007
+316,Marc Caillet,Caillet,Marc,1,Un système expert d'aide à la classification taxonomique de classes de descripteurs.,2007
+317,Guillaume Surroca,Surroca,Guillaume,1,"Diffusion de systèmes de préférence par confrontation de points de vue, vers une simulation de la Sérendipité.",2015
+318,Philippe Lemoisson,Lemoisson,Philippe,2,"Diffusion de systèmes de préférence par confrontation de points de vue, vers une simulation de la Sérendipité.",2015
+319,Clément Jonquet,Jonquet,Clément,3,"Diffusion de systèmes de préférence par confrontation de points de vue, vers une simulation de la Sérendipité.",2015
+320,Stefano A. Cerri,A.,Stefano,4,"Diffusion de systèmes de préférence par confrontation de points de vue, vers une simulation de la Sérendipité.",2015
+321,Yue Ma,Ma,Yue,1,Ontologies étendues pour l'annotation sémantique.,2009
+322,Laurent Audibert,Audibert,Laurent,2,Ontologies étendues pour l'annotation sémantique.,2009
+323,Adeline Nazarenko,Nazarenko,Adeline,3,Ontologies étendues pour l'annotation sémantique.,2009
+324,Rim Djedidi,Djedidi,Rim,1,Patrons de gestion des changements OWL.,2009
+325,Marie-Aude Aufaure,Aufaure,Marie-Aude,2,Patrons de gestion des changements OWL.,2009
+326,Amélie Cordier,Cordier,Amélie,1,"Concevoir des assistants intelligents pour des applications fortement orientées connaissances : problématiques, enjeux et étude de cas.",2010
+327,Marie Lefèvre,Lefèvre,Marie,2,"Concevoir des assistants intelligents pour des applications fortement orientées connaissances : problématiques, enjeux et étude de cas.",2010
+328,Stéphanie Jean-Daubias,Jean-Daubias,Stéphanie,3,"Concevoir des assistants intelligents pour des applications fortement orientées connaissances : problématiques, enjeux et étude de cas.",2010
+329,Nathalie Guin,Guin,Nathalie,4,"Concevoir des assistants intelligents pour des applications fortement orientées connaissances : problématiques, enjeux et étude de cas.",2010
+330,Florence Amardeilh,Amardeilh,Florence,1,Du texte à la connaissance : annotation sémantique et peuplement d'ontologie appliqués à des artefacts logiciels.,2009
+331,Danica Damljanovic,Damljanovic,Danica,2,Du texte à la connaissance : annotation sémantique et peuplement d'ontologie appliqués à des artefacts logiciels.,2009
+332,Mohamed Nader Jelassi,Nader,Mohamed,1,PERSOREC : un système personnalisé de recommandations pour les folksonomies basé sur les concepts quadratiques.,2015
+333,Sadok Ben Yahia,Ben,Sadok,2,PERSOREC : un système personnalisé de recommandations pour les folksonomies basé sur les concepts quadratiques.,2015
+334,Engelbert Mephu Nguifo,Mephu,Engelbert,3,PERSOREC : un système personnalisé de recommandations pour les folksonomies basé sur les concepts quadratiques.,2015
+335,Anis Ellini,Ellini,Anis,1,Une expérience originale de test automatisé d'un système d'aide à la décision clinique basé sur les guides de bonnes pratiques.,2007
+336,Vahid Ebrahiminia,Ebrahiminia,Vahid,2,Une expérience originale de test automatisé d'un système d'aide à la décision clinique basé sur les guides de bonnes pratiques.,2007
+337,Alain Venot,Venot,Alain,3,Une expérience originale de test automatisé d'un système d'aide à la décision clinique basé sur les guides de bonnes pratiques.,2007
+338,Jérôme Nobécourt,Nobécourt,Jérôme,4,Une expérience originale de test automatisé d'un système d'aide à la décision clinique basé sur les guides de bonnes pratiques.,2007
+339,Camille Pradel,Pradel,Camille,1,Des patrons modulaires de requêtes SPARQL dans le système SWIP.,2012
+340,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Des patrons modulaires de requêtes SPARQL dans le système SWIP.,2012
+341,Nathalie Hernandez,Hernandez,Nathalie,3,Des patrons modulaires de requêtes SPARQL dans le système SWIP.,2012
+342,Alexandre Passant,Passant,Alexandre,1,Ontologies pour le Web 2.0.,2008
+343,Philippe Laublet,Laublet,Philippe,2,Ontologies pour le Web 2.0.,2008
+344,Jean-Claude Moissinac,Moissinac,Jean-Claude,1,Jeu de données SemBib: représentation sémantique des données bibliographiques de Télécom ParisTech.,2018
+345,Nada Mimouni,Mimouni,Nada,1,Une ontologie documentaire pour l'accès aux contenus juridiques.,2015
+346,Adeline Nazarenko,Nazarenko,Adeline,2,Une ontologie documentaire pour l'accès aux contenus juridiques.,2015
+347,Sylvie Salotti,Salotti,Sylvie,3,Une ontologie documentaire pour l'accès aux contenus juridiques.,2015
+348,Benjamin Diemert,Diemert,Benjamin,1,Modèle termino-ontologique pour la collaboration entre communautés hétérogènes.,2011
+349,Marie-Hélène Abel,Abel,Marie-Hélène,2,Modèle termino-ontologique pour la collaboration entre communautés hétérogènes.,2011
+350,Claude Moulin,Moulin,Claude,3,Modèle termino-ontologique pour la collaboration entre communautés hétérogènes.,2011
+351,Michel Crampes,Crampes,Michel,1,Organisation de communautés et équilibre de Nash.,2014
+352,Michel Plantié,Plantié,Michel,2,Organisation de communautés et équilibre de Nash.,2014
+353,Sébastien Ferré,Ferré,Sébastien,1,PEW : un outil d'aide à la conception d'ontologies par l'exploration des mondes possibles.,2015
+354,Bruno Rohou,Rohou,Bruno,1,L'ontologie PHO en Histoire des Sciences et Techniques.,2017
+355,Serge Garlatti,Garlatti,Serge,2,L'ontologie PHO en Histoire des Sciences et Techniques.,2017
+356,Sylvain Laube,Laube,Sylvain,3,L'ontologie PHO en Histoire des Sciences et Techniques.,2017
+357,Brigitte Séroussi,Séroussi,Brigitte,1,Modélisation systématique de recommandations de pratique clinique: une étude théorique et pratique sur la prise en charge de l'hypertension artérielle.,2009
+358,Jacques Bouaud,Bouaud,Jacques,2,Modélisation systématique de recommandations de pratique clinique: une étude théorique et pratique sur la prise en charge de l'hypertension artérielle.,2009
+359,Denké L. Denké,L.,Denké,3,Modélisation systématique de recommandations de pratique clinique: une étude théorique et pratique sur la prise en charge de l'hypertension artérielle.,2009
+360,Jacques Julien,Julien,Jacques,4,Modélisation systématique de recommandations de pratique clinique: une étude théorique et pratique sur la prise en charge de l'hypertension artérielle.,2009
+361,Hector Falcoff,Falcoff,Hector,5,Modélisation systématique de recommandations de pratique clinique: une étude théorique et pratique sur la prise en charge de l'hypertension artérielle.,2009
+362,Fleur Mougin,Mougin,Fleur,1,Méthodes de mapping situées aux niveaux instance et schéma pour l'intégration de sources de données hétérogènes.,2007
+363,Julie Chabalier,Chabalier,Julie,2,Méthodes de mapping situées aux niveaux instance et schéma pour l'intégration de sources de données hétérogènes.,2007
+364,Olivier Bodenreider,Bodenreider,Olivier,3,Méthodes de mapping situées aux niveaux instance et schéma pour l'intégration de sources de données hétérogènes.,2007
+365,Anita Burgun,Burgun,Anita,4,Méthodes de mapping situées aux niveaux instance et schéma pour l'intégration de sources de données hétérogènes.,2007
+366,Michel Crampes,Crampes,Michel,1,Indexation de photos sociales par propagation sur une hiérarchie de concepts.,2009
+367,Jeremy de Oliveira-Kumar,de,Jeremy,2,Indexation de photos sociales par propagation sur une hiérarchie de concepts.,2009
+368,Sylvie Ranwez,Ranwez,Sylvie,3,Indexation de photos sociales par propagation sur une hiérarchie de concepts.,2009
+369,Jean Villerd,Villerd,Jean,4,Indexation de photos sociales par propagation sur une hiérarchie de concepts.,2009
+370,Benoît Mathern,Mathern,Benoît,1,Rendre interactive la découverte d'automates à partir de traces d'activités.,2011
+371,Alain Mille,Mille,Alain,2,Rendre interactive la découverte d'automates à partir de traces d'activités.,2011
+372,Thierry Bellet,Bellet,Thierry,3,Rendre interactive la découverte d'automates à partir de traces d'activités.,2011
+373,Jessica Pinaire,Pinaire,Jessica,1,Visualisation interactive de trajectoires de patients.,2015
+374,Soumaya Ben Alouane,Ben,Soumaya,2,Visualisation interactive de trajectoires de patients.,2015
+375,Jérôme Azé,Azé,Jérôme,3,Visualisation interactive de trajectoires de patients.,2015
+376,Sandra Bringay,Bringay,Sandra,4,Visualisation interactive de trajectoires de patients.,2015
+377,Paul Landais,Landais,Paul,5,Visualisation interactive de trajectoires de patients.,2015
+378,Arnaud Sallaberry,Sallaberry,Arnaud,6,Visualisation interactive de trajectoires de patients.,2015
+379,Manuel Zacklad,Zacklad,Manuel,1,Intelligence qualitative dans la gestion de risques : rôle de la documentarisation et des Systèmes d'Organisation des Connaissances.,2008
+380,Jean-Pierre Cahier,Cahier,Jean-Pierre,2,Intelligence qualitative dans la gestion de risques : rôle de la documentarisation et des Systèmes d'Organisation des Connaissances.,2008
+381,Aurélien Bénel,Bénel,Aurélien,3,Intelligence qualitative dans la gestion de risques : rôle de la documentarisation et des Systèmes d'Organisation des Connaissances.,2008
+382,L'Hédi Zaher,Zaher,L'Hédi,4,Intelligence qualitative dans la gestion de risques : rôle de la documentarisation et des Systèmes d'Organisation des Connaissances.,2008
+383,Christophe Lejeune,Lejeune,Christophe,5,Intelligence qualitative dans la gestion de risques : rôle de la documentarisation et des Systèmes d'Organisation des Connaissances.,2008
+384,Chao Zhou,Zhou,Chao,6,Intelligence qualitative dans la gestion de risques : rôle de la documentarisation et des Systèmes d'Organisation des Connaissances.,2008
+385,Michel Crampes,Crampes,Michel,1,Méthodes d'extraction de réseaux sociaux et de diffusion de photos sociales.,2011
+386,Michel Plantié,Plantié,Michel,2,Méthodes d'extraction de réseaux sociaux et de diffusion de photos sociales.,2011
+387,Laurent Mazuel,Mazuel,Laurent,1,Degré de relation sémantique dans une ontologie pour la commande en langue naturelle.,2007
+388,Nicolas Sabouret,Sabouret,Nicolas,2,Degré de relation sémantique dans une ontologie pour la commande en langue naturelle.,2007
+389,Clément Fauré,Fauré,Clément,1,Construction itérative d'un modèle de connaissance par l'exploitation de règles d'association.,2006
+390,Sylvie Delprat,Delprat,Sylvie,2,Construction itérative d'un modèle de connaissance par l'exploitation de règles d'association.,2006
+391,Alain Mille,Mille,Alain,3,Construction itérative d'un modèle de connaissance par l'exploitation de règles d'association.,2006
+392,Jean-François Boulicaut,Boulicaut,Jean-François,4,Construction itérative d'un modèle de connaissance par l'exploitation de règles d'association.,2006
+393,Djilali Benmahamed,Benmahamed,Djilali,1,Techniques de gestion et d'ingénierie des connaissances pour la conception des dispositifs de transfert de savoir-faire dans les métiers pétroliers.,2006
+394,Jean-Louis Ermine,Ermine,Jean-Louis,2,Techniques de gestion et d'ingénierie des connaissances pour la conception des dispositifs de transfert de savoir-faire dans les métiers pétroliers.,2006
+395,Blandine Ginon,Ginon,Blandine,1,Une assistance générique pour les utilisateurs d'applications fortement orientées connaissances.,2012
+396,Stéphanie Jean-Daubias,Jean-Daubias,Stéphanie,2,Une assistance générique pour les utilisateurs d'applications fortement orientées connaissances.,2012
+397,Pierre-Antoine Champin,Champin,Pierre-Antoine,3,Une assistance générique pour les utilisateurs d'applications fortement orientées connaissances.,2012
+398,Mohamed Nader Jelassi,Nader,Mohamed,1,Vers des recommandations plus personnalisées dans les folksonomies.,2014
+399,Sadok Ben Yahia,Ben,Sadok,2,Vers des recommandations plus personnalisées dans les folksonomies.,2014
+400,Engelbert Mephu Nguifo,Mephu,Engelbert,3,Vers des recommandations plus personnalisées dans les folksonomies.,2014
+401,Fabien Amarger,Amarger,Fabien,1,Détection de consensus entre sources et calcul de confiance fondé sur l'intégrale de Choquet.,2016
+402,Jean-Pierre Chanet,Chanet,Jean-Pierre,2,Détection de consensus entre sources et calcul de confiance fondé sur l'intégrale de Choquet.,2016
+403,Romain Guillaume,Guillaume,Romain,3,Détection de consensus entre sources et calcul de confiance fondé sur l'intégrale de Choquet.,2016
+404,Ollivier Haemmerlé,Haemmerlé,Ollivier,4,Détection de consensus entre sources et calcul de confiance fondé sur l'intégrale de Choquet.,2016
+405,Nathalie Hernandez,Hernandez,Nathalie,5,Détection de consensus entre sources et calcul de confiance fondé sur l'intégrale de Choquet.,2016
+406,Catherine Roussey,Roussey,Catherine,6,Détection de consensus entre sources et calcul de confiance fondé sur l'intégrale de Choquet.,2016
+407,Michel Crampes,Crampes,Michel,1,La sonde sémantique pour la fouille sémantique visuelle.,2010
+408,Jeremy de Oliveira-Kumar,de,Jeremy,2,La sonde sémantique pour la fouille sémantique visuelle.,2010
+409,Faiçal Azouaou,Azouaou,Faiçal,1,"MemoNote, un outil de gestion des connaissances personnelles pour enseignants à base d'annotations.",2006
+410,Cyrille Desmoulins,Desmoulins,Cyrille,2,"MemoNote, un outil de gestion des connaissances personnelles pour enseignants à base d'annotations.",2006
+411,Ferdinand Dhombres,Dhombres,Ferdinand,1,Choix méthodologiques pour la construction d'une ontologie de domaine en médecine prénatale.,2010
+412,Jean-Marie Jouannic,Jouannic,Jean-Marie,2,Choix méthodologiques pour la construction d'une ontologie de domaine en médecine prénatale.,2010
+413,Marie-Christine Jaulent,Jaulent,Marie-Christine,3,Choix méthodologiques pour la construction d'une ontologie de domaine en médecine prénatale.,2010
+414,Jean Charlet,Charlet,Jean,4,Choix méthodologiques pour la construction d'une ontologie de domaine en médecine prénatale.,2010
+415,Molka Tounsi,Tounsi,Molka,1,Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique.,2017
+416,Cédric Lopez,Lopez,Cédric,2,Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique.,2017
+417,Catherine Faron-Zucker,Faron-Zucker,Catherine,3,Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique.,2017
+418,Elena Cabrio,Cabrio,Elena,4,Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique.,2017
+419,Fabien Gandon,Gandon,Fabien,5,Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique.,2017
+420,Frédérique Segond,Segond,Frédérique,6,Peuplement d'une base de connaissance par annotation automatique de textes relatifs à la cosmétique.,2017
+421,Yassine Mrabet,Mrabet,Yassine,1,Enrichissement contrôlé de bases de connaissances à partir de documents semi-structurés annotés.,2012
+422,Nacéra Bennacer,Bennacer,Nacéra,2,Enrichissement contrôlé de bases de connaissances à partir de documents semi-structurés annotés.,2012
+423,Nathalie Pernelle,Pernelle,Nathalie,3,Enrichissement contrôlé de bases de connaissances à partir de documents semi-structurés annotés.,2012
+424,Xavier Aimé,Aimé,Xavier,1,Gradients de prototypicalité appliqués à la personnalisation d'ontologies.,2009
+425,Frédéric Fürst,Fürst,Frédéric,2,Gradients de prototypicalité appliqués à la personnalisation d'ontologies.,2009
+426,Pascale Kuntz,Kuntz,Pascale,3,Gradients de prototypicalité appliqués à la personnalisation d'ontologies.,2009
+427,Francky Trichet,Trichet,Francky,4,Gradients de prototypicalité appliqués à la personnalisation d'ontologies.,2009
+428,Michel Héon,Héon,Michel,1,Validation de la sémantique d'un modèle semi-formel de connaissances avec OntoCASE.,2010
+429,Josianne Basque,Basque,Josianne,2,Validation de la sémantique d'un modèle semi-formel de connaissances avec OntoCASE.,2010
+430,Gilbert Paquette,Paquette,Gilbert,3,Validation de la sémantique d'un modèle semi-formel de connaissances avec OntoCASE.,2010
+431,Francky Trichet,Trichet,Francky,1,Une plateforme de développement d'espaces webs sémantiques communautaires dédiés au partage de ressources multimédia.,2007
+432,Yohan Nizon,Nizon,Yohan,2,Une plateforme de développement d'espaces webs sémantiques communautaires dédiés au partage de ressources multimédia.,2007
+433,Gaoussou Camara,Camara,Gaoussou,1,IDOSCHISTO : une extension de l'ontologie noyau des maladies infectieuses (IDO-Core) pour la schistosomiase.,2014
+434,Sylvie Desprès,Desprès,Sylvie,2,IDOSCHISTO : une extension de l'ontologie noyau des maladies infectieuses (IDO-Core) pour la schistosomiase.,2014
+435,Moussa Lo,Lo,Moussa,3,IDOSCHISTO : une extension de l'ontologie noyau des maladies infectieuses (IDO-Core) pour la schistosomiase.,2014
+436,Ferdinand Dhombres,Dhombres,Ferdinand,1,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+437,Pierre-Yves Vandenbussche,Vandenbussche,Pierre-Yves,2,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+438,Ana Rath,Rath,Ana,3,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+439,Marc Hanauer,Hanauer,Marc,4,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+440,Annie Olry,Olry,Annie,5,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+441,Bruno Urbero,Urbero,Bruno,6,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+442,Jean Charlet,Charlet,Jean,7,Projet OrphaOnto - Première étape de l'ontologisation des bases de connaissances d'Orphanet.,2011
+443,Blandine Ginon,Ginon,Blandine,1,aLDEAS : un langage de définition de systèmes d'assistance épiphytes.,2014
+444,Stéphanie Jean-Daubias,Jean-Daubias,Stéphanie,2,aLDEAS : un langage de définition de systèmes d'assistance épiphytes.,2014
+445,Pierre-Antoine Champin,Champin,Pierre-Antoine,3,aLDEAS : un langage de définition de systèmes d'assistance épiphytes.,2014
+446,Marie Lefèvre,Lefèvre,Marie,4,aLDEAS : un langage de définition de systèmes d'assistance épiphytes.,2014
+447,Amanda Bouffier,Bouffier,Amanda,1,Analyse et structuration automatique des guides de bonnes pratiques cliniques : essai d'évaluation.,2008
+448,Catherine Duclos,Duclos,Catherine,2,Analyse et structuration automatique des guides de bonnes pratiques cliniques : essai d'évaluation.,2008
+449,Thierry Poibeau,Poibeau,Thierry,3,Analyse et structuration automatique des guides de bonnes pratiques cliniques : essai d'évaluation.,2008
+450,Béatrice Fuchs,Fuchs,Béatrice,1,"Co-construction interactive de connaissances, application à l'analyse mélodique.",2011
+451,Julien Laflaquière,Laflaquière,Julien,1,Ingénierie des traces numériques d'interaction comme inscriptions de connaissances.,2008
+452,Yannick Prié,Prié,Yannick,2,Ingénierie des traces numériques d'interaction comme inscriptions de connaissances.,2008
+453,Alain Mille,Mille,Alain,3,Ingénierie des traces numériques d'interaction comme inscriptions de connaissances.,2008
+454,Oumy Seye,Seye,Oumy,1,"Publication, partage et réutilisation de règles sur le web de données.",2014
+455,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,"Publication, partage et réutilisation de règles sur le web de données.",2014
+456,Olivier Corby,Corby,Olivier,3,"Publication, partage et réutilisation de règles sur le web de données.",2014
+457,Alban Gaignard,Gaignard,Alban,4,"Publication, partage et réutilisation de règles sur le web de données.",2014
+458,Benjamin Hervy,Hervy,Benjamin,1,"Gestion de connaissances pour l'acquisition, le traitement et la valorisation des connaissances du patrimoine technique.",2015
+459,Matthieu Quantin,Quantin,Matthieu,2,"Gestion de connaissances pour l'acquisition, le traitement et la valorisation des connaissances du patrimoine technique.",2015
+460,Florent Laroche,Laroche,Florent,3,"Gestion de connaissances pour l'acquisition, le traitement et la valorisation des connaissances du patrimoine technique.",2015
+461,Alain Bernard,Bernard,Alain,4,"Gestion de connaissances pour l'acquisition, le traitement et la valorisation des connaissances du patrimoine technique.",2015
+462,Jean-Louis Kerouanton,Kerouanton,Jean-Louis,5,"Gestion de connaissances pour l'acquisition, le traitement et la valorisation des connaissances du patrimoine technique.",2015
+463,Amina Chniti,Chniti,Amina,1,Gestion de la cohérence des règles métier éditées à partir d'ontologies OWL.,2011
+464,Patrick Albert,Albert,Patrick,2,Gestion de la cohérence des règles métier éditées à partir d'ontologies OWL.,2011
+465,Jean Charlet,Charlet,Jean,3,Gestion de la cohérence des règles métier éditées à partir d'ontologies OWL.,2011
+466,Charles Delalonde,Delalonde,Charles,1,Recherche et échange de connaissances dans des équipes distribuées.,2007
+467,Eddie Soulier,Soulier,Eddie,2,Recherche et échange de connaissances dans des équipes distribuées.,2007
+468,Antoine Vincent,Vincent,Antoine,1,Modéliser les processus de création de la musique avec dispositif numérique : représenter pour rejouer et préserver les oeuvres contemporaines.,2012
+469,Bruno Bachimont,Bachimont,Bruno,2,Modéliser les processus de création de la musique avec dispositif numérique : représenter pour rejouer et préserver les oeuvres contemporaines.,2012
+470,Alain Bonardi,Bonardi,Alain,3,Modéliser les processus de création de la musique avec dispositif numérique : représenter pour rejouer et préserver les oeuvres contemporaines.,2012
+471,Rémy Choquet,Choquet,Rémy,1,Un modèle de connaissances pour mesurer la qualité d'une source d'information.,2010
+472,Samiha Qouiyd,Qouiyd,Samiha,2,Un modèle de connaissances pour mesurer la qualité d'une source d'information.,2010
+473,Emilie Pasche,Pasche,Emilie,3,Un modèle de connaissances pour mesurer la qualité d'une source d'information.,2010
+474,Christel Daniel,Daniel,Christel,4,Un modèle de connaissances pour mesurer la qualité d'une source d'information.,2010
+475,Omar Boussaïd,Boussaïd,Omar,5,Un modèle de connaissances pour mesurer la qualité d'une source d'information.,2010
+476,Marie-Christine Jaulent,Jaulent,Marie-Christine,6,Un modèle de connaissances pour mesurer la qualité d'une source d'information.,2010
+477,Sonia Cardoso,Cardoso,Sonia,1,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+478,Luis Felipe Melo Mora,Felipe,Luis,2,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+479,Marie-Christine Jaulent,Jaulent,Marie-Christine,3,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+480,Xavier Aimé,Aimé,Xavier,4,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+481,David Grabli,Grabli,David,5,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+482,Vincent Meininger,Meininger,Vincent,6,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+483,Jean Charlet,Charlet,Jean,7,Ontologie et TALN: l'anonymisation au service du repérage conceptuel dans le contexte de la SLA.,2017
+484,Yannick Toussaint,Toussaint,Yannick,1,Annotation sémantique par classification.,2007
+485,Sylvain Tenier,Tenier,Sylvain,2,Annotation sémantique par classification.,2007
+486,Amel Yessad,Yessad,Amel,1,Approche Ontologique pour la Détection de la Pertinence d'une Action dans un Jeu Sérieux.,2011
+487,Jean-Marc Labat,Labat,Jean-Marc,2,Approche Ontologique pour la Détection de la Pertinence d'une Action dans un Jeu Sérieux.,2011
+488,Freddy Limpens,Limpens,Freddy,1,Sémantique des folksonomies: structuration collaborative et assistée.,2009
+489,Fabien Gandon,Gandon,Fabien,2,Sémantique des folksonomies: structuration collaborative et assistée.,2009
+490,Michel Buffa,Buffa,Michel,3,Sémantique des folksonomies: structuration collaborative et assistée.,2009
+491,Mouna Kamel,Kamel,Mouna,1,Correction d'ontologies construites à partir de la structure de documents.,2010
+492,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,2,Correction d'ontologies construites à partir de la structure de documents.,2010
+493,Marion Laignelet,Laignelet,Marion,3,Correction d'ontologies construites à partir de la structure de documents.,2010
+494,Léa Guizol,Guizol,Léa,1,Agrégation pour la réparation de liens.,2014
+495,Mouna Kamel,Kamel,Mouna,1,Construction automatique d'ontologies à partir de spécifications de bases de données.,2009
+496,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,2,Construction automatique d'ontologies à partir de spécifications de bases de données.,2009
+497,Abdoulaye Guissé,Guissé,Abdoulaye,1,Un moteur sémantique pour explorer des textes réglementaires.,2011
+498,François Lévy,Lévy,François,2,Un moteur sémantique pour explorer des textes réglementaires.,2011
+499,Adeline Nazarenko,Nazarenko,Adeline,3,Un moteur sémantique pour explorer des textes réglementaires.,2011
+500,Leila Yahiaoui,Yahiaoui,Leila,1,Automatisation du e-recrutement dans le cadre du Web sémantique.,2006
+501,Zizette Boufaïda,Boufaïda,Zizette,2,Automatisation du e-recrutement dans le cadre du Web sémantique.,2006
+502,Yannick Prié,Prié,Yannick,3,Automatisation du e-recrutement dans le cadre du Web sémantique.,2006
+503,Sébastien Harispe,Harispe,Sébastien,1,Mesures sémantiques basées sur la notion de projection RDF pour les systèmes de recommandation.,2013
+504,Sylvie Ranwez,Ranwez,Sylvie,2,Mesures sémantiques basées sur la notion de projection RDF pour les systèmes de recommandation.,2013
+505,Stefan Janaqi,Janaqi,Stefan,3,Mesures sémantiques basées sur la notion de projection RDF pour les systèmes de recommandation.,2013
+506,Jacky Montmain,Montmain,Jacky,4,Mesures sémantiques basées sur la notion de projection RDF pour les systèmes de recommandation.,2013
+507,Sébastien Ferré,Ferré,Sébastien,1,Extension du langage de requêtes LISQL pour la représentation et l'exploration d'expressions mathématiques en RDF.,2012
+508,Sébastien Ferré,Ferré,Sébastien,1,Concepts de plus proches voisins dans des graphes de connaissances.,2017
+509,Valentina Beretta,Beretta,Valentina,1,Contribution à la recherche de vérité: modèles exploitant des règles d'association extraites d'une base de connaissances.,2017
+510,Sylvie Ranwez,Ranwez,Sylvie,2,Contribution à la recherche de vérité: modèles exploitant des règles d'association extraites d'une base de connaissances.,2017
+511,Sébastien Harispe,Harispe,Sébastien,3,Contribution à la recherche de vérité: modèles exploitant des règles d'association extraites d'une base de connaissances.,2017
+512,Isabelle Mougenot,Mougenot,Isabelle,4,Contribution à la recherche de vérité: modèles exploitant des règles d'association extraites d'une base de connaissances.,2017
+513,Michel Héon,Héon,Michel,1,"G-OWL : Vers un langage de modélisation graphique, polymorphique et typé pour la construction d'une ontologie dans la notation OWL.",2013
+514,Roger Nkambou,Nkambou,Roger,2,"G-OWL : Vers un langage de modélisation graphique, polymorphique et typé pour la construction d'une ontologie dans la notation OWL.",2013
+515,Gunnar Declerck,Declerck,Gunnar,1,A quoi servent les ontologies fondationnelles ?,2012
+516,Audrey Baneyx,Baneyx,Audrey,2,A quoi servent les ontologies fondationnelles ?,2012
+517,Xavier Aimé,Aimé,Xavier,3,A quoi servent les ontologies fondationnelles ?,2012
+518,Jean Charlet,Charlet,Jean,4,A quoi servent les ontologies fondationnelles ?,2012
+519,Camille Pradel,Pradel,Camille,1,Passage de la langue naturelle à une requête SPARQL dans le système SWIP.,2013
+520,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Passage de la langue naturelle à une requête SPARQL dans le système SWIP.,2013
+521,Nathalie Hernandez,Hernandez,Nathalie,3,Passage de la langue naturelle à une requête SPARQL dans le système SWIP.,2013
+522,Michel Héon,Héon,Michel,1,Conception assistée d'une ontologie à partir d'une conceptualisation consensuelle exprimée de manière semi-formelle.,2009
+523,Gilbert Paquette,Paquette,Gilbert,2,Conception assistée d'une ontologie à partir d'une conceptualisation consensuelle exprimée de manière semi-formelle.,2009
+524,Josianne Basque,Basque,Josianne,3,Conception assistée d'une ontologie à partir d'une conceptualisation consensuelle exprimée de manière semi-formelle.,2009
+525,Catherine Dominguès,Dominguès,Catherine,1,Connaissances opérationnelles pour la conception automatique de légendes de cartes.,2009
+526,Sidonie Christophe,Christophe,Sidonie,2,Connaissances opérationnelles pour la conception automatique de légendes de cartes.,2009
+527,Laurence Jolivet,Jolivet,Laurence,3,Connaissances opérationnelles pour la conception automatique de légendes de cartes.,2009
+528,Catherine Dominguès,Dominguès,Catherine,1,Construire la légende de la carte à l'aide d'une base de connaissance en cartographie.,2012
+529,Jean-Baptiste Lamy,Lamy,Jean-Baptiste,1,Ontopy : programmation orientée ontologie en Python.,2015
+530,Hélène Berthelot,Berthelot,Hélène,2,Ontopy : programmation orientée ontologie en Python.,2015
+531,Emmanuel Nauer,Nauer,Emmanuel,1,Construction d'une ontologie de descripteurs UCD en astronomie.,2006
+532,Alexandre Richard,Richard,Alexandre,2,Construction d'une ontologie de descripteurs UCD en astronomie.,2006
+533,Sébastien Derriere,Derriere,Sébastien,3,Construction d'une ontologie de descripteurs UCD en astronomie.,2006
+534,Françoise Genova,Genova,Françoise,4,Construction d'une ontologie de descripteurs UCD en astronomie.,2006
+535,Amedeo Napoli,Napoli,Amedeo,5,Construction d'une ontologie de descripteurs UCD en astronomie.,2006
+536,Yannick Toussaint,Toussaint,Yannick,6,Construction d'une ontologie de descripteurs UCD en astronomie.,2006
+537,Florie Bugeaud,Bugeaud,Florie,1,Conception assistée de Systèmes de Services à l'aide d'Ontologies Méréologiques.,2010
+538,Eddie Soulier,Soulier,Eddie,2,Conception assistée de Systèmes de Services à l'aide d'Ontologies Méréologiques.,2010
+539,Nicolas Kamennoff,Kamennoff,Nicolas,1,Processus de génération d'une animation en 3 dimensions à partir d'un texte.,2008
+540,Amélie Cordier,Cordier,Amélie,1,Interprétation Interactive de connaissances à partir de traces.,2016
+541,Béatrice Fuchs,Fuchs,Béatrice,2,Interprétation Interactive de connaissances à partir de traces.,2016
+542,François Rousselot,Rousselot,François,1,Gestion des Connaissances Spécifiques à la Conception Inventive.,2007
+543,Cecilia Zanni,Zanni,Cecilia,2,Gestion des Connaissances Spécifiques à la Conception Inventive.,2007
+544,Denis Cavallucci,Cavallucci,Denis,3,Gestion des Connaissances Spécifiques à la Conception Inventive.,2007
+545,Thomas Eltzer,Eltzer,Thomas,4,Gestion des Connaissances Spécifiques à la Conception Inventive.,2007
+546,Chun Lu,Lu,Chun,1,Graphe de connaissances et folksonomie : leur performance comparative dans le calcul de l'afinité.,2017
+547,Philippe Laublet,Laublet,Philippe,2,Graphe de connaissances et folksonomie : leur performance comparative dans le calcul de l'afinité.,2017
+548,Milan Stankovic,Stankovic,Milan,3,Graphe de connaissances et folksonomie : leur performance comparative dans le calcul de l'afinité.,2017
+549,Filip Radulovic,Radulovic,Filip,4,Graphe de connaissances et folksonomie : leur performance comparative dans le calcul de l'afinité.,2017
+550,Jérôme David,David,Jérôme,1,Détection de clefs pour l'interconnexion et le nettoyage de jeux de données.,2012
+551,François Scharffe,Scharffe,François,2,Détection de clefs pour l'interconnexion et le nettoyage de jeux de données.,2012
+552,Ala Atrash,Atrash,Ala,1,Une plateforme support à l'apprentissage organisationnel.,2014
+553,Marie-Hélène Abel,Abel,Marie-Hélène,2,Une plateforme support à l'apprentissage organisationnel.,2014
+554,Claude Moulin,Moulin,Claude,3,Une plateforme support à l'apprentissage organisationnel.,2014
+555,Michel Plantié,Plantié,Michel,1,Complémentarité dans les Réseaux Sociaux Complémentarité de personnes partageant des propriétés dans les Réseaux Sociaux.,2015
+556,Michel Crampes,Crampes,Michel,2,Complémentarité dans les Réseaux Sociaux Complémentarité de personnes partageant des propriétés dans les Réseaux Sociaux.,2015
+557,Ines Bannour,Bannour,Ines,1,Modèle de recherche d'information sémantique en graphe : interrogation par propagation d'activation.,2017
+558,Haïfa Zargayouna,Zargayouna,Haïfa,2,Modèle de recherche d'information sémantique en graphe : interrogation par propagation d'activation.,2017
+559,Adeline Nazarenko,Nazarenko,Adeline,3,Modèle de recherche d'information sémantique en graphe : interrogation par propagation d'activation.,2017
+560,Matthieu Tixier,Tixier,Matthieu,1,Familles génératrices de règles d'adaptation pour assister leur acquisition semi-automatique.,2008
+561,Fadi Badra,Badra,Fadi,2,Familles génératrices de règles d'adaptation pour assister leur acquisition semi-automatique.,2008
+562,Jean Lieber,Lieber,Jean,3,Familles génératrices de règles d'adaptation pour assister leur acquisition semi-automatique.,2008
+563,Cédric Lopez,Lopez,Cédric,1,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+564,Matthieu Osmuk,Osmuk,Matthieu,2,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+565,Dana Popovici,Popovici,Dana,3,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+566,Farhad Nooralahzadeh,Nooralahzadeh,Farhad,4,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+567,Domoina Rabarijaona,Rabarijaona,Domoina,5,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+568,Fabien Gandon,Gandon,Fabien,6,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+569,Elena Cabrio,Cabrio,Elena,7,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+570,Frédérique Segond,Segond,Frédérique,8,"Du TALN au LOD : Extraction d'entités, liage, et visualisation.",2016
+571,Jérôme David,David,Jérôme,1,Linkky: Extraction de clés de liage par une adaptation de l'analyse relationnelle de concepts.,2018
+572,Jérôme Euzenat,Euzenat,Jérôme,2,Linkky: Extraction de clés de liage par une adaptation de l'analyse relationnelle de concepts.,2018
+573,Jérémy Vizzini,Vizzini,Jérémy,3,Linkky: Extraction de clés de liage par une adaptation de l'analyse relationnelle de concepts.,2018
+574,Ala Atrash,Atrash,Ala,1,MEMORAe : Plateforme web pour supporter l'annotation collaborative.,2015
+575,Marie-Hélène Abel,Abel,Marie-Hélène,2,MEMORAe : Plateforme web pour supporter l'annotation collaborative.,2015
+576,Jean Villerd,Villerd,Jean,1,Complémentarité des méthodes numériques et symboliques en pharmacovigilance.,2010
+577,Yannick Toussaint,Toussaint,Yannick,2,Complémentarité des méthodes numériques et symboliques en pharmacovigilance.,2010
+578,Agnès Lillo-Le Louët,Lillo-Le,Agnès,3,Complémentarité des méthodes numériques et symboliques en pharmacovigilance.,2010
+579,Céline Alec,Alec,Céline,1,Peuplement automatique d'ontologie à partir d'un catalogue de produits.,2014
+580,Brigitte Safar,Safar,Brigitte,2,Peuplement automatique d'ontologie à partir d'un catalogue de produits.,2014
+581,Chantal Reynaud,Reynaud,Chantal,3,Peuplement automatique d'ontologie à partir d'un catalogue de produits.,2014
+582,Zied Sellami,Sellami,Zied,4,Peuplement automatique d'ontologie à partir d'un catalogue de produits.,2014
+583,Uriel Berdugo,Berdugo,Uriel,5,Peuplement automatique d'ontologie à partir d'un catalogue de produits.,2014
+584,Catherine Roussey,Roussey,Catherine,1,Annotation sémantique pour une interrogation experte des Bulletins de Santé du Végétal.,2018
+585,Tayeb Abderrahmani Ghorfi,Abderrahmani,Tayeb,2,Annotation sémantique pour une interrogation experte des Bulletins de Santé du Végétal.,2018
+586,Mohamed Ali Ben Ameur,Ali,Mohamed,1,Recommandation de ressources pédagogiques au sein d'un système de systèmes d'information.,2017
+587,Majd Saleh,Saleh,Majd,2,Recommandation de ressources pédagogiques au sein d'un système de systèmes d'information.,2017
+588,Marie-Hélène Abel,Abel,Marie-Hélène,3,Recommandation de ressources pédagogiques au sein d'un système de systèmes d'information.,2017
+589,Elsa Negre,Negre,Elsa,4,Recommandation de ressources pédagogiques au sein d'un système de systèmes d'information.,2017
+590,Nicolas Béchet,Béchet,Nicolas,1,Fouille de motifs séquentiels pour la découverte de relations entre gènes et maladies rares.,2012
+591,Peggy Cellier,Cellier,Peggy,2,Fouille de motifs séquentiels pour la découverte de relations entre gènes et maladies rares.,2012
+592,Thierry Charnois,Charnois,Thierry,3,Fouille de motifs séquentiels pour la découverte de relations entre gènes et maladies rares.,2012
+593,Bruno Crémilleux,Crémilleux,Bruno,4,Fouille de motifs séquentiels pour la découverte de relations entre gènes et maladies rares.,2012
+594,Claudine Métral,Métral,Claudine,1,Une ontologie de techniques de visualisation d'informations: application aux modèles urbains 3D enrichis.,2013
+595,Nizar Ghoula,Ghoula,Nizar,2,Une ontologie de techniques de visualisation d'informations: application aux modèles urbains 3D enrichis.,2013
+596,Vítor Silva,Silva,Vítor,3,Une ontologie de techniques de visualisation d'informations: application aux modèles urbains 3D enrichis.,2013
+597,Gilles Falquet,Falquet,Gilles,4,Une ontologie de techniques de visualisation d'informations: application aux modèles urbains 3D enrichis.,2013
+598,Julien Laflaquière,Laflaquière,Julien,1,Traces et inscriptions de connaissances.,2007
+599,Lotfi Sofiane Settouti,Sofiane,Lotfi,2,Traces et inscriptions de connaissances.,2007
+600,Yannick Prié,Prié,Yannick,3,Traces et inscriptions de connaissances.,2007
+601,Alain Mille,Mille,Alain,4,Traces et inscriptions de connaissances.,2007
+602,Samia Beldjoudi,Beldjoudi,Samia,1,Améliorer la Recommandation de Ressources dans les Folksonomies par l'Utilisation de Linked Open Data.,2016
+603,Hassina Seridi,Seridi,Hassina,2,Améliorer la Recommandation de Ressources dans les Folksonomies par l'Utilisation de Linked Open Data.,2016
+604,Abdallah Benzine,Benzine,Abdallah,3,Améliorer la Recommandation de Ressources dans les Folksonomies par l'Utilisation de Linked Open Data.,2016
+605,Catherine Roussey,Roussey,Catherine,1,Une méthode de débogage d'ontologies OWL basées sur la détection d'antipatrons.,2010
+606,François Scharffe,Scharffe,François,2,Une méthode de débogage d'ontologies OWL basées sur la détection d'antipatrons.,2010
+607,Óscar Corcho,Corcho,Óscar,3,Une méthode de débogage d'ontologies OWL basées sur la détection d'antipatrons.,2010
+608,Ondrej Zamazal,Zamazal,Ondrej,4,Une méthode de débogage d'ontologies OWL basées sur la détection d'antipatrons.,2010
+609,Jean-Baptiste Louvet,Louvet,Jean-Baptiste,1,Recherche collaborative de documents : comparaison assistance humaine/automatique.,2016
+610,Guillaume Dubuisson Duplessis,Dubuisson,Guillaume,2,Recherche collaborative de documents : comparaison assistance humaine/automatique.,2016
+611,Nathalie Chaignaud,Chaignaud,Nathalie,3,Recherche collaborative de documents : comparaison assistance humaine/automatique.,2016
+612,Jean-Philippe Kotowicz,Kotowicz,Jean-Philippe,4,Recherche collaborative de documents : comparaison assistance humaine/automatique.,2016
+613,Laurent Vercouter,Vercouter,Laurent,5,Recherche collaborative de documents : comparaison assistance humaine/automatique.,2016
+614,Samya Sagar,Sagar,Samya,1,Ontologie modulaire pour la fabrication et l'exploitation de vêtements intelligents dédiés au sport.,2017
+615,Issam Rebaï,Rebaï,Issam,2,Ontologie modulaire pour la fabrication et l'exploitation de vêtements intelligents dédiés au sport.,2017
+616,Maha Khemaja,Khemaja,Maha,3,Ontologie modulaire pour la fabrication et l'exploitation de vêtements intelligents dédiés au sport.,2017
+617,Jamel Feki,Feki,Jamel,4,Ontologie modulaire pour la fabrication et l'exploitation de vêtements intelligents dédiés au sport.,2017
+618,Cédric Baudrit,Baudrit,Cédric,1,Représentation holistique des projets de construction à l'aide de modèles relationnels probabilistes.,2016
+619,Thi Thuy Phuong Tran,Thuy,Thi,2,Représentation holistique des projets de construction à l'aide de modèles relationnels probabilistes.,2016
+620,Franck Taillandier,Taillandier,Franck,3,Représentation holistique des projets de construction à l'aide de modèles relationnels probabilistes.,2016
+621,Denis Breysse,Breysse,Denis,4,Représentation holistique des projets de construction à l'aide de modèles relationnels probabilistes.,2016
+622,Gaëlle Lortal,Lortal,Gaëlle,1,Un bouquet de théories pour une plateforme de décision stratégique à base de réseaux sociaux.,2013
+623,Étienne Deparis,Deparis,Étienne,2,Un bouquet de théories pour une plateforme de décision stratégique à base de réseaux sociaux.,2013
+624,Claire Laudy,Laudy,Claire,3,Un bouquet de théories pour une plateforme de décision stratégique à base de réseaux sociaux.,2013
+625,Stefano Moretti,Moretti,Stefano,4,Un bouquet de théories pour une plateforme de décision stratégique à base de réseaux sociaux.,2013
+626,Juliette Mattioli,Mattioli,Juliette,5,Un bouquet de théories pour une plateforme de décision stratégique à base de réseaux sociaux.,2013
+627,Ariane Assélé Kama,Assélé,Ariane,1,Une approche ontologique pour l'exploitation de données cliniques.,2010
+628,Giovanni Mels,Mels,Giovanni,2,Une approche ontologique pour l'exploitation de données cliniques.,2010
+629,Rémy Choquet,Choquet,Rémy,3,Une approche ontologique pour l'exploitation de données cliniques.,2010
+630,Jean Charlet,Charlet,Jean,4,Une approche ontologique pour l'exploitation de données cliniques.,2010
+631,Marie-Christine Jaulent,Jaulent,Marie-Christine,5,Une approche ontologique pour l'exploitation de données cliniques.,2010
+632,Olivier Corby,Corby,Olivier,1,SPARQL Template : un langage de pretty printing pour RDF.,2014
+633,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,SPARQL Template : un langage de pretty printing pour RDF.,2014
+634,Mathieu Valette,Valette,Mathieu,1,Des textes au concept. Propositions pour une approche textuelle de la conceptualisation.,2010
+635,Olivier Lartillot,Lartillot,Olivier,1,Description structurelle automatique de documents musicaux.,2006
+636,Axel Reymonet,Reymonet,Axel,1,Ontologies et Recherche d'Information : une application au diagnostic automobile.,2010
+637,Jérôme Thomas,Thomas,Jérôme,2,Ontologies et Recherche d'Information : une application au diagnostic automobile.,2010
+638,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,3,Ontologies et Recherche d'Information : une application au diagnostic automobile.,2010
+639,Raphaël Troncy,Troncy,Raphaël,1,Explorer des actualités multimédia dans le Web de données.,2009
+640,Nathalie Pernelle,Pernelle,Nathalie,1,C-SAKey : une approche de découverte de clés conditionnelles dans des données RDF.,2015
+641,Danai Symeonidou,Symeonidou,Danai,2,C-SAKey : une approche de découverte de clés conditionnelles dans des données RDF.,2015
+642,Fatiha Saïs,Saïs,Fatiha,3,C-SAKey : une approche de découverte de clés conditionnelles dans des données RDF.,2015
+643,Joe Raad,Raad,Joe,1,Détection de liens d'identité contextuels dans une base de connaissances.,2017
+644,Nathalie Pernelle,Pernelle,Nathalie,2,Détection de liens d'identité contextuels dans une base de connaissances.,2017
+645,Fatiha Saïs,Saïs,Fatiha,3,Détection de liens d'identité contextuels dans une base de connaissances.,2017
+646,Imène Chentli,Chentli,Imène,1,Construction d'un gold standard pour des données agronomiques.,2016
+647,Pierre Larmande,Larmande,Pierre,2,Construction d'un gold standard pour des données agronomiques.,2016
+648,Konstantin Todorov,Todorov,Konstantin,3,Construction d'un gold standard pour des données agronomiques.,2016
+649,Mouna Kamel,Kamel,Mouna,1,Elicitation de Structures Hiérarchiques à partir de Structures Enumératives pour la Construction d'Ontologie.,2011
+650,Bernard Rothenburger,Rothenburger,Bernard,2,Elicitation de Structures Hiérarchiques à partir de Structures Enumératives pour la Construction d'Ontologie.,2011
+651,Siying Li,Li,Siying,1,"Modèle de contexte de collaboration : pour qui, pourquoi, comment?",2018
+652,Marie-Hélène Abel,Abel,Marie-Hélène,2,"Modèle de contexte de collaboration : pour qui, pourquoi, comment?",2018
+653,Elsa Negre,Negre,Elsa,3,"Modèle de contexte de collaboration : pour qui, pourquoi, comment?",2018
+654,Florence Dupin de Saint-Cyr,Dupin,Florence,1,Représentation des Connaissances dans un Langage Visuel Typé : une Première Approche.,2018
+655,Denis Parade,Parade,Denis,2,Représentation des Connaissances dans un Langage Visuel Typé : une Première Approche.,2018
+656,Jean-Baptiste Lamy,Lamy,Jean-Baptiste,1,Une plate-forme visuelle pour une information comparative sur les nouveaux médicaments.,2017
+657,Adrien Ugon,Ugon,Adrien,2,Une plate-forme visuelle pour une information comparative sur les nouveaux médicaments.,2017
+658,Catherine Duclos,Duclos,Catherine,3,Une plate-forme visuelle pour une information comparative sur les nouveaux médicaments.,2017
+659,Alain Venot,Venot,Alain,4,Une plate-forme visuelle pour une information comparative sur les nouveaux médicaments.,2017
+660,Madeleine Favre,Favre,Madeleine,5,Une plate-forme visuelle pour une information comparative sur les nouveaux médicaments.,2017
+661,Hélène Berthelot,Berthelot,Hélène,6,Une plate-forme visuelle pour une information comparative sur les nouveaux médicaments.,2017
+662,Dimitrios Chistaras Papageorgiou,Chistaras,Dimitrios,1,Approche numérique pour l'invalidation de liens d'identité (owl: SameAs).,2017
+663,Nathalie Pernelle,Pernelle,Nathalie,2,Approche numérique pour l'invalidation de liens d'identité (owl: SameAs).,2017
+664,Fatiha Saïs,Saïs,Fatiha,3,Approche numérique pour l'invalidation de liens d'identité (owl: SameAs).,2017
+665,Najeh Hajlaoui,Hajlaoui,Najeh,1,Multilinguïsation de services de gestion de contenu.,2007
+666,Xavier Aimé,Aimé,Xavier,1,SemioSem et ProxSem : mesures sémiotiques de similarité et de proximité conceptuelles.,2011
+667,Frédéric Fürst,Fürst,Frédéric,2,SemioSem et ProxSem : mesures sémiotiques de similarité et de proximité conceptuelles.,2011
+668,Pascale Kuntz,Kuntz,Pascale,3,SemioSem et ProxSem : mesures sémiotiques de similarité et de proximité conceptuelles.,2011
+669,Francky Trichet,Trichet,Francky,4,SemioSem et ProxSem : mesures sémiotiques de similarité et de proximité conceptuelles.,2011
+670,Bruno Albert,Albert,Bruno,1,Structuration sémantique des sensations tactiles.,2016
+671,Cecilia Zanni-Merk,Zanni-Merk,Cecilia,2,Structuration sémantique des sensations tactiles.,2016
+672,François de Bertrand de Beuvron,de,François,3,Structuration sémantique des sensations tactiles.,2016
+673,Jean-Luc Maire,Maire,Jean-Luc,4,Structuration sémantique des sensations tactiles.,2016
+674,Maurice Pillet,Pillet,Maurice,5,Structuration sémantique des sensations tactiles.,2016
+675,Julien Charrier,Charrier,Julien,6,Structuration sémantique des sensations tactiles.,2016
+676,Christophe Knecht,Knecht,Christophe,7,Structuration sémantique des sensations tactiles.,2016
+677,Charles Teissèdre,Teissèdre,Charles,1,Du texte au portail sémantique : cas d'utilisation lié à des données temporelles.,2010
+678,Delphine Battistelli,Battistelli,Delphine,2,Du texte au portail sémantique : cas d'utilisation lié à des données temporelles.,2010
+679,Jean-Luc Minel,Minel,Jean-Luc,3,Du texte au portail sémantique : cas d'utilisation lié à des données temporelles.,2010
+680,Amjad Abou Assali,Abou,Amjad,1,COBRA : Une plate-forme de RàPC basée sur des ontologies.,2009
+681,Dominique Lenne,Lenne,Dominique,2,COBRA : Une plate-forme de RàPC basée sur des ontologies.,2009
+682,Bruno Debray,Debray,Bruno,3,COBRA : Une plate-forme de RàPC basée sur des ontologies.,2009
+683,Sébastien Bouchet,Bouchet,Sébastien,4,COBRA : Une plate-forme de RàPC basée sur des ontologies.,2009
+684,Chloé Cabot,Cabot,Chloé,1,Intégration de données cliniques et omiques pour la recherche d'information dans le Dossier Patient Informatisé.,2015
+685,Lina Fatima Soualmia,Fatima,Lina,2,Intégration de données cliniques et omiques pour la recherche d'information dans le Dossier Patient Informatisé.,2015
+686,Stéfan Jacques Darmoni,Jacques,Stéfan,3,Intégration de données cliniques et omiques pour la recherche d'information dans le Dossier Patient Informatisé.,2015
+687,Sami Ben Amor,Ben,Sami,1,SemMEP : Nouvelle approche sémantique pour la détection des communautés dans un réseau social.,2016
+688,Lotfi Ben Romdhane,Ben,Lotfi,2,SemMEP : Nouvelle approche sémantique pour la détection des communautés dans un réseau social.,2016
+689,Mounira Harzallah,Harzallah,Mounira,3,SemMEP : Nouvelle approche sémantique pour la détection des communautés dans un réseau social.,2016
+690,Michel Crampes,Crampes,Michel,1,"Partition et recouvrement de communautés dans les graphes bipartis, unipartis et orientés.",2013
+691,Michel Plantié,Plantié,Michel,2,"Partition et recouvrement de communautés dans les graphes bipartis, unipartis et orientés.",2013
+692,Pierre-Loup Barazzutti,Barazzutti,Pierre-Loup,1,Un outil d'extraction interactive de connaissances à partir de traces : Transmute.,2015
+693,Amélie Cordier,Cordier,Amélie,2,Un outil d'extraction interactive de connaissances à partir de traces : Transmute.,2015
+694,Béatrice Fuchs,Fuchs,Béatrice,3,Un outil d'extraction interactive de connaissances à partir de traces : Transmute.,2015
+695,Amina Annane,Annane,Amina,1,Réconciliation d'alignements multi-lingues dans BioPortal.,2016
+696,Vincent Emonet,Emonet,Vincent,2,Réconciliation d'alignements multi-lingues dans BioPortal.,2016
+697,Faiçal Azouaou,Azouaou,Faiçal,3,Réconciliation d'alignements multi-lingues dans BioPortal.,2016
+698,Clément Jonquet,Jonquet,Clément,4,Réconciliation d'alignements multi-lingues dans BioPortal.,2016
+699,Camille Pradel,Pradel,Camille,1,L'apprentissage d'ordonnancement pour l'appariement de questions.,2016
+700,Baptiste Chardon,Chardon,Baptiste,2,L'apprentissage d'ordonnancement pour l'appariement de questions.,2016
+701,Dominique Laurent,Laurent,Dominique,3,L'apprentissage d'ordonnancement pour l'appariement de questions.,2016
+702,Sophie Muller,Muller,Sophie,4,L'apprentissage d'ordonnancement pour l'appariement de questions.,2016
+703,Patrick Séguéla,Séguéla,Patrick,5,L'apprentissage d'ordonnancement pour l'appariement de questions.,2016
+704,Sabine Bruaux,Bruaux,Sabine,1,OntoKADS : une ontologie générale de la résolution de problèmes.,2006
+705,Gilles Kassel,Kassel,Gilles,2,OntoKADS : une ontologie générale de la résolution de problèmes.,2006
+706,Gilles Morel,Morel,Gilles,3,OntoKADS : une ontologie générale de la résolution de problèmes.,2006
+707,Benoît Encelle,Encelle,Benoît,1,Vers une modélisation des tâches pour l'assistance à la navigation et la reconception de sites Web.,2018
+708,Karim Sehaba,Sehaba,Karim,2,Vers une modélisation des tâches pour l'assistance à la navigation et la reconception de sites Web.,2018
+709,Mohamed Lamine Diakité,Lamine,Mohamed,1,Construction semi-automatique d'une ontologie sur des manuscrits ouest sahariens.,2015
+710,Béatrice Bouchou-Markhoff,Bouchou-Markhoff,Béatrice,2,Construction semi-automatique d'une ontologie sur des manuscrits ouest sahariens.,2015
+711,Thabet Slimani,Slimani,Thabet,1,Evaluation d'associations sémantiques dans une ontologie de domaine.,2009
+712,Boutheina Ben Yaghlane,Ben,Boutheina,2,Evaluation d'associations sémantiques dans une ontologie de domaine.,2009
+713,Khaled Mellouli,Mellouli,Khaled,3,Evaluation d'associations sémantiques dans une ontologie de domaine.,2009
+714,David Leray,Leray,David,1,Acquisition de connaissances perceptives pour un agent assistant.,2007
+715,Jean-Paul Sansonnet,Sansonnet,Jean-Paul,2,Acquisition de connaissances perceptives pour un agent assistant.,2007
+716,Laurent Mazuel,Mazuel,Laurent,1,Alignement entre ontologie de domaine et la Snomed: trois études de cas.,2009
+717,Jean Charlet,Charlet,Jean,2,Alignement entre ontologie de domaine et la Snomed: trois études de cas.,2009
+718,Mélissa Mary,Mary,Mélissa,1,Interopérabilité sémantique dans le domaine du diagnostic in vitro : évaluation d'algorithmes sur LOINC et l'ontologie SNOMED CT.,2016
+719,Lina Fatima Soualmia,Fatima,Lina,2,Interopérabilité sémantique dans le domaine du diagnostic in vitro : évaluation d'algorithmes sur LOINC et l'ontologie SNOMED CT.,2016
+720,Xavier Gansel,Gansel,Xavier,3,Interopérabilité sémantique dans le domaine du diagnostic in vitro : évaluation d'algorithmes sur LOINC et l'ontologie SNOMED CT.,2016
+721,Nourhène Alaya,Alaya,Nourhène,1,Nouvelle mesure de degré de relation sémantique pour une meilleur modularisation d'ontologies.,2013
+722,Sadok Ben Yahia,Ben,Sadok,2,Nouvelle mesure de degré de relation sémantique pour une meilleur modularisation d'ontologies.,2013
+723,Axel Reymonet,Reymonet,Axel,1,Modélisation de Ressources Termino-Ontologiques en OWL.,2007
+724,Jérôme Thomas,Thomas,Jérôme,2,Modélisation de Ressources Termino-Ontologiques en OWL.,2007
+725,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,3,Modélisation de Ressources Termino-Ontologiques en OWL.,2007
+726,Olivier Steichen,Steichen,Olivier,1,Construction d'une ontologie pour la prise en charge de l'hypertension artérielle.,2007
+727,Christel Daniel-Le Bozec,Daniel-Le,Christel,2,Construction d'une ontologie pour la prise en charge de l'hypertension artérielle.,2007
+728,Marie-Christine Jaulent,Jaulent,Marie-Christine,3,Construction d'une ontologie pour la prise en charge de l'hypertension artérielle.,2007
+729,Jean Charlet,Charlet,Jean,4,Construction d'une ontologie pour la prise en charge de l'hypertension artérielle.,2007
+730,Stéphanie Buisine,Buisine,Stéphanie,1,Optimiser le processus d'innovation grâce aux traces informatiques d'usages.,2010
+731,Karan Fouladi,Fouladi,Karan,2,Optimiser le processus d'innovation grâce aux traces informatiques d'usages.,2010
+732,Julien Nelson,Nelson,Julien,3,Optimiser le processus d'innovation grâce aux traces informatiques d'usages.,2010
+733,William Turner,Turner,William,4,Optimiser le processus d'innovation grâce aux traces informatiques d'usages.,2010
+734,Maxime Lefrançois,Lefrançois,Maxime,1,LinkedVocabularyEditor: une extension MediaWiki pour l'édition collaborative et la publication de vocabulaires liés.,2015
+735,Antoine Zimmermann,Zimmermann,Antoine,2,LinkedVocabularyEditor: une extension MediaWiki pour l'édition collaborative et la publication de vocabulaires liés.,2015
+736,María Poveda-Villalón,Poveda-Villalón,María,1,Besoins ontologiques d'un système d'irrigation intelligent : comparaison entre SSN et SAREF.,2018
+737,Quang-Duy Nguyen,Nguyen,Quang-Duy,2,Besoins ontologiques d'un système d'irrigation intelligent : comparaison entre SSN et SAREF.,2018
+738,Catherine Roussey,Roussey,Catherine,3,Besoins ontologiques d'un système d'irrigation intelligent : comparaison entre SSN et SAREF.,2018
+739,Christophe De Vaulx,De,Christophe,4,Besoins ontologiques d'un système d'irrigation intelligent : comparaison entre SSN et SAREF.,2018
+740,Jean-Pierre Chanet,Chanet,Jean-Pierre,5,Besoins ontologiques d'un système d'irrigation intelligent : comparaison entre SSN et SAREF.,2018
+741,Chahrazed Mediani,Mediani,Chahrazed,1,Recommandation argumentée de ressources pédagogiques au sein d'un écosystème apprenant.,2016
+742,Marie-Hélène Abel,Abel,Marie-Hélène,2,Recommandation argumentée de ressources pédagogiques au sein d'un écosystème apprenant.,2016
+743,Jérôme David,David,Jérôme,1,Comparaison de mesures d'intérêt pour l'alignement de hiérarchies textuelles.,2007
+744,Fabrice Guillet,Guillet,Fabrice,2,Comparaison de mesures d'intérêt pour l'alignement de hiérarchies textuelles.,2007
+745,Henri Briand,Briand,Henri,3,Comparaison de mesures d'intérêt pour l'alignement de hiérarchies textuelles.,2007
+746,Camille Pradel,Pradel,Camille,1,Expression de requêtes SPARQL à partir de patrons: prise en compte des relations.,2011
+747,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Expression de requêtes SPARQL à partir de patrons: prise en compte des relations.,2011
+748,Nathalie Hernandez,Hernandez,Nathalie,3,Expression de requêtes SPARQL à partir de patrons: prise en compte des relations.,2011
+749,Marie Lefèvre,Lefèvre,Marie,1,Nathalie Guin.,2011
+750,Amélie Cordier,Cordier,Amélie,2,Nathalie Guin.,2011
+751,Stéphanie Jean-Daubias,Jean-Daubias,Stéphanie,3,Nathalie Guin.,2011
+752,Mohamed Besnaci,Besnaci,Mohamed,1,Acquisition de connaissances pour importer des traces existantes dans un système de gestion de bases de traces.,2015
+753,Nathalie Guin,Guin,Nathalie,2,Acquisition de connaissances pour importer des traces existantes dans un système de gestion de bases de traces.,2015
+754,Pierre-Antoine Champin,Champin,Pierre-Antoine,3,Acquisition de connaissances pour importer des traces existantes dans un système de gestion de bases de traces.,2015
+755,Maryse Salles,Salles,Maryse,1,Ontologies pour l'aide à la décision publique et prise en compte des doxas.,2009
+756,Monique Grandbastien,Grandbastien,Monique,1,"Les ontologies du prototype LUISA, une architecture fondée sur des Web Services Sémantiques pour les ressources de formation.",2008
+757,Benjamin Huynh-Kim-Bang,Huynh-Kim-Bang,Benjamin,2,"Les ontologies du prototype LUISA, une architecture fondée sur des Web Services Sémantiques pour les ressources de formation.",2008
+758,Anne Monceaux,Monceaux,Anne,3,"Les ontologies du prototype LUISA, une architecture fondée sur des Web Services Sémantiques pour les ressources de formation.",2008
+759,Vanda Luengo,Luengo,Vanda,1,TELEOS : de l'analyse de l'activité professionnelle à la formalisation des connaissances pour un environnement d'apprentissage.,2006
+760,Lucile Vadcard,Vadcard,Lucile,2,TELEOS : de l'analyse de l'activité professionnelle à la formalisation des connaissances pour un environnement d'apprentissage.,2006
+761,Michel Dubois,Dubois,Michel,3,TELEOS : de l'analyse de l'activité professionnelle à la formalisation des connaissances pour un environnement d'apprentissage.,2006
+762,Dima Mufti-Alchawafa,Mufti-Alchawafa,Dima,4,TELEOS : de l'analyse de l'activité professionnelle à la formalisation des connaissances pour un environnement d'apprentissage.,2006
+763,François Rousselot,Rousselot,François,1,La Conception Innovante : synthèse de systèmes ou résolution de problèmes ?,2006
+764,Cecilia Zanni,Zanni,Cecilia,2,La Conception Innovante : synthèse de systèmes ou résolution de problèmes ?,2006
+765,David Faye,Faye,David,1,RDF triples management in roStore.,2011
+766,Olivier Curé,Curé,Olivier,2,RDF triples management in roStore.,2011
+767,Guillaume Blin,Blin,Guillaume,3,RDF triples management in roStore.,2011
+768,Cheikh Thiam,Thiam,Cheikh,4,RDF triples management in roStore.,2011
+769,Jessica Pinaire,Pinaire,Jessica,1,Infarctus du myocarde : quelles sont les trajectoires de soins pronostiques du décès à l'hôpital?,2017
+770,Jérôme Azé,Azé,Jérôme,2,Infarctus du myocarde : quelles sont les trajectoires de soins pronostiques du décès à l'hôpital?,2017
+771,Sandra Bringay,Bringay,Sandra,3,Infarctus du myocarde : quelles sont les trajectoires de soins pronostiques du décès à l'hôpital?,2017
+772,Paul Landais,Landais,Paul,4,Infarctus du myocarde : quelles sont les trajectoires de soins pronostiques du décès à l'hôpital?,2017
+773,Rafik Abbes,Abbes,Rafik,1,Détection d'informations vitales pour la mise à jour de bases de connaissances.,2015
+774,Nathalie Hernandez,Hernandez,Nathalie,2,Détection d'informations vitales pour la mise à jour de bases de connaissances.,2015
+775,Karen Pinel-Sauvagnat,Pinel-Sauvagnat,Karen,3,Détection d'informations vitales pour la mise à jour de bases de connaissances.,2015
+776,Mohand Boughanem,Boughanem,Mohand,4,Détection d'informations vitales pour la mise à jour de bases de connaissances.,2015
+777,Pavel Arapov,Arapov,Pavel,1,Un wiki/IDE pour exploiter le web de données.,2014
+778,Amel Ben Othmane,Ben,Amel,2,Un wiki/IDE pour exploiter le web de données.,2014
+779,Michel Buffa,Buffa,Michel,3,Un wiki/IDE pour exploiter le web de données.,2014
+780,Hakim Mokeddem,Mokeddem,Hakim,1,Intégration de raisonnements automatiques dans le système d'annotation MemoNote.,2012
+781,Cyrille Desmoulins,Desmoulins,Cyrille,2,Intégration de raisonnements automatiques dans le système d'annotation MemoNote.,2012
+782,Mathilde Lannes,Lannes,Mathilde,1,Du langage naturel à la connaissance il n'y a qu'un pas : SWIP.,2017
+783,Fabien Amarger,Amarger,Fabien,2,Du langage naturel à la connaissance il n'y a qu'un pas : SWIP.,2017
+784,Nicolas Seydoux,Seydoux,Nicolas,3,Du langage naturel à la connaissance il n'y a qu'un pas : SWIP.,2017
+785,Nathalie Hernandez,Hernandez,Nathalie,4,Du langage naturel à la connaissance il n'y a qu'un pas : SWIP.,2017
+786,Vincent Henry,Henry,Vincent,1,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+787,Arnaud Ferré,Ferré,Arnaud,2,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+788,Christine Froidevaux,Froidevaux,Christine,3,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+789,Anne Goelzer,Goelzer,Anne,4,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+790,Vincent Fromion,Fromion,Vincent,5,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+791,Sarah Cohen Boulakia,Cohen,Sarah,6,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+792,Sandra Dérozier,Dérozier,Sandra,7,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+793,Marc Dinh,Dinh,Marc,8,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+794,Ghislain Fiévet,Fiévet,Ghislain,9,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+795,Stephan Fischer 0002,Fischer,Stephan,10,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+796,Jean-François Gibrat,Gibrat,Jean-François,11,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+797,Valentin Loux,Loux,Valentin,12,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+798,Sabine Peres,Peres,Sabine,13,Représentation systémique multi-échelle des processus biologiques de la bactérie.,2016
+799,Mike Donald Tapi-Nzali,Donald,Mike,1,Construction d'un vocabulaire patient/médecin dédié au cancer du sein à partir des médias sociaux.,2015
+800,Sandra Bringay,Bringay,Sandra,2,Construction d'un vocabulaire patient/médecin dédié au cancer du sein à partir des médias sociaux.,2015
+801,Christian Lavergne,Lavergne,Christian,3,Construction d'un vocabulaire patient/médecin dédié au cancer du sein à partir des médias sociaux.,2015
+802,Thomas Opitz,Opitz,Thomas,4,Construction d'un vocabulaire patient/médecin dédié au cancer du sein à partir des médias sociaux.,2015
+803,Jérôme Azé,Azé,Jérôme,5,Construction d'un vocabulaire patient/médecin dédié au cancer du sein à partir des médias sociaux.,2015
+804,Caroline Mollevi,Mollevi,Caroline,6,Construction d'un vocabulaire patient/médecin dédié au cancer du sein à partir des médias sociaux.,2015
+805,Sarra Ben Abbès,Ben,Sarra,1,Évaluation de classes sémantiques pour la construction d'ontologies.,2010
+806,Haïfa Zargayouna,Zargayouna,Haïfa,2,Évaluation de classes sémantiques pour la construction d'ontologies.,2010
+807,Adeline Nazarenko,Nazarenko,Adeline,3,Évaluation de classes sémantiques pour la construction d'ontologies.,2010
+808,Jacques Bouaud,Bouaud,Jacques,1,Médecine factuelle et recommandations de bonne pratique : une extension du modèle classique pour expliquer les décisions médicales non conformes.,2012
+809,Brigitte Séroussi,Séroussi,Brigitte,2,Médecine factuelle et recommandations de bonne pratique : une extension du modèle classique pour expliquer les décisions médicales non conformes.,2012
+810,Papa Fary Diallo,Fary,Papa,1,HuTO: une Ontologie Temporelle Narrative pour les Applications du Web Sémantique.,2015
+811,Olivier Corby,Corby,Olivier,2,HuTO: une Ontologie Temporelle Narrative pour les Applications du Web Sémantique.,2015
+812,Isabelle Mirbel,Mirbel,Isabelle,3,HuTO: une Ontologie Temporelle Narrative pour les Applications du Web Sémantique.,2015
+813,Moussa Lo,Lo,Moussa,4,HuTO: une Ontologie Temporelle Narrative pour les Applications du Web Sémantique.,2015
+814,Seydina M. Ndiaye,M.,Seydina,5,HuTO: une Ontologie Temporelle Narrative pour les Applications du Web Sémantique.,2015
+815,Raphaël Troncy,Troncy,Raphaël,1,LODE: une ontologie pour représenter des événements dans le web de données.,2010
+816,Ryan Shaw 0001,Shaw,Ryan,2,LODE: une ontologie pour représenter des événements dans le web de données.,2010
+817,Lynda Hardman,Hardman,Lynda,3,LODE: une ontologie pour représenter des événements dans le web de données.,2010
+818,Pierre-Yves Gicquel,Gicquel,Pierre-Yves,1,Opérationnalisation d'un modèle sémantique du contexte pour l'apprentissage en mobilité.,2012
+819,Dominique Lenne,Lenne,Dominique,2,Opérationnalisation d'un modèle sémantique du contexte pour l'apprentissage en mobilité.,2012
+820,Cédric Lopez,Lopez,Cédric,1,ProVoc : une ontologie pour décrire des produits sur le Web.,2016
+821,Farhad Nooralahzadeh,Nooralahzadeh,Farhad,2,ProVoc : une ontologie pour décrire des produits sur le Web.,2016
+822,Elena Cabrio,Cabrio,Elena,3,ProVoc : une ontologie pour décrire des produits sur le Web.,2016
+823,Frédérique Segond,Segond,Frédérique,4,ProVoc : une ontologie pour décrire des produits sur le Web.,2016
+824,Fabien Gandon,Gandon,Fabien,5,ProVoc : une ontologie pour décrire des produits sur le Web.,2016
+825,Jérôme Nobécourt,Nobécourt,Jérôme,1,Mise à disposition des spectres d'activité des antibiotiques pour le médecin généraliste : méthode et résultats.,2008
+826,Catherine Duclos,Duclos,Catherine,2,Mise à disposition des spectres d'activité des antibiotiques pour le médecin généraliste : méthode et résultats.,2008
+827,Laurie Planes,Planes,Laurie,1,Utilisation d'un outil de recherche d'information pour la mise en correspondance de thesaurus.,2013
+828,Stéphane Dervaux,Dervaux,Stéphane,2,Utilisation d'un outil de recherche d'information pour la mise en correspondance de thesaurus.,2013
+829,Juliette Dibie-Barthélemy,Dibie-Barthélemy,Juliette,3,Utilisation d'un outil de recherche d'information pour la mise en correspondance de thesaurus.,2013
+830,Nicolas Guinet,Guinet,Nicolas,4,Utilisation d'un outil de recherche d'information pour la mise en correspondance de thesaurus.,2013
+831,Liliana Ibanescu,Ibanescu,Liliana,5,Utilisation d'un outil de recherche d'information pour la mise en correspondance de thesaurus.,2013
+832,Jean Charlet,Charlet,Jean,1,Décrire les maladies localisées et la physiopathologie pour une ontologie des urgences : un algorithme générique à partir de la FMA.,2014
+833,Laurent Mazuel,Mazuel,Laurent,2,Décrire les maladies localisées et la physiopathologie pour une ontologie des urgences : un algorithme générique à partir de la FMA.,2014
+834,Gunnar Declerck,Declerck,Gunnar,3,Décrire les maladies localisées et la physiopathologie pour une ontologie des urgences : un algorithme générique à partir de la FMA.,2014
+835,Patrick Miroux,Miroux,Patrick,4,Décrire les maladies localisées et la physiopathologie pour une ontologie des urgences : un algorithme générique à partir de la FMA.,2014
+836,Pierre Gayet,Gayet,Pierre,5,Décrire les maladies localisées et la physiopathologie pour une ontologie des urgences : un algorithme générique à partir de la FMA.,2014
+837,Michel Chein,Chein,Michel,1,Définition de la sémantique des clés dans le web sémantique : un point de vue théorique.,2014
+838,Madalina Croitoru,Croitoru,Madalina,2,Définition de la sémantique des clés dans le web sémantique : un point de vue théorique.,2014
+839,Michel Leclère,Leclère,Michel,3,Définition de la sémantique des clés dans le web sémantique : un point de vue théorique.,2014
+840,Nathalie Pernelle,Pernelle,Nathalie,4,Définition de la sémantique des clés dans le web sémantique : un point de vue théorique.,2014
+841,Fatiha Saïs,Saïs,Fatiha,5,Définition de la sémantique des clés dans le web sémantique : un point de vue théorique.,2014
+842,Danai Symeonidou,Symeonidou,Danai,6,Définition de la sémantique des clés dans le web sémantique : un point de vue théorique.,2014
+843,Abir-Beatrice Karami,Karami,Abir-Beatrice,1,Apprentissage de connaissances d'adaptation à partir des feedbacks des utilisateurs.,2014
+844,Karim Sehaba,Sehaba,Karim,2,Apprentissage de connaissances d'adaptation à partir des feedbacks des utilisateurs.,2014
+845,Benoît Encelle,Encelle,Benoît,3,Apprentissage de connaissances d'adaptation à partir des feedbacks des utilisateurs.,2014
+846,Sandra Bringay,Bringay,Sandra,1,Identifier la cible des émotions dans les forums de santé.,2014
+847,Eric Kergosien,Kergosien,Eric,2,Identifier la cible des émotions dans les forums de santé.,2014
+848,Pierre Pompidor,Pompidor,Pierre,3,Identifier la cible des émotions dans les forums de santé.,2014
+849,Pascal Poncelet,Poncelet,Pascal,4,Identifier la cible des émotions dans les forums de santé.,2014
+850,Mohamed Nader Jelassi,Nader,Mohamed,1,PERSOREC : un système personnalisé de recommandations pour les folksonomies basé sur les concepts quadratiques.,2016
+851,Sadok Ben Yahia,Ben,Sadok,2,PERSOREC : un système personnalisé de recommandations pour les folksonomies basé sur les concepts quadratiques.,2016
+852,Engelbert Mephu Nguifo,Mephu,Engelbert,3,PERSOREC : un système personnalisé de recommandations pour les folksonomies basé sur les concepts quadratiques.,2016
+853,Yves Mercadier,Mercadier,Yves,1,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+854,Jérôme Azé,Azé,Jérôme,2,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+855,Sandra Bringay,Bringay,Sandra,3,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+856,Viviane Clavier,Clavier,Viviane,4,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+857,Erick Cuenca,Cuenca,Erick,5,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+858,Céline Paganelli,Paganelli,Céline,6,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+859,Pascal Poncelet,Poncelet,Pascal,7,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+860,Arnaud Sallaberry,Sallaberry,Arnaud,8,#AIDS Analyse Information Dangers Sexualité : caractériser les discours à propos du VIH dans les forums de santé.,2018
+861,Nicolas Seydoux,Seydoux,Nicolas,1,"Rôle d'une base de connaissance dans SemIoTics, un système autonome contrôlant un appartement connecté.",2016
+862,Khalil Drira,Drira,Khalil,2,"Rôle d'une base de connaissance dans SemIoTics, un système autonome contrôlant un appartement connecté.",2016
+863,Nathalie Hernandez,Hernandez,Nathalie,3,"Rôle d'une base de connaissance dans SemIoTics, un système autonome contrôlant un appartement connecté.",2016
+864,Thierry Monteil 0001,Monteil,Thierry,4,"Rôle d'une base de connaissance dans SemIoTics, un système autonome contrôlant un appartement connecté.",2016
+865,Cécile L'Héritier,L'Héritier,Cécile,1,Etude d'une approche de Retour d'Expérience pour la découverte d'enseignements génériques dans le domaine humanitaire.,2018
+866,Sébastien Harispe,Harispe,Sébastien,2,Etude d'une approche de Retour d'Expérience pour la découverte d'enseignements génériques dans le domaine humanitaire.,2018
+867,Abdelhak Imoussaten,Imoussaten,Abdelhak,3,Etude d'une approche de Retour d'Expérience pour la découverte d'enseignements génériques dans le domaine humanitaire.,2018
+868,Gilles Dusserre,Dusserre,Gilles,4,Etude d'une approche de Retour d'Expérience pour la découverte d'enseignements génériques dans le domaine humanitaire.,2018
+869,Benoît Roig,Roig,Benoît,5,Etude d'une approche de Retour d'Expérience pour la découverte d'enseignements génériques dans le domaine humanitaire.,2018
+870,Mohamed Nader Jelassi,Nader,Mohamed,1,Nouvelle approche de recommandation personnalisée dans les folksonomies basée sur le profil des utilisateurs.,2013
+871,Sadok Ben Yahia,Ben,Sadok,2,Nouvelle approche de recommandation personnalisée dans les folksonomies basée sur le profil des utilisateurs.,2013
+872,Engelbert Mephu Nguifo,Mephu,Engelbert,3,Nouvelle approche de recommandation personnalisée dans les folksonomies basée sur le profil des utilisateurs.,2013
+873,Rokia Bendaoud,Bendaoud,Rokia,1,Construction d'une ontologie à partir d'un corpus de textes avec l'ACF.,2007
+874,Mohamed Rouane Hacene,Rouane,Mohamed,2,Construction d'une ontologie à partir d'un corpus de textes avec l'ACF.,2007
+875,Yannick Toussaint,Toussaint,Yannick,3,Construction d'une ontologie à partir d'un corpus de textes avec l'ACF.,2007
+876,Bertrand Delecroix,Delecroix,Bertrand,4,Construction d'une ontologie à partir d'un corpus de textes avec l'ACF.,2007
+877,Amedeo Napoli,Napoli,Amedeo,5,Construction d'une ontologie à partir d'un corpus de textes avec l'ACF.,2007
+878,Sonia Cardoso,Cardoso,Sonia,1,De l'intérêt des ontologies modulaires. Application à la modélisation de la prise en charge de la SLA.,2018
+879,Xavier Aimé,Aimé,Xavier,2,De l'intérêt des ontologies modulaires. Application à la modélisation de la prise en charge de la SLA.,2018
+880,Vincent Meininger,Meininger,Vincent,3,De l'intérêt des ontologies modulaires. Application à la modélisation de la prise en charge de la SLA.,2018
+881,David Grabli,Grabli,David,4,De l'intérêt des ontologies modulaires. Application à la modélisation de la prise en charge de la SLA.,2018
+882,K. Bretonnel Cohen,Bretonnel,K.,5,De l'intérêt des ontologies modulaires. Application à la modélisation de la prise en charge de la SLA.,2018
+883,Jean Charlet,Charlet,Jean,6,De l'intérêt des ontologies modulaires. Application à la modélisation de la prise en charge de la SLA.,2018
+884,Khalil Riad Bouzidi,Riad,Khalil,1,Aide à la rédaction de documents réglementaires dans le domaine du bâtiment.,2012
+885,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,Aide à la rédaction de documents réglementaires dans le domaine du bâtiment.,2012
+886,Bruno Fiés,Fiés,Bruno,3,Aide à la rédaction de documents réglementaires dans le domaine du bâtiment.,2012
+887,Olivier Corby,Corby,Olivier,4,Aide à la rédaction de documents réglementaires dans le domaine du bâtiment.,2012
+888,Nhan Le Thanh,Le,Nhan,5,Aide à la rédaction de documents réglementaires dans le domaine du bâtiment.,2012
+889,Stella Marc-Zwecker,Marc-Zwecker,Stella,1,Implémentation d'un raisonnement spatial qualitatif sur les relations RCC8 au moyen de OWL et de SWRL.,2013
+890,François de Bertrand de Beuvron,de,François,2,Implémentation d'un raisonnement spatial qualitatif sur les relations RCC8 au moyen de OWL et de SWRL.,2013
+891,Cecilia Zanni-Merk,Zanni-Merk,Cecilia,3,Implémentation d'un raisonnement spatial qualitatif sur les relations RCC8 au moyen de OWL et de SWRL.,2013
+892,Florence Le Ber,Le,Florence,4,Implémentation d'un raisonnement spatial qualitatif sur les relations RCC8 au moyen de OWL et de SWRL.,2013
+893,Brigitte Séroussi,Séroussi,Brigitte,1,Profils patients associés à la non conformité des décisions aux recommandations de prise en charge thérapeutique des cancers du sein : utilisation de l'analyse de concepts formels.,2013
+894,Nizar Messai,Messai,Nizar,2,Profils patients associés à la non conformité des décisions aux recommandations de prise en charge thérapeutique des cancers du sein : utilisation de l'analyse de concepts formels.,2013
+895,Cédric Laouenan,Laouenan,Cédric,3,Profils patients associés à la non conformité des décisions aux recommandations de prise en charge thérapeutique des cancers du sein : utilisation de l'analyse de concepts formels.,2013
+896,France Mentré,Mentré,France,4,Profils patients associés à la non conformité des décisions aux recommandations de prise en charge thérapeutique des cancers du sein : utilisation de l'analyse de concepts formels.,2013
+897,Jacques Bouaud,Bouaud,Jacques,5,Profils patients associés à la non conformité des décisions aux recommandations de prise en charge thérapeutique des cancers du sein : utilisation de l'analyse de concepts formels.,2013
+898,Jean-Baptiste Lamy,Lamy,Jean-Baptiste,1,De l'analyse d'un corpus de texte à la conception d'une interface graphique facilitant l'accès aux connaissances sur le médicament.,2009
+899,Catherine Duclos,Duclos,Catherine,2,De l'analyse d'un corpus de texte à la conception d'une interface graphique facilitant l'accès aux connaissances sur le médicament.,2009
+900,Alain Venot,Venot,Alain,3,De l'analyse d'un corpus de texte à la conception d'une interface graphique facilitant l'accès aux connaissances sur le médicament.,2009
+901,Samia Beldjoudi,Beldjoudi,Samia,1,Améliorer la recommandation des ressources dans l'apprentissage collaboratif en ligne.,2018
+902,Hassina Seridi,Seridi,Hassina,2,Améliorer la recommandation des ressources dans l'apprentissage collaboratif en ligne.,2018
+903,Antoine Vincent,Vincent,Antoine,1,L'intérêt des patrons dans la gestion des connaissances liées à la création sonore.,2014
+904,Bruno Bachimont,Bachimont,Bruno,2,L'intérêt des patrons dans la gestion des connaissances liées à la création sonore.,2014
+905,Alain Bonardi,Bonardi,Alain,3,L'intérêt des patrons dans la gestion des connaissances liées à la création sonore.,2014
+906,Ines Bannour,Bannour,Ines,1,Modèle unifié pour la recherche d'information sémantique.,2016
+907,Haïfa Zargayouna,Zargayouna,Haïfa,2,Modèle unifié pour la recherche d'information sémantique.,2016
+908,Adeline Nazarenko,Nazarenko,Adeline,3,Modèle unifié pour la recherche d'information sémantique.,2016
+909,Sahar Aljalbout,Aljalbout,Sahar,1,Un modèle pour la représentation des connaissances temporelles dans les documents historiques.,2017
+910,Gilles Falquet,Falquet,Gilles,2,Un modèle pour la représentation des connaissances temporelles dans les documents historiques.,2017
+911,Jean-Pierre Cahier,Cahier,Jean-Pierre,1,Infrastructure web socio-sémantique pour la veille collaborative.,2014
+912,Mylène Leitzelman,Leitzelman,Mylène,2,Infrastructure web socio-sémantique pour la veille collaborative.,2014
+913,Patrick Brébion,Brébion,Patrick,3,Infrastructure web socio-sémantique pour la veille collaborative.,2014
+914,Matthieu Tixier,Tixier,Matthieu,1,Une démarche de conception de services d'information et de communication dédiés aux communautés d'aidants.,2009
+915,Myriam Lewkowicz,Lewkowicz,Myriam,2,Une démarche de conception de services d'information et de communication dédiés aux communautés d'aidants.,2009
+916,Hélène de Ribaupierre,de,Hélène,1,Un modèle d'annotation sémantique centré sur les utilisateurs de documents scientifiques : cas d'utilisation dans les études genre.,2014
+917,Gilles Falquet,Falquet,Gilles,2,Un modèle d'annotation sémantique centré sur les utilisateurs de documents scientifiques : cas d'utilisation dans les études genre.,2014
+918,Fabien Amarger,Amarger,Fabien,1,Web de données agricole : transformation de sources pour une ontologie modulaire.,2013
+919,Catherine Roussey,Roussey,Catherine,2,Web de données agricole : transformation de sources pour une ontologie modulaire.,2013
+920,Jean-Pierre Chanet,Chanet,Jean-Pierre,3,Web de données agricole : transformation de sources pour une ontologie modulaire.,2013
+921,Ollivier Haemmerlé,Haemmerlé,Ollivier,4,Web de données agricole : transformation de sources pour une ontologie modulaire.,2013
+922,Nathalie Hernandez,Hernandez,Nathalie,5,Web de données agricole : transformation de sources pour une ontologie modulaire.,2013
+923,Christophe Roche,Roche,Christophe,1,Dire n'est pas concevoir.,2007
+924,Nadjet Zemirline,Zemirline,Nadjet,1,Réutilisation de patrons d'adaptation - Application aux systèmes hypermédia adaptatifs.,2010
+925,Yolaine Bourda,Bourda,Yolaine,2,Réutilisation de patrons d'adaptation - Application aux systèmes hypermédia adaptatifs.,2010
+926,Chantal Reynaud,Reynaud,Chantal,3,Réutilisation de patrons d'adaptation - Application aux systèmes hypermédia adaptatifs.,2010
+927,Antoine Vincent,Vincent,Antoine,1,Prescrire une modélisation par les patrons : exemple des patrons de création pour la représentation des processus de production sonore.,2013
+928,Bruno Bachimont,Bachimont,Bruno,2,Prescrire une modélisation par les patrons : exemple des patrons de création pour la représentation des processus de production sonore.,2013
+929,Alain Bonardi,Bonardi,Alain,3,Prescrire une modélisation par les patrons : exemple des patrons de création pour la représentation des processus de production sonore.,2013
+930,Catherine Comparot,Comparot,Catherine,1,Expression de requêtes en graphes conceptuels à partir de mots-clés et de patrons.,2010
+931,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Expression de requêtes en graphes conceptuels à partir de mots-clés et de patrons.,2010
+932,Nathalie Hernandez,Hernandez,Nathalie,3,Expression de requêtes en graphes conceptuels à partir de mots-clés et de patrons.,2010
+933,Mouna Kamel,Kamel,Mouna,1,« Quand rédiger c'est décrire ». Mise en forme matérielle des textes et construction d'ontologies à partir de textes.,2012
+934,Mustapha Mojahid,Mojahid,Mustapha,2,« Quand rédiger c'est décrire ». Mise en forme matérielle des textes et construction d'ontologies à partir de textes.,2012
+935,Bernard Rothenburger,Rothenburger,Bernard,3,« Quand rédiger c'est décrire ». Mise en forme matérielle des textes et construction d'ontologies à partir de textes.,2012
+936,Gilles Kassel,Kassel,Gilles,1,Vers une ontologie formelle des artefacts.,2009
+937,Karim Sehaba,Sehaba,Karim,1,Partage d'expériences entre utilisateurs différents : Adaptation des modalités d'interaction.,2011
+938,Jessica Pinaire,Pinaire,Jessica,1,Extraire semi-automatiquement des connaissances dans la littérature biomédicale.,2016
+939,Jérôme Azé,Azé,Jérôme,2,Extraire semi-automatiquement des connaissances dans la littérature biomédicale.,2016
+940,Sandra Bringay,Bringay,Sandra,3,Extraire semi-automatiquement des connaissances dans la littérature biomédicale.,2016
+941,Paul Landais,Landais,Paul,4,Extraire semi-automatiquement des connaissances dans la littérature biomédicale.,2016
+942,My Thao Tang,Thao,My,1,Vers un processus continu d'extraction de connaissances à partir de textes.,2013
+943,Yannick Toussaint,Toussaint,Yannick,2,Vers un processus continu d'extraction de connaissances à partir de textes.,2013
+944,Nouha Omrane,Omrane,Nouha,1,Les entités nommées : des clés linguistiques pour la conceptualisation.,2011
+945,Adeline Nazarenko,Nazarenko,Adeline,2,Les entités nommées : des clés linguistiques pour la conceptualisation.,2011
+946,Sylvie Szulman,Szulman,Sylvie,3,Les entités nommées : des clés linguistiques pour la conceptualisation.,2011
+947,Ghislain Auguste Atemezing,Auguste,Ghislain,1,Vers une meilleure interopérabilité des données géographiques françaises sur le Web de données.,2012
+948,Raphaël Troncy,Troncy,Raphaël,2,Vers une meilleure interopérabilité des données géographiques françaises sur le Web de données.,2012
+949,Nicolas Delaforge,Delaforge,Nicolas,1,Quelle documentation pour l'archivage du web ?,2007
+950,Bruno Bachimont,Bachimont,Bruno,2,Quelle documentation pour l'archivage du web ?,2007
+951,Michel Crampes,Crampes,Michel,1,Détection de communautés dans les graphes bipartis.,2012
+952,Michel Plantié,Plantié,Michel,2,Détection de communautés dans les graphes bipartis.,2012
+953,Ismail Badache,Badache,Ismail,1,"Prédire l'intensité de contradiction dans les commentaires : faible, forte ou très forte?",2018
+954,Sébastien Fournier,Fournier,Sébastien,2,"Prédire l'intensité de contradiction dans les commentaires : faible, forte ou très forte?",2018
+955,Adrian-Gabriel Chifu,Chifu,Adrian-Gabriel,3,"Prédire l'intensité de contradiction dans les commentaires : faible, forte ou très forte?",2018
+956,Cédric Lopez,Lopez,Cédric,1,Titrage automatique de documents électroniques par extraction de syntagmes nominaux.,2010
+957,Violaine Prince,Prince,Violaine,2,Titrage automatique de documents électroniques par extraction de syntagmes nominaux.,2010
+958,Mathieu Roche,Roche,Mathieu,3,Titrage automatique de documents électroniques par extraction de syntagmes nominaux.,2010
+959,Sandra Michelet,Michelet,Sandra,1,De la conception à l'évaluation d'un modèle de connaissances. Etude de cas : le modèle S-K-E.,2012
+960,Vanda Luengo,Luengo,Vanda,2,De la conception à l'évaluation d'un modèle de connaissances. Etude de cas : le modèle S-K-E.,2012
+961,Jean-Michel Adam,Adam,Jean-Michel,3,De la conception à l'évaluation d'un modèle de connaissances. Etude de cas : le modèle S-K-E.,2012
+962,Nadia Bennani,Bennani,Nadia,1,Adnosco : gérez les données que vous diffusez !,2014
+963,Emmanuel Gaude,Gaude,Emmanuel,2,Adnosco : gérez les données que vous diffusez !,2014
+964,ElOd Egyed-Zsigmond,Egyed-Zsigmond,ElOd,3,Adnosco : gérez les données que vous diffusez !,2014
+965,Philippe Lamarre,Lamarre,Philippe,4,Adnosco : gérez les données que vous diffusez !,2014
+966,Xavier Aimé,Aimé,Xavier,1,IC : Ingénierie des Connaissances ou Ingénierie du Conformisme.,2013
+967,Jean Charlet,Charlet,Jean,2,IC : Ingénierie des Connaissances ou Ingénierie du Conformisme.,2013
+968,Mohamed Sediri,Sediri,Mohamed,1,Vers une représentation de situations de crise gérées par le SAMU.,2012
+969,Nada Matta,Matta,Nada,2,Vers une représentation de situations de crise gérées par le SAMU.,2012
+970,Sophie Loriette,Loriette,Sophie,3,Vers une représentation de situations de crise gérées par le SAMU.,2012
+971,Alain Hugerot,Hugerot,Alain,4,Vers une représentation de situations de crise gérées par le SAMU.,2012
+972,Fabien Amarger,Amarger,Fabien,1,Traitement des incompatibilités de candidats issus d'alignements entre plusieurs bases de connaissances.,2015
+973,Jean-Pierre Chanet,Chanet,Jean-Pierre,2,Traitement des incompatibilités de candidats issus d'alignements entre plusieurs bases de connaissances.,2015
+974,Ollivier Haemmerlé,Haemmerlé,Ollivier,3,Traitement des incompatibilités de candidats issus d'alignements entre plusieurs bases de connaissances.,2015
+975,Nathalie Hernandez,Hernandez,Nathalie,4,Traitement des incompatibilités de candidats issus d'alignements entre plusieurs bases de connaissances.,2015
+976,Catherine Roussey,Roussey,Catherine,5,Traitement des incompatibilités de candidats issus d'alignements entre plusieurs bases de connaissances.,2015
+977,Gaoussou Camara,Camara,Gaoussou,1,Vers une ontologie des processus de propagation des maladies infectieuses.,2012
+978,Sylvie Desprès,Desprès,Sylvie,2,Vers une ontologie des processus de propagation des maladies infectieuses.,2012
+979,Rim Djedidi,Djedidi,Rim,3,Vers une ontologie des processus de propagation des maladies infectieuses.,2012
+980,Moussa Lo,Lo,Moussa,4,Vers une ontologie des processus de propagation des maladies infectieuses.,2012
+981,Mounira Harzallah,Harzallah,Mounira,1,Anti-patrons partiels pour l'identification des problèmes de contradiction sociale dans une ontologie.,2016
+982,Sylvain Falala,Falala,Sylvain,1,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+983,Jocelyn De Goër,De,Jocelyn,2,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+984,Elena Arsevska,Arsevska,Elena,3,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+985,Mathieu Roche,Roche,Mathieu,4,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+986,Julien Rabatel,Rabatel,Julien,5,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+987,David Chavernac,Chavernac,David,6,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+988,Pascal Hendrikx,Hendrikx,Pascal,7,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+989,Thierry Lefrancois,Lefrancois,Thierry,8,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+990,Barbara Dufour,Dufour,Barbara,9,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+991,Renaud Lancelot,Lancelot,Renaud,10,Système de collecte de données Web pour analyser l'émergence et la propagation de maladies animales.,2016
+992,Mélissa Mary,Mary,Mélissa,1,Formalisation de la terminologie LOINC et évaluation de ses avantages pour la classification des tests de laboratoire.,2017
+993,Lina Fatima Soualmia,Fatima,Lina,2,Formalisation de la terminologie LOINC et évaluation de ses avantages pour la classification des tests de laboratoire.,2017
+994,Xavier Gansel,Gansel,Xavier,3,Formalisation de la terminologie LOINC et évaluation de ses avantages pour la classification des tests de laboratoire.,2017
+995,Olivier Corby,Corby,Olivier,1,Un navigateur pour les données liées du Web.,2015
+996,Catherine Faron-Zucker,Faron-Zucker,Catherine,2,Un navigateur pour les données liées du Web.,2015
+997,Sarra Bouzayane,Bouzayane,Sarra,1,Vers une recommandation personnalisée de ressources pour l'apprentissage en ligne.,2018
+998,Inès Saad,Saad,Inès,2,Vers une recommandation personnalisée de ressources pour l'apprentissage en ligne.,2018
+999,Sonia Krivine,Krivine,Sonia,1,Construction automatique d'ontologies à partir d'une base de données relationnelles : application au médicament dans le domaine de la pharmacovigilance.,2009
+1000,Jérôme Nobécourt,Nobécourt,Jérôme,2,Construction automatique d'ontologies à partir d'une base de données relationnelles : application au médicament dans le domaine de la pharmacovigilance.,2009
+1001,Lina Fatima Soualmia,Fatima,Lina,3,Construction automatique d'ontologies à partir d'une base de données relationnelles : application au médicament dans le domaine de la pharmacovigilance.,2009
+1002,Farid Cerbah,Cerbah,Farid,4,Construction automatique d'ontologies à partir d'une base de données relationnelles : application au médicament dans le domaine de la pharmacovigilance.,2009
+1003,Catherine Duclos,Duclos,Catherine,5,Construction automatique d'ontologies à partir d'une base de données relationnelles : application au médicament dans le domaine de la pharmacovigilance.,2009
+1004,Seif Eddine Kramdi,Eddine,Seif,1,Approche générique pour l'extraction de relations à partir de textes.,2009
+1005,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Approche générique pour l'extraction de relations à partir de textes.,2009
+1006,Nathalie Hernandez,Hernandez,Nathalie,3,Approche générique pour l'extraction de relations à partir de textes.,2009
+1007,Christopher Couthon,Couthon,Christopher,1,De la qualité de la coopération à l'identification d'indicateurs de pilotage.,2014
+1008,Régis Martineau,Martineau,Régis,2,De la qualité de la coopération à l'identification d'indicateurs de pilotage.,2014
+1009,Pascal Salembier,Salembier,Pascal,3,De la qualité de la coopération à l'identification d'indicateurs de pilotage.,2014
+1010,Sylvie Ranwez,Ranwez,Sylvie,1,Utilisation de proximités sémantiques pour améliorer la recherche et le rendu d'information.,2010
+1011,Vincent Ranwez,Ranwez,Vincent,2,Utilisation de proximités sémantiques pour améliorer la recherche et le rendu d'information.,2010
+1012,Mohameth-François Sy,Sy,Mohameth-François,3,Utilisation de proximités sémantiques pour améliorer la recherche et le rendu d'information.,2010
+1013,Jacky Montmain,Montmain,Jacky,4,Utilisation de proximités sémantiques pour améliorer la recherche et le rendu d'information.,2010
+1014,Michel Crampes,Crampes,Michel,5,Utilisation de proximités sémantiques pour améliorer la recherche et le rendu d'information.,2010
+1015,Jean-Baptiste Lamy,Lamy,Jean-Baptiste,1,Validation de la sémantique d'un langage iconique médical à l'aide d'une ontologie : méthodes et applications.,2014
+1016,Lina Fatima Soualmia,Fatima,Lina,2,Validation de la sémantique d'un langage iconique médical à l'aide d'une ontologie : méthodes et applications.,2014
+1017,Alain Venot,Venot,Alain,3,Validation de la sémantique d'un langage iconique médical à l'aide d'une ontologie : méthodes et applications.,2014
+1018,Catherine Duclos,Duclos,Catherine,4,Validation de la sémantique d'un langage iconique médical à l'aide d'une ontologie : méthodes et applications.,2014
+1019,Arriel Benis,Benis,Arriel,1,DiscoClini : Une méthodologie pour l'extraction de relations linéaires dans des données de génomique médicale.,2007
+1020,Jean-Daniel Zucker,Zucker,Jean-Daniel,2,DiscoClini : Une méthodologie pour l'extraction de relations linéaires dans des données de génomique médicale.,2007
+1021,Sylvie Desprès,Desprès,Sylvie,1,Construction d'une ontologie du domaine HSE.,2007
+1022,Frédéric Fürst,Fürst,Frédéric,2,Construction d'une ontologie du domaine HSE.,2007
+1023,Sylvie Szulman,Szulman,Sylvie,3,Construction d'une ontologie du domaine HSE.,2007
+1024,Lamine Traore,Traore,Lamine,1,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1025,Amina Chniti,Chniti,Amina,2,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1026,Sajjad Hussain,Hussain,Sajjad,3,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1027,Nicolas Griffon,Griffon,Nicolas,4,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1028,Stéfan Jacques Darmoni,Jacques,Stéfan,5,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1029,Jean Charlet,Charlet,Jean,6,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1030,Eric Sadou,Sadou,Eric,7,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1031,David Ouagne,Ouagne,David,8,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1032,Éric Lepage,Lepage,Éric,9,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1033,Christel Daniel,Daniel,Christel,10,Plateforme d'interopérabilité sémantique gérant les terminologies d'interface au sein d'un territoire de santé numérique.,2014
+1034,Sandra Nogry,Nogry,Sandra,1,Modélisation d'épisodes de conception d'observatoires à partir de corpus narratifs.,2007
+1035,Florence Le Ber,Le,Florence,2,Modélisation d'épisodes de conception d'observatoires à partir de corpus narratifs.,2007
+1036,Christian Brassac,Brassac,Christian,3,Modélisation d'épisodes de conception d'observatoires à partir de corpus narratifs.,2007
+1037,Leila Zemmouchi-Ghomari,Zemmouchi-Ghomari,Leila,1,Génération automatique d'un questionnaire à partir d'une ontologie de domaine.,2017
+1038,Faiza Deghmani,Deghmani,Faiza,2,Génération automatique d'un questionnaire à partir d'une ontologie de domaine.,2017
+1039,Aya Meghnous,Meghnous,Aya,3,Génération automatique d'un questionnaire à partir d'une ontologie de domaine.,2017
+1040,Michel Crampes,Crampes,Michel,1,Cartes conceptuelles pour l'ingénierie de cartes de connaissances adaptatives.,2006
+1041,Jean Villerd,Villerd,Jean,2,Cartes conceptuelles pour l'ingénierie de cartes de connaissances adaptatives.,2006
+1042,Filip Velickovski,Velickovski,Filip,3,Cartes conceptuelles pour l'ingénierie de cartes de connaissances adaptatives.,2006
+1043,Nicholas Mille,Mille,Nicholas,4,Cartes conceptuelles pour l'ingénierie de cartes de connaissances adaptatives.,2006
+1044,Sylvie Ranwez,Ranwez,Sylvie,5,Cartes conceptuelles pour l'ingénierie de cartes de connaissances adaptatives.,2006
+1045,Camille Pradel,Pradel,Camille,1,Swip : une interface langue naturelle à SPARQL programmée en SPARQL.,2014
+1046,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Swip : une interface langue naturelle à SPARQL programmée en SPARQL.,2014
+1047,Nathalie Hernandez,Hernandez,Nathalie,3,Swip : une interface langue naturelle à SPARQL programmée en SPARQL.,2014
+1048,Céline Joiron,Joiron,Céline,1,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1049,Frédéric Fürst,Fürst,Frédéric,2,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1050,Gilles Kassel,Kassel,Gilles,3,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1051,Alistair Jones,Jones,Alistair,4,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1052,Jean-Paul A. Barthès,A.,Jean-Paul,5,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1053,Claude Moulin,Moulin,Claude,6,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1054,Dominique Lenne,Lenne,Dominique,7,Une ontologie pour la conception d'une plateforme collaborative exploitant une table multi-tactile et multi-modale.,2013
+1055,Élodie Thiéblin,Thiéblin,Élodie,1,Un jeu de données d'évaluation de correspondances complexes entre ontologies.,2017
+1056,Ollivier Haemmerlé,Haemmerlé,Ollivier,2,Un jeu de données d'évaluation de correspondances complexes entre ontologies.,2017
+1057,Nathalie Hernandez,Hernandez,Nathalie,3,Un jeu de données d'évaluation de correspondances complexes entre ontologies.,2017
+1058,Cássia Trojahn,Trojahn,Cássia,4,Un jeu de données d'évaluation de correspondances complexes entre ontologies.,2017
+1059,Sylvie Desprès,Desprès,Sylvie,1,oogo : Ontologie des Outils utiles à la Gestion d'Ontologies.,2018
+1060,Kenza Harkouken Saiah,Harkouken,Kenza,1,Une ontologie de services pour la représentation de la sémantique d'un environnement virtuel urbain.,2013
+1061,Nicolas Sabouret,Sabouret,Nicolas,2,Une ontologie de services pour la représentation de la sémantique d'un environnement virtuel urbain.,2013
+1062,Jean-Yves Donnart,Donnart,Jean-Yves,3,Une ontologie de services pour la représentation de la sémantique d'un environnement virtuel urbain.,2013
+1063,Ourdia Ressad,Ressad,Ourdia,1,Construction collaborative d'une Ressource Termino-Ontologique (RTO) pour le droit des collectivités territoriales.,2013
+1064,Sylvie Szulman,Szulman,Sylvie,2,Construction collaborative d'une Ressource Termino-Ontologique (RTO) pour le droit des collectivités territoriales.,2013
+1065,Haïfa Zargayouna,Zargayouna,Haïfa,3,Construction collaborative d'une Ressource Termino-Ontologique (RTO) pour le droit des collectivités territoriales.,2013
+1066,Ève Paul,Paul,Ève,4,Construction collaborative d'une Ressource Termino-Ontologique (RTO) pour le droit des collectivités territoriales.,2013
+1067,Guillaume Surroca,Surroca,Guillaume,1,Construction et évolution de connaissances par confrontation de points de vue : prototype pour la recherche d'information scientifique.,2014
+1068,Philippe Lemoisson,Lemoisson,Philippe,2,Construction et évolution de connaissances par confrontation de points de vue : prototype pour la recherche d'information scientifique.,2014
+1069,Clément Jonquet,Jonquet,Clément,3,Construction et évolution de connaissances par confrontation de points de vue : prototype pour la recherche d'information scientifique.,2014
+1070,Stefano A. Cerri,A.,Stefano,4,Construction et évolution de connaissances par confrontation de points de vue : prototype pour la recherche d'information scientifique.,2014
+1071,Élise Garrot-Lavoué,Garrot-Lavoué,Élise,1,Outil de gestion des connaissances d'une Interconnexion de Communautés de Pratique.,2009
+1072,Sébastien George,George,Sébastien,2,Outil de gestion des connaissances d'une Interconnexion de Communautés de Pratique.,2009
+1073,Patrick Prévôt,Prévôt,Patrick,3,Outil de gestion des connaissances d'une Interconnexion de Communautés de Pratique.,2009
+1074,Mouna Kamel,Kamel,Mouna,1,Exploiter la structure discursive du texte pour valider les relations candidates d'hyperonymie issues de structures énumératives parallèles.,2016
+1075,Cássia Trojahn,Trojahn,Cássia,2,Exploiter la structure discursive du texte pour valider les relations candidates d'hyperonymie issues de structures énumératives parallèles.,2016
+1076,Nathalie Pernelle,Pernelle,Nathalie,1,Découverte de liens d'identité entre instances décrites par des ontologies partiellement alignées.,2013
+1077,Fatiha Saïs,Saïs,Fatiha,2,Découverte de liens d'identité entre instances décrites par des ontologies partiellement alignées.,2013
+1078,Brigitte Safar,Safar,Brigitte,3,Découverte de liens d'identité entre instances décrites par des ontologies partiellement alignées.,2013
+1079,Maria Koutraki,Koutraki,Maria,4,Découverte de liens d'identité entre instances décrites par des ontologies partiellement alignées.,2013
+1080,Tushar Ghosh,Ghosh,Tushar,5,Découverte de liens d'identité entre instances décrites par des ontologies partiellement alignées.,2013
+1081,Freddy Limpens,Limpens,Freddy,1,Rapprocher les ontologies et les folksonomies pour la gestion des connaissances partagées : un état de l'art.,2008
+1082,Fabien Gandon,Gandon,Fabien,2,Rapprocher les ontologies et les folksonomies pour la gestion des connaissances partagées : un état de l'art.,2008
+1083,Michel Buffa,Buffa,Michel,3,Rapprocher les ontologies et les folksonomies pour la gestion des connaissances partagées : un état de l'art.,2008
+1084,Ivan Garrido-Marquez,Garrido-Marquez,Ivan,1,Mesurer la qualité des systèmes de catégories de blogs.,2017
+1085,Jorge García Flores,García,Jorge,2,Mesurer la qualité des systèmes de catégories de blogs.,2017
+1086,François Lévy,Lévy,François,3,Mesurer la qualité des systèmes de catégories de blogs.,2017
+1087,Adeline Nazarenko,Nazarenko,Adeline,4,Mesurer la qualité des systèmes de catégories de blogs.,2017
+1088,Daniel Mercier,Mercier,Daniel,1,Détection et Représentation des changements dans les sources de données RDF.,2016
+1089,Nathalie Pernelle,Pernelle,Nathalie,2,Détection et Représentation des changements dans les sources de données RDF.,2016
+1090,Fatiha Saïs,Saïs,Fatiha,3,Détection et Représentation des changements dans les sources de données RDF.,2016
+1091,Sujeeban Thuraisamy,Thuraisamy,Sujeeban,4,Détection et Représentation des changements dans les sources de données RDF.,2016
+1092,Sandra Bringay,Bringay,Sandra,1,Les motifs séquentiels au service de la structuration des folksonomies.,2010
+1093,Maguelonne Teisseire,Teisseire,Maguelonne,2,Les motifs séquentiels au service de la structuration des folksonomies.,2010
+1094,Julien Gomila,Gomila,Julien,3,Les motifs séquentiels au service de la structuration des folksonomies.,2010
+1095,Damien Hoffschir,Hoffschir,Damien,4,Les motifs séquentiels au service de la structuration des folksonomies.,2010
+1096,Thibault Vicaire,Vicaire,Thibault,5,Les motifs séquentiels au service de la structuration des folksonomies.,2010
+1097,Lobna Karoui,Karoui,Lobna,1,Extraction Contextuelle de Concepts Ontologiques pour le Web Sémantique.,2007
+1098,Marie-Aude Aufaure,Aufaure,Marie-Aude,2,Extraction Contextuelle de Concepts Ontologiques pour le Web Sémantique.,2007
+1099,Nacéra Bennacer,Bennacer,Nacéra,3,Extraction Contextuelle de Concepts Ontologiques pour le Web Sémantique.,2007
+1100,Blandine Ginon,Ginon,Blandine,1,Mise en place d'un système d'assistance personnalisée dans une application existante.,2013
+1101,Stéphanie Jean-Daubias,Jean-Daubias,Stéphanie,2,Mise en place d'un système d'assistance personnalisée dans une application existante.,2013
+1102,Pierre-Antoine Champin,Champin,Pierre-Antoine,3,Mise en place d'un système d'assistance personnalisée dans une application existante.,2013
+1103,Nawel Sekkal,Sekkal,Nawel,1,Représentation sémantique des documents pédagogiques.,2016
+1104,Fedoua Didi,Didi,Fedoua,2,Représentation sémantique des documents pédagogiques.,2016
+1105,Adel Ghamnia,Ghamnia,Adel,1,Extraction de relations : combiner les techniques pour s'adapter à la diversité du texte.,2017
+1106,Mouna Kamel,Kamel,Mouna,2,Extraction de relations : combiner les techniques pour s'adapter à la diversité du texte.,2017
+1107,Cássia Trojahn,Trojahn,Cássia,3,Extraction de relations : combiner les techniques pour s'adapter à la diversité du texte.,2017
+1108,Cécile Fabre,Fabre,Cécile,4,Extraction de relations : combiner les techniques pour s'adapter à la diversité du texte.,2017
+1109,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,5,Extraction de relations : combiner les techniques pour s'adapter à la diversité du texte.,2017
+1110,Jean Charlet,Charlet,Jean,1,Construire une ontologie médicale pour la recherche d'information : problématiques terminologiques et de modélisation.,2012
+1111,Gunnar Declerck,Declerck,Gunnar,2,Construire une ontologie médicale pour la recherche d'information : problématiques terminologiques et de modélisation.,2012
+1112,Ferdinand Dhombres,Dhombres,Ferdinand,3,Construire une ontologie médicale pour la recherche d'information : problématiques terminologiques et de modélisation.,2012
+1113,Pierre Gayet,Gayet,Pierre,4,Construire une ontologie médicale pour la recherche d'information : problématiques terminologiques et de modélisation.,2012
+1114,Patrick Miroux,Miroux,Patrick,5,Construire une ontologie médicale pour la recherche d'information : problématiques terminologiques et de modélisation.,2012
+1115,Pierre-Yves Vandenbussche,Vandenbussche,Pierre-Yves,6,Construire une ontologie médicale pour la recherche d'information : problématiques terminologiques et de modélisation.,2012
+1116,Nathalie Aussenac-Gilles,Aussenac-Gilles,Nathalie,1,Construction semi-automatique d'ontologies à partir d'une collection de pages web structurées.,2013
+1117,Mouna Kamel,Kamel,Mouna,2,Construction semi-automatique d'ontologies à partir d'une collection de pages web structurées.,2013
+1118,Davide Buscaldi,Buscaldi,Davide,3,Construction semi-automatique d'ontologies à partir d'une collection de pages web structurées.,2013
+1119,Catherine Comparot,Comparot,Catherine,4,Construction semi-automatique d'ontologies à partir d'une collection de pages web structurées.,2013
+1120,Kamal Kansou,Kansou,Kamal,1,Expertise et fonctions qualitatives.,2012
+1121,Guy Della Valle,Della,Guy,2,Expertise et fonctions qualitatives.,2012
+1122,Amadou Ndiaye,Ndiaye,Amadou,3,Expertise et fonctions qualitatives.,2012
+1123,Maxime Lefrançois,Lefrançois,Maxime,1,Un éditeur de définitions formelles pour les connaissances lexicales de la théorie Sens-Texte.,2014
+1124,Fabien Gandon,Gandon,Fabien,2,Un éditeur de définitions formelles pour les connaissances lexicales de la théorie Sens-Texte.,2014
+1125,Alain Giboin,Giboin,Alain,3,Un éditeur de définitions formelles pour les connaissances lexicales de la théorie Sens-Texte.,2014
+1126,Romain Gugert,Gugert,Romain,4,Un éditeur de définitions formelles pour les connaissances lexicales de la théorie Sens-Texte.,2014
+1127,Manuel Zacklad,Zacklad,Manuel,1,Hypertopic : une métasémiotique et un protocole pour le Web socio-sémantique.,2007
+1128,Jean-Pierre Cahier,Cahier,Jean-Pierre,2,Hypertopic : une métasémiotique et un protocole pour le Web socio-sémantique.,2007
+1129,Aurélien Bénel,Bénel,Aurélien,3,Hypertopic : une métasémiotique et un protocole pour le Web socio-sémantique.,2007
+1130,L'Hédi Zaher,Zaher,L'Hédi,4,Hypertopic : une métasémiotique et un protocole pour le Web socio-sémantique.,2007
+1131,Christophe Lejeune,Lejeune,Christophe,5,Hypertopic : une métasémiotique et un protocole pour le Web socio-sémantique.,2007
+1132,Chao Zhou,Zhou,Chao,6,Hypertopic : une métasémiotique et un protocole pour le Web socio-sémantique.,2007
+1133,Emna Hlel,Hlel,Emna,1,Intégration d'un réseau bayésien dans une ontologie.,2014
+1134,Salma Jamoussi,Jamoussi,Salma,2,Intégration d'un réseau bayésien dans une ontologie.,2014
+1135,Abdelmajid Ben Hamadou,Ben,Abdelmajid,3,Intégration d'un réseau bayésien dans une ontologie.,2014
+1136,Esther Nicart,Nicart,Esther,1,Continuous improvement of a document treatment chain using reinforcement learning.,2015
+1137,Bruno Zanuttini,Zanuttini,Bruno,2,Continuous improvement of a document treatment chain using reinforcement learning.,2015
+1138,Bruno Grilhères,Grilhères,Bruno,3,Continuous improvement of a document treatment chain using reinforcement learning.,2015
+1139,Patrick Giroux,Giroux,Patrick,4,Continuous improvement of a document treatment chain using reinforcement learning.,2015
+1140,Alexandre Monnin,Monnin,Alexandre,1,"Qu'est-ce qu'un tag ? Entre accès et libellés, l'esquisse d'une caractérisation.",2009
+1141,Xiaoyue Ma,Ma,Xiaoyue,1,Vers un système de taguage iconique basé sur Hypertopic.,2012
+1142,Jean-Pierre Cahier,Cahier,Jean-Pierre,2,Vers un système de taguage iconique basé sur Hypertopic.,2012
+1143,Raúl García-Castro,García-Castro,Raúl,1,Technical and social aspects of semantic interoperability in the IoT.,2017
+1144,Farah Benamara,Benamara,Farah,1,Intégration d'une ontologie de domaine dans un système question/réponse.,2007
+1145,Mouna Kamel,Kamel,Mouna,2,Intégration d'une ontologie de domaine dans un système question/réponse.,2007
+1146,Naïma El-Kechaï,El-Kechaï,Naïma,1,Quelques enseignements tirés de l'application de la Competence-based Knowledge Space Theory aux Serious Games.,2015
+1147,Javier Melero,Melero,Javier,2,Quelques enseignements tirés de l'application de la Competence-based Knowledge Space Theory aux Serious Games.,2015
+1148,Jean-Marc Labat,Labat,Jean-Marc,3,Quelques enseignements tirés de l'application de la Competence-based Knowledge Space Theory aux Serious Games.,2015
+1149,Sondes Bannour,Bannour,Sondes,1,Mesures de similarité distributionnelle entre termes.,2011
+1150,Laurent Audibert,Audibert,Laurent,2,Mesures de similarité distributionnelle entre termes.,2011
+1151,Adeline Nazarenko,Nazarenko,Adeline,3,Mesures de similarité distributionnelle entre termes.,2011
+1152,Assitan Traoré,Traoré,Assitan,1,Assistance à la découverte de connaissances contextuelles à partir de l'analyse des traces.,2015
+1153,Alain Mille,Mille,Alain,2,Assistance à la découverte de connaissances contextuelles à partir de l'analyse des traces.,2015
+1154,Hélène Tattegrain,Tattegrain,Hélène,3,Assistance à la découverte de connaissances contextuelles à partir de l'analyse des traces.,2015
+1155,Fradj Ben Lamine,Ben,Fradj,1,Étude de Modèles à base de réseaux Bayésiens pour l'aide au diagnostic de tumeurs cérébrales.,2012
+1156,Karim Kalti,Kalti,Karim,2,Étude de Modèles à base de réseaux Bayésiens pour l'aide au diagnostic de tumeurs cérébrales.,2012
+1157,Mohamed Ali Mahjoub,Ali,Mohamed,3,Étude de Modèles à base de réseaux Bayésiens pour l'aide au diagnostic de tumeurs cérébrales.,2012
+1158,Mariem Mahfoudh,Mahfoudh,Mariem,1,Adaptation consistante d'ontologies à l'aide des grammaires de graphes.,2013
+1159,Laurent Thiry,Thiry,Laurent,2,Adaptation consistante d'ontologies à l'aide des grammaires de graphes.,2013
+1160,Germain Forestier,Forestier,Germain,3,Adaptation consistante d'ontologies à l'aide des grammaires de graphes.,2013
+1161,Michel Hassenforder,Hassenforder,Michel,4,Adaptation consistante d'ontologies à l'aide des grammaires de graphes.,2013
+1162,Bryan Kong Win Chang,Kong,Bryan,1,SPARE-LNC : un langage naturel contrôlé pour l'interrogation de traces d'interactions stockées dans une base RDF.,2015
+1163,Marie Lefèvre,Lefèvre,Marie,2,SPARE-LNC : un langage naturel contrôlé pour l'interrogation de traces d'interactions stockées dans une base RDF.,2015
+1164,Nathalie Guin,Guin,Nathalie,3,SPARE-LNC : un langage naturel contrôlé pour l'interrogation de traces d'interactions stockées dans une base RDF.,2015
+1165,Pierre-Antoine Champin,Champin,Pierre-Antoine,4,SPARE-LNC : un langage naturel contrôlé pour l'interrogation de traces d'interactions stockées dans une base RDF.,2015
+1166,Francky Trichet,Trichet,Francky,1,Analyse Sémantique des Réseaux Sociaux d'Usages et d'Opinions.,2013
+1167,Christophe Thovex,Thovex,Christophe,2,Analyse Sémantique des Réseaux Sociaux d'Usages et d'Opinions.,2013
+1168,Bilel Moulahi,Moulahi,Bilel,1,Suivi et détection des idéations suicidaires dans les médias sociaux.,2017
+1169,Jérôme Azé,Azé,Jérôme,2,Suivi et détection des idéations suicidaires dans les médias sociaux.,2017
+1170,Sandra Bringay,Bringay,Sandra,3,Suivi et détection des idéations suicidaires dans les médias sociaux.,2017
+1171,Clement Jonquet,Jonquet,Clement,1,Indexation et intégration de ressources textuelles à l'aide d'ontologies : application au domaine biomédical.,2010
+1172,Adrien Coulet,Coulet,Adrien,2,Indexation et intégration de ressources textuelles à l'aide d'ontologies : application au domaine biomédical.,2010
+1173,Nigam H. Shah,H.,Nigam,3,Indexation et intégration de ressources textuelles à l'aide d'ontologies : application au domaine biomédical.,2010
+1174,Mark A. Musen,A.,Mark,4,Indexation et intégration de ressources textuelles à l'aide d'ontologies : application au domaine biomédical.,2010
+1175,Asma Ben Abacha,Ben,Asma,1,Une approche pour la validation du contenu d'une ontologie par un système à base de questions/réponses.,2013
+1176,Marcos Da Silveira,Da,Marcos,2,Une approche pour la validation du contenu d'une ontologie par un système à base de questions/réponses.,2013
+1177,Cédric Pruski,Pruski,Cédric,3,Une approche pour la validation du contenu d'une ontologie par un système à base de questions/réponses.,2013

@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2011\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.04"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"101",
+"@dc":"101",
+"@oc":"101",
+"@id":"13466418",
+"text":":facetid:toc:db/conf/f-egc/egc2011.bht"
+}
+},
+"hits":{
+"@total":"101",
+"@computed":"100",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1999254",
+"info":{"authors":{"author":["Julien Aligon","Patrick Marcel","Elsa Negre"]},"title":"Résumés et interrogations de logs de requête OLAP.","venue":"EGC","pages":"239-250","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/AligonMN11","ee":"http://editions-rnti.fr/?inprocid=1000951","url":"https://dblp.org/rec/conf/f-egc/AligonMN11"},
+"url":"URL#1999254"
+},
+{
+"@score":"1",
+"@id":"1999255",
+"info":{"authors":{"author":["Samir Amir","Ioan Marius Bilasco","Thierry Urruty","Chabane Djeraba"]},"title":"MuMIE - Une approche automatique pour l&apos;interopérabilité des métadonnées.","venue":"EGC","pages":"347-352","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/AmirBUD11","ee":"http://editions-rnti.fr/?inprocid=1000985","url":"https://dblp.org/rec/conf/f-egc/AmirBUD11"},
+"url":"URL#1999255"
+},
+{
+"@score":"1",
+"@id":"1999256",
+"info":{"authors":{"author":["Pavel Arapov","Sébastien Comos","Olivier Corby","Nicolas Delaforge","Guillaume Erétéo","Catherine Faron-Zucker","Michel Buffa","Fabien Gandon","Guillaume Husson","Freddy Limpens"]},"title":"ISICIL - intégration sémantique d&apos;informations à travers des communautés d&apos;intelligence en ligne.","venue":"EGC","pages":"279-282","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/ArapovCCDEFBGHL11","ee":"http://editions-rnti.fr/?inprocid=1000960","url":"https://dblp.org/rec/conf/f-egc/ArapovCCDEFBGHL11"},
+"url":"URL#1999256"
+},
+{
+"@score":"1",
+"@id":"1999257",
+"info":{"authors":{"author":["Baghdad Atmani","Mohamed Benamina"]},"title":"Conception et implémentation d&apos;une nouvelle technique cellulaire de discrétisation - intégration dans TANAGRA.","venue":"EGC","pages":"315-316","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/AtmaniB11","ee":"http://editions-rnti.fr/?inprocid=1000976","url":"https://dblp.org/rec/conf/f-egc/AtmaniB11"},
+"url":"URL#1999257"
+},
+{
+"@score":"1",
+"@id":"1999258",
+"info":{"authors":{"author":["Baghdad Atmani","Mohamed Benamina","Bouziane Beldjilali"]},"title":"Un système cellulaire neuro-symbolique pour l&apos;extraction et la gestion de connaissances.","venue":"EGC","pages":"89-94","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/AtmaniBB11","ee":"http://editions-rnti.fr/?inprocid=1000934","url":"https://dblp.org/rec/conf/f-egc/AtmaniBB11"},
+"url":"URL#1999258"
+},
+{
+"@score":"1",
+"@id":"1999259",
+"info":{"authors":{"author":["Hanane Azzag","Mustapha Lebbah"]},"title":"Une nouvelle approche visuelle pour la classification hiérarchique et topologique.","venue":"EGC","pages":"677-688","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/AzzagL11","ee":"http://editions-rnti.fr/?inprocid=1001038","url":"https://dblp.org/rec/conf/f-egc/AzzagL11"},
+"url":"URL#1999259"
+},
+{
+"@score":"1",
+"@id":"1999260",
+"info":{"authors":{"author":"Ricardo A. Baeza-Yates"},"title":"Towards a Distributed Web Search Engine.","venue":"EGC","pages":"3-4","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/Baeza-Yates11","ee":"http://editions-rnti.fr/?inprocid=1000919","url":"https://dblp.org/rec/conf/f-egc/Baeza-Yates11"},
+"url":"URL#1999260"
+},
+{
+"@score":"1",
+"@id":"1999261",
+"info":{"authors":{"author":"José L. Balcázar"},"title":"Parameter-free Association Rule Mining with Yacaree.","venue":"EGC","pages":"251-254","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/Balcazar11","ee":"http://editions-rnti.fr/?inprocid=1000952","url":"https://dblp.org/rec/conf/f-egc/Balcazar11"},
+"url":"URL#1999261"
+},
+{
+"@score":"1",
+"@id":"1999262",
+"info":{"authors":{"author":["José L. Balcázar","Cristina Tîrnauca"]},"title":"Closed-set-based Discovery of Representative Association Rules Revisited.","venue":"EGC","pages":"635-646","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BalcazarT11","ee":"http://editions-rnti.fr/?inprocid=1001032","url":"https://dblp.org/rec/conf/f-egc/BalcazarT11"},
+"url":"URL#1999262"
+},
+{
+"@score":"1",
+"@id":"1999263",
+"info":{"authors":{"author":["Antonio Balzanella","Lidia Rivoli","Rosanna Verde"]},"title":"Data Stream Summarization by On-Line Histograms Clustering.","venue":"EGC","pages":"317-318","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BalzanellaRV11","ee":"http://editions-rnti.fr/?inprocid=1000977","url":"https://dblp.org/rec/conf/f-egc/BalzanellaRV11"},
+"url":"URL#1999263"
+},
+{
+"@score":"1",
+"@id":"1999264",
+"info":{"authors":{"author":["Thomas Bärecke","Marie-Jeanne Lesot","Herman Akdag","Bernadette Bouchon-Meunier"]},"title":"Prise en compte du réseau de sources pour la fusion d&apos;informations.","venue":"EGC","pages":"323-324","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BareckeLAB11","ee":"http://editions-rnti.fr/?inprocid=1000980","url":"https://dblp.org/rec/conf/f-egc/BareckeLAB11"},
+"url":"URL#1999264"
+},
+{
+"@score":"1",
+"@id":"1999265",
+"info":{"authors":{"author":["Fatiha Barigou","Baghdad Atmani","Bouziane Beldjilali"]},"title":"Utilisation de la machine cellulaire pour la détection des courriels indésirables.","venue":"EGC","pages":"321-322","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BarigouAB11","ee":"http://editions-rnti.fr/?inprocid=1000979","url":"https://dblp.org/rec/conf/f-egc/BarigouAB11"},
+"url":"URL#1999265"
+},
+{
+"@score":"1",
+"@id":"1999266",
+"info":{"authors":{"author":["Yassine Benabbas","Adel Lablack","Thierry Urruty","Chabane Djeraba"]},"title":"Reconnaissance d&apos;actions par modélisation du mouvement.","venue":"EGC","pages":"149-160","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BenabbasLUD11","ee":"http://editions-rnti.fr/?inprocid=1000940","url":"https://dblp.org/rec/conf/f-egc/BenabbasLUD11"},
+"url":"URL#1999266"
+},
+{
+"@score":"1",
+"@id":"1999267",
+"info":{"authors":{"author":["Yassine Benabbas","Tarek Yahiaoui","Thierry Urruty","Chabane Djeraba"]},"title":"Analyse spatiotemporelle des vecteurs de mouvement - application au comptage des personnes.","venue":"EGC","pages":"173-178","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BenabbasYUD11","ee":"http://editions-rnti.fr/?inprocid=1000942","url":"https://dblp.org/rec/conf/f-egc/BenabbasYUD11"},
+"url":"URL#1999267"
+},
+{
+"@score":"1",
+"@id":"1999268",
+"info":{"authors":{"author":["Moussa Benaissa","Yahia Lebbah"]},"title":"Optimisation de l&apos;extraction de l&apos;alignment des ontologies avec la contrainte de différence.","venue":"EGC","pages":"401-406","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BenaissaL11","ee":"http://editions-rnti.fr/?inprocid=1000991","url":"https://dblp.org/rec/conf/f-egc/BenaissaL11"},
+"url":"URL#1999268"
+},
+{
+"@score":"1",
+"@id":"1999269",
+"info":{"authors":{"author":["Abdelkader Benameur","Baghdad Atmani"]},"title":"M3A - Une plateforme d&apos;ingénierie de maintenance assistée par apprentissage automatique.","venue":"EGC","pages":"255-258","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BenameurA11","ee":"http://editions-rnti.fr/?inprocid=1000954","url":"https://dblp.org/rec/conf/f-egc/BenameurA11"},
+"url":"URL#1999269"
+},
+{
+"@score":"1",
+"@id":"1999270",
+"info":{"authors":{"author":["Amyn Bennamane","Hakim Hacid","Arnaud Ansiaux","Alain Cagnati"]},"title":"Aide à l&apos;analyse visuelle de réseaux sociaux pour la detection de comportements suspects.","venue":"EGC","pages":"221-226","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BennamaneHAC11","ee":"http://editions-rnti.fr/?inprocid=1000948","url":"https://dblp.org/rec/conf/f-egc/BennamaneHAC11"},
+"url":"URL#1999270"
+},
+{
+"@score":"1",
+"@id":"1999271",
+"info":{"authors":{"author":"Jacques Blanc-Talon"},"title":"Complex Information Processing.","venue":"EGC","pages":"9-10","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/Blanc-Talon11","ee":"http://editions-rnti.fr/?inprocid=1000922","url":"https://dblp.org/rec/conf/f-egc/Blanc-Talon11"},
+"url":"URL#1999271"
+},
+{
+"@score":"1",
+"@id":"1999272",
+"info":{"authors":{"author":["Alexis Bondu","Marc Boullé"]},"title":"Détection de changements de distribution dans un flux de données - une approche supervisée.","venue":"EGC","pages":"191-196","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BonduB11","ee":"http://editions-rnti.fr/?inprocid=1000944","url":"https://dblp.org/rec/conf/f-egc/BonduB11"},
+"url":"URL#1999272"
+},
+{
+"@score":"1",
+"@id":"1999273",
+"info":{"authors":{"author":"Marc Boullé"},"title":"Estimation de la densité d&apos;arcs dans les graphes de grande taille - une alternative à la détection de clusters.","venue":"EGC","pages":"353-364","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/Boulle11","ee":"http://editions-rnti.fr/?inprocid=1000986","url":"https://dblp.org/rec/conf/f-egc/Boulle11"},
+"url":"URL#1999273"
+},
+{
+"@score":"1",
+"@id":"1999274",
+"info":{"authors":{"author":["Agnès Braud","Nicolas Lachiche"]},"title":"Propositionaliser des attributs numériques sans les discrétiser, ni les agréger.","venue":"EGC","pages":"437-442","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BraudL11","ee":"http://editions-rnti.fr/?inprocid=1000998","url":"https://dblp.org/rec/conf/f-egc/BraudL11"},
+"url":"URL#1999274"
+},
+{
+"@score":"1",
+"@id":"1999275",
+"info":{"authors":{"author":["Mihaela Breaban","Henri Luchian","Dan A. Simovici"]},"title":"Entropic-Genetic Clustering.","venue":"EGC","pages":"71-76","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BreabanLS11","ee":"http://editions-rnti.fr/?inprocid=1000931","url":"https://dblp.org/rec/conf/f-egc/BreabanLS11"},
+"url":"URL#1999275"
+},
+{
+"@score":"1",
+"@id":"1999276",
+"info":{"authors":{"author":["Patrice Buche","Juliette Dibie-Barthélemy","Liliana Ibanescu","Abir Saïd"]},"title":"Modélisation d&apos;une ressource termino-ontologique de domaine pour l&apos;annotation sémantique de tableaux.","venue":"EGC","pages":"581-586","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/BucheDIS11","ee":"http://editions-rnti.fr/?inprocid=1001021","url":"https://dblp.org/rec/conf/f-egc/BucheDIS11"},
+"url":"URL#1999276"
+},
+{
+"@score":"1",
+"@id":"1999277",
+"info":{"authors":{"author":["Guénaël Cabanes","Younès Bennani"]},"title":"Apprendre les contraintes topologiques dans les cartes auto-organisatrices.","venue":"EGC","pages":"137-148","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/CabanesB11","ee":"http://editions-rnti.fr/?inprocid=1000939","url":"https://dblp.org/rec/conf/f-egc/CabanesB11"},
+"url":"URL#1999277"
+},
+{
+"@score":"1",
+"@id":"1999278",
+"info":{"authors":{"author":["Guénaël Cabanes","Younès Bennani"]},"title":"Visualisation de l&apos;intra et inter structure des groupes en classification non supervisée.","venue":"EGC","pages":"479-490","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/CabanesB11a","ee":"http://editions-rnti.fr/?inprocid=1001005","url":"https://dblp.org/rec/conf/f-egc/CabanesB11a"},
+"url":"URL#1999278"
+},
+{
+"@score":"1",
+"@id":"1999279",
+"info":{"authors":{"author":"Laurent Candillier"},"title":"Nomao - la recherche géolocalisée personnalisée.","venue":"EGC","pages":"259-262","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/Candillier11","ee":"http://editions-rnti.fr/?inprocid=1000955","url":"https://dblp.org/rec/conf/f-egc/Candillier11"},
+"url":"URL#1999279"
+},
+{
+"@score":"1",
+"@id":"1999280",
+"info":{"authors":{"author":["Thomas Cerqueus","Sylvie Cazalens","Philippe Lamarre"]},"title":"Mesures d&apos;hétérogénéité sémantique dans les systèmes P2P non-structurés.","venue":"EGC","pages":"341-346","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/CerqueusCL11","ee":"http://editions-rnti.fr/?inprocid=1000984","url":"https://dblp.org/rec/conf/f-egc/CerqueusCL11"},
+"url":"URL#1999280"
+},
+{
+"@score":"1",
+"@id":"1999281",
+"info":{"authors":{"author":["Lionel Chauvin","David Genest","Aymeric Le Dorze","Stéphane Loiseau"]},"title":"Cartes cognitives - une exploitation à base d&apos;échelle, vue et profil.","venue":"EGC","pages":"503-514","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/ChauvinGDL11","ee":"http://editions-rnti.fr/?inprocid=1001008","url":"https://dblp.org/rec/conf/f-egc/ChauvinGDL11"},
+"url":"URL#1999281"
+},
+{
+"@score":"1",
+"@id":"1999282",
+"info":{"authors":{"author":["Mouna Chebbah","Arnaud Martin","Boutheina Ben Yaghlane"]},"title":"Mesure de concordance pour les bases de données évidentielles.","venue":"EGC","pages":"197-202","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/ChebbahMY11","ee":"http://editions-rnti.fr/?inprocid=1000945","url":"https://dblp.org/rec/conf/f-egc/ChebbahMY11"},
+"url":"URL#1999282"
+},
+{
+"@score":"1",
+"@id":"1999283",
+"info":{"authors":{"author":["Guillaume Cleuziou","Gaël Dias","Vincent Levorato"]},"title":"Acquisition de structures lexico-sémantiques à partir de textes - un nouveau cadre de travail fondé sur une structuration prétopologique.","venue":"EGC","pages":"107-118","year":"2011","type":"Conference and Workshop Papers","key":"conf/f-egc/CleuziouDL11","ee":"http://editions-rnti.fr/?inprocid=1000936","url":"https://dblp.org/rec/conf/f-egc/CleuziouDL11"},
+"url":"URL#1999283"
+}
+]
+}
+}
+}

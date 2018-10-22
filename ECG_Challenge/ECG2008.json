@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2008\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.34"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"94",
+"@dc":"94",
+"@oc":"94",
+"@id":"13466415",
+"text":":facetid:toc:db/conf/f-egc/egc2008.bht"
+}
+},
+"hits":{
+"@total":"94",
+"@computed":"94",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2648207",
+"info":{"authors":{"author":["Abdelmalek Amine","Zakaria Elberrichi","Ladjel Bellatreche","Michel Simonet","Mimoun Malki"]},"title":"Classification Automatique Non supervisée de Documents Textuels basés sur Wordnet.","venue":"EGC","pages":"227-228","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/AbdelmalekEBSM08","ee":"http://editions-rnti.fr/?inprocid=1000596","url":"https://dblp.org/rec/conf/f-egc/AbdelmalekEBSM08"},
+"url":"URL#2648207"
+},
+{
+"@score":"1",
+"@id":"2648208",
+"info":{"authors":{"author":["Xavier Aimé","Frédéric Fürst","Pascale Kuntz","Francky Trichet"]},"title":"Gradients de prototypicalité conceptuelle et lexicale - une contribution à la pragmatisation des ontologies de domaine.","venue":"EGC","pages":"127-132","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/AimeFKT08","ee":"http://editions-rnti.fr/?inprocid=1000564","url":"https://dblp.org/rec/conf/f-egc/AimeFKT08"},
+"url":"URL#2648208"
+},
+{
+"@score":"1",
+"@id":"2648209",
+"info":{"authors":{"author":["Marc-Ismaël Akodjènou-Jeannin","Kavé Salamatian","Patrick Gallinari"]},"title":"Clustering en haute dimension par accumulation de clusterings locaux.","venue":"EGC","pages":"253-264","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/Akodjenou-JeanninSG08","ee":"http://editions-rnti.fr/?inprocid=1000612","url":"https://dblp.org/rec/conf/f-egc/Akodjenou-JeanninSG08"},
+"url":"URL#2648209"
+},
+{
+"@score":"1",
+"@id":"2648210",
+"info":{"authors":{"author":["Leila Nemmiche Alachaher","Sylvie Guillaume"]},"title":"Étude de l&apos;interaction entre variables pour l&apos;extraction des règles d&apos;influence.","venue":"EGC","pages":"415-426","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/AlachaherG08","ee":"http://editions-rnti.fr/?inprocid=1000629","url":"https://dblp.org/rec/conf/f-egc/AlachaherG08"},
+"url":"URL#2648210"
+},
+{
+"@score":"1",
+"@id":"2648211",
+"info":{"authors":{"author":"Sujeevan Aseervatham"},"title":"Un modèle d&apos;espace vectoriel de concepts pour noyaux sémantiques.","venue":"EGC","pages":"601-612","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/Aseervatham08","ee":"http://editions-rnti.fr/?inprocid=1000659","url":"https://dblp.org/rec/conf/f-egc/Aseervatham08"},
+"url":"URL#2648211"
+},
+{
+"@score":"1",
+"@id":"2648212",
+"info":{"authors":{"author":["Amjad Abou Assali","Dominique Lenne","Bruno Debray"]},"title":"Ontologies et raisonnement à partir de cas - Application à l&apos;analyse des risques industriels.","venue":"EGC","pages":"225-226","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/AssaliLD08","ee":"http://editions-rnti.fr/?inprocid=1000595","url":"https://dblp.org/rec/conf/f-egc/AssaliLD08"},
+"url":"URL#2648212"
+},
+{
+"@score":"1",
+"@id":"2648213",
+"info":{"authors":{"author":["Emna Bahri","Mondher Maddouri"]},"title":"Une nouvelle approche du Boosting face aux données réelles.","venue":"EGC","pages":"349-360","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BahriM08","ee":"http://editions-rnti.fr/?inprocid=1000623","url":"https://dblp.org/rec/conf/f-egc/BahriM08"},
+"url":"URL#2648213"
+},
+{
+"@score":"1",
+"@id":"2648214",
+"info":{"authors":{"author":["José L. Balcázar","Albert Bifet","Antoni Lozano"]},"title":"Mining Implications from Lattices of Closed Trees.","venue":"EGC","pages":"373-384","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BalcazarBL08","ee":"http://editions-rnti.fr/?inprocid=1000625","url":"https://dblp.org/rec/conf/f-egc/BalcazarBL08"},
+"url":"URL#2648214"
+},
+{
+"@score":"1",
+"@id":"2648215",
+"info":{"authors":{"author":["Nicolas Béchet","Mathieu Roche","Jacques Chauché"]},"title":"ExpLSA - utilisation d&apos;informations syntaxico-sémantiques associées à LSA pour améliorer les méthodes de classification conceptuelle.","venue":"EGC","pages":"589-600","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BechetRC08","ee":"http://editions-rnti.fr/?inprocid=1000658","url":"https://dblp.org/rec/conf/f-egc/BechetRC08"},
+"url":"URL#2648215"
+},
+{
+"@score":"1",
+"@id":"2648216",
+"info":{"authors":{"author":["Anouar BenaHassena","Khalid Benabdeslem","Fazia Bellal","Alexandre Aussem","Bruno Canitia"]},"title":"Intégration de contraintes dans les cartes auto-organisatrices.","venue":"EGC","pages":"643-648","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BenaHassenaBBAC08","ee":"http://editions-rnti.fr/?inprocid=1000663","url":"https://dblp.org/rec/conf/f-egc/BenaHassenaBBAC08"},
+"url":"URL#2648216"
+},
+{
+"@score":"1",
+"@id":"2648217",
+"info":{"authors":{"author":["Nabil Benayadi","Marc Le Goc"]},"title":"Une J-mesure orientée pour élaguer des modèles de chroniques.","venue":"EGC","pages":"221-222","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BenayadiG08","ee":"http://editions-rnti.fr/?inprocid=1000593","url":"https://dblp.org/rec/conf/f-egc/BenayadiG08"},
+"url":"URL#2648217"
+},
+{
+"@score":"1",
+"@id":"2648218",
+"info":{"authors":{"author":["Romain Billot","Henri-Maxime Suchier","Stéphane Lallich"]},"title":"Une approche ensembliste inspirée du boosting en classification non supervisée.","venue":"EGC","pages":"361-372","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BillotSL08","ee":"http://editions-rnti.fr/?inprocid=1000624","url":"https://dblp.org/rec/conf/f-egc/BillotSL08"},
+"url":"URL#2648218"
+},
+{
+"@score":"1",
+"@id":"2648219",
+"info":{"authors":{"author":["Anouck Bodin-Niemczuk","Riadh Ben Messaoud","Sabine Loudcher Rabaséda","Omar Boussaid"]},"title":"Vers l&apos;intégration de la prédiction dans les cubes OLAP.","venue":"EGC","pages":"203-204","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/Bodin-NiemczukMRB08","ee":"http://editions-rnti.fr/?inprocid=1000584","url":"https://dblp.org/rec/conf/f-egc/Bodin-NiemczukMRB08"},
+"url":"URL#2648219"
+},
+{
+"@score":"1",
+"@id":"2648220",
+"info":{"authors":{"author":"Marc Boullé"},"title":"Khiops - outil de préparation et modélisation des données pour la fouille des grandes bases de données.","venue":"EGC","pages":"229-230","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/Boulle08","ee":"http://editions-rnti.fr/?inprocid=1000598","url":"https://dblp.org/rec/conf/f-egc/Boulle08"},
+"url":"URL#2648220"
+},
+{
+"@score":"1",
+"@id":"2648221",
+"info":{"authors":{"author":["Imène Brigui","Inès Saad"]},"title":"Système multi-agent argumentatif pour la classification des connaissances cruciales.","venue":"EGC","pages":"679-690","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/BriguiS08","ee":"http://editions-rnti.fr/?inprocid=1000667","url":"https://dblp.org/rec/conf/f-egc/BriguiS08"},
+"url":"URL#2648221"
+},
+{
+"@score":"1",
+"@id":"2648222",
+"info":{"authors":{"author":["Guénaël Cabanes","Younès Bennani"]},"title":"Un algorithme de classification topographique non supervisée à deux niveaux simultanés.","venue":"EGC","pages":"619-630","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/CabanesB08","ee":"http://editions-rnti.fr/?inprocid=1000661","url":"https://dblp.org/rec/conf/f-egc/CabanesB08"},
+"url":"URL#2648222"
+},
+{
+"@score":"1",
+"@id":"2648223",
+"info":{"authors":{"author":["François-Élie Calvier","Chantal Reynaud"]},"title":"La découverte de mappings dans SomeRDFS.","venue":"EGC","pages":"703-709","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/CalvierR08","ee":"http://editions-rnti.fr/?inprocid=1000671","url":"https://dblp.org/rec/conf/f-egc/CalvierR08"},
+"url":"URL#2648223"
+},
+{
+"@score":"1",
+"@id":"2648224",
+"info":{"authors":{"author":["Malika Charrad","Yves Lechevallier","Gilbert Saporta","Mohamed Ben Ahmed"]},"title":"Web Content Data Mining - la classification croisée pour l&apos;analyse textuelle d&apos;un site Web.","venue":"EGC","pages":"43-54","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/CharradLSA08","ee":"http://editions-rnti.fr/?inprocid=1000555","url":"https://dblp.org/rec/conf/f-egc/CharradLSA08"},
+"url":"URL#2648224"
+},
+{
+"@score":"1",
+"@id":"2648225",
+"info":{"authors":{"author":["Lionel Chauvin","David Genest","Stéphane Loiseau"]},"title":"Les cartes cognitives hiérarchiques.","venue":"EGC","pages":"91-","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/ChauvinGL08","ee":"http://editions-rnti.fr/?inprocid=1000560","url":"https://dblp.org/rec/conf/f-egc/ChauvinGL08"},
+"url":"URL#2648225"
+},
+{
+"@score":"1",
+"@id":"2648226",
+"info":{"authors":{"author":["Raja Chiky","Jérôme Cubillé","Alain Dessertaine","Georges Hébrail","Marie-Luce Picard"]},"title":"Échantillonnage spatio-temporel de flux de données distribués.","venue":"EGC","pages":"169-180","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/ChikyCDHP08","ee":"http://editions-rnti.fr/?inprocid=1000569","url":"https://dblp.org/rec/conf/f-egc/ChikyCDHP08"},
+"url":"URL#2648226"
+},
+{
+"@score":"1",
+"@id":"2648227",
+"info":{"authors":{"author":["Guillaume Cleuziou","Jacques-Henri Sublemontier"]},"title":"Étude comparative de deux approches de classification recouvrante - Moc vs. Okm.","venue":"EGC","pages":"667-678","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/CleuziouS08","ee":"http://editions-rnti.fr/?inprocid=1000666","url":"https://dblp.org/rec/conf/f-egc/CleuziouS08"},
+"url":"URL#2648227"
+},
+{
+"@score":"1",
+"@id":"2648228",
+"info":{"authors":{"author":["Noël Conruyt","David Grosser","Olivier Sébastien"]},"title":"Méthodologie de définition de e-services pour la gestion des connaissances à partir d&apos;un plateau de créativité - application au e-learning instrumental.","venue":"EGC","pages":"217-218","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/ConruytGS08","ee":"http://editions-rnti.fr/?inprocid=1000591","url":"https://dblp.org/rec/conf/f-egc/ConruytGS08"},
+"url":"URL#2648228"
+},
+{
+"@score":"1",
+"@id":"2648229",
+"info":{"authors":{"author":["Sylvie Desprès","Sylvie Szulman"]},"title":"Sémantique et réutilisation d&apos;ontologie générique.","venue":"EGC","pages":"121-126","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/DespresS08","ee":"http://editions-rnti.fr/?inprocid=1000563","url":"https://dblp.org/rec/conf/f-egc/DespresS08"},
+"url":"URL#2648229"
+},
+{
+"@score":"1",
+"@id":"2648230",
+"info":{"authors":{"author":["Alpha Diallo","Ahlame Douzal","Françoise Giroud"]},"title":"Classification adaptative de séries temporelles - application à l&apos;identification des gènes exprimés au cours du cycle cellulaire.","venue":"EGC","pages":"487-498","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/DialloDG08","ee":"http://editions-rnti.fr/?inprocid=1000637","url":"https://dblp.org/rec/conf/f-egc/DialloDG08"},
+"url":"URL#2648230"
+},
+{
+"@score":"1",
+"@id":"2648231",
+"info":{"authors":{"author":"Edwin Diday"},"title":"Principes d&apos;Analyse des données symboliques et application à la détection d&apos;anomalies sur des ouvrages publics.","venue":"EGC","pages":"211-212","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/Diday08","ee":"http://editions-rnti.fr/?inprocid=1001800","url":"https://dblp.org/rec/conf/f-egc/Diday08"},
+"url":"URL#2648231"
+},
+{
+"@score":"1",
+"@id":"2648232",
+"info":{"authors":{"author":["Laura Diosan","Alexandrina Rogozan","Jean-Pierre Pécuchet"]},"title":"Apport des traitements morphosyntaxiques pour l&apos;alignement des définitions par une classification SVM.","venue":"EGC","pages":"201-202","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/DiosanRP08","ee":"http://editions-rnti.fr/?inprocid=1000582","url":"https://dblp.org/rec/conf/f-egc/DiosanRP08"},
+"url":"URL#2648232"
+},
+{
+"@score":"1",
+"@id":"2648233",
+"info":{"authors":{"author":["Trinh Minh Tri Do","Thierry Artières"]},"title":"Optimisation du Primal pour les SVM.","venue":"EGC","pages":"273-284","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/DoA08","ee":"http://editions-rnti.fr/?inprocid=1000615","url":"https://dblp.org/rec/conf/f-egc/DoA08"},
+"url":"URL#2648233"
+},
+{
+"@score":"1",
+"@id":"2648234",
+"info":{"authors":{"author":["Thanh-Nghi Do","Jean-Daniel Fekete","François Poulet"]},"title":"Algorithmes rapides de boosting de SVM.","venue":"EGC","pages":"297-308","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/DoFP08","ee":"http://editions-rnti.fr/?inprocid=1000617","url":"https://dblp.org/rec/conf/f-egc/DoFP08"},
+"url":"URL#2648234"
+},
+{
+"@score":"1",
+"@id":"2648235",
+"info":{"authors":{"author":["Brahim Douar","Cherif Chiraz Latiri","Yahya Slimani"]},"title":"Approche hybride de classification supervisée à base de treillis de Galois - application à la reconnaissance de visages.","venue":"EGC","pages":"309-320","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/DouarLS08","ee":"http://editions-rnti.fr/?inprocid=1000618","url":"https://dblp.org/rec/conf/f-egc/DouarLS08"},
+"url":"URL#2648235"
+},
+{
+"@score":"1",
+"@id":"2648236",
+"info":{"authors":{"author":["Mohamed Elati","Céline Rouveirol"]},"title":"Recherche adaptative de structures de régulation génétique.","venue":"EGC","pages":"427-432","year":"2008","type":"Conference and Workshop Papers","key":"conf/f-egc/ElatiR08","ee":"http://editions-rnti.fr/?inprocid=1000631","url":"https://dblp.org/rec/conf/f-egc/ElatiR08"},
+"url":"URL#2648236"
+}
+]
+}
+}
+}

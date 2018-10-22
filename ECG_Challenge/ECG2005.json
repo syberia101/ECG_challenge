@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2005\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"2.12"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"91",
+"@dc":"91",
+"@oc":"91",
+"@id":"13466411",
+"text":":facetid:toc:db/conf/f-egc/egc2005.bht"
+}
+},
+"hits":{
+"@total":"91",
+"@computed":"91",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3165846",
+"info":{"authors":{"author":["Lylia Abrouk","Pierre Pompidor","Danièle Hérin","Michel Sala"]},"title":"Règles de propagation pour la création d&apos;ontologies d&apos;annotation de ressources.","venue":"EGC","pages":"377-388","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AbroukPHS05","ee":"http://editions-rnti.fr/?inprocid=1000305","url":"https://dblp.org/rec/conf/f-egc/AbroukPHS05"},
+"url":"URL#3165846"
+},
+{
+"@score":"1",
+"@id":"3165847",
+"info":{"authors":{"author":["Filipe Afonso","Edwin Diday"]},"title":"Extension de l&apos;algorithme Apriori et des règles d&apos;association aux cas des données symboliques diagrammes et intervalles.","venue":"EGC","pages":"483-494","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AfonsoD05","ee":"http://editions-rnti.fr/?inprocid=1000348","url":"https://dblp.org/rec/conf/f-egc/AfonsoD05"},
+"url":"URL#3165847"
+},
+{
+"@score":"1",
+"@id":"3165848",
+"info":{"authors":{"author":["Marie Agier","Jean-Marc Petit"]},"title":"Notion de sémantiques bien-formées pour les règles.","venue":"EGC","pages":"19-30","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AgierP05","ee":"http://editions-rnti.fr/?inprocid=1000207","url":"https://dblp.org/rec/conf/f-egc/AgierP05"},
+"url":"URL#3165848"
+},
+{
+"@score":"1",
+"@id":"3165851",
+"info":{"authors":{"author":["Laurent Alamarguy","Rose Dieng-Kuntz","Catherine Faron-Zucker"]},"title":"Annotation de textes par extraction d&apos;informations lexico-syntaxiques et acquisition de schémas conceptuels de causalité.","venue":"EGC","pages":"221-226","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AlamarguyDF05","ee":"http://editions-rnti.fr/?inprocid=1000258","url":"https://dblp.org/rec/conf/f-egc/AlamarguyDF05"},
+"url":"URL#3165851"
+},
+{
+"@score":"1",
+"@id":"3165852",
+"info":{"authors":{"author":["Ahmed Amrani","Jérôme Azé","Yves Kodratoff"]},"title":"Logiciel d&apos;aide à l&apos;étiquetage morpho-syntaxique de textes de spécialité.","venue":"EGC","pages":"673-678","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AmraniAK05","ee":"http://editions-rnti.fr/?inprocid=1000421","url":"https://dblp.org/rec/conf/f-egc/AmraniAK05"},
+"url":"URL#3165852"
+},
+{
+"@score":"1",
+"@id":"3165854",
+"info":{"authors":{"author":["Mohamed Aounallah","Sébastien Quirion","Guy W. Mineau"]},"title":"Forage distribué des données - une comparaison entre l&apos;agrégation d&apos;échantillons et l&apos;agrégation de règles.","venue":"EGC","pages":"43-54","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AounallahQM05","ee":"http://editions-rnti.fr/?inprocid=1000211","url":"https://dblp.org/rec/conf/f-egc/AounallahQM05"},
+"url":"URL#3165854"
+},
+{
+"@score":"1",
+"@id":"3165855",
+"info":{"authors":{"author":["Fadoua Ataa-Allah","Abderrahim El Qadi","Siham Boulaknadel","Driss Aboutajdine"]},"title":"Amélioration de la performance de l&apos;analyse de la sémantique latente pour des corpus de petite taille.","venue":"EGC","pages":"317","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/Ataa-AllahQBA05","ee":"http://editions-rnti.fr/?inprocid=1000278","url":"https://dblp.org/rec/conf/f-egc/Ataa-AllahQBA05"},
+"url":"URL#3165855"
+},
+{
+"@score":"1",
+"@id":"3165856",
+"info":{"authors":{"author":["Hassan Badir","Etienne Pichat"]},"title":"AID - Un framework intégré de conception d&apos;un schéma objet-relationnel.","venue":"EGC","pages":"358","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BadirP05","ee":"http://editions-rnti.fr/?inprocid=1000292","url":"https://dblp.org/rec/conf/f-egc/BadirP05"},
+"url":"URL#3165856"
+},
+{
+"@score":"1",
+"@id":"3165857",
+"info":{"authors":{"author":["Eugen Barbu","Pierre Héroux","Sébastien Adam","Éric Trupin"]},"title":"Fouille de graphes et découverte de règles d&apos;association - application à l&apos;analyse d&apos;images de document.","venue":"EGC","pages":"463-468","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BarbuHAT05","ee":"http://editions-rnti.fr/?inprocid=1000341","url":"https://dblp.org/rec/conf/f-egc/BarbuHAT05"},
+"url":"URL#3165857"
+},
+{
+"@score":"1",
+"@id":"3165859",
+"info":{"authors":{"author":"Jean-Paul A. Barthès"},"title":"Les NTIC au service de la capitalisation des connaissances.","venue":"EGC","pages":"704","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/Barthes05","ee":"http://editions-rnti.fr/?inprocid=1000439","url":"https://dblp.org/rec/conf/f-egc/Barthes05"},
+"url":"URL#3165859"
+},
+{
+"@score":"1",
+"@id":"3165860",
+"info":{"authors":{"author":["Hicham Behja","Brigitte Trousse","Abdelaziz Marzak"]},"title":"Prise en compte des &quot;points de vue&quot; pour l&apos;annotation d&apos;un processus d&apos;extraction de connaissances à partir de données.","venue":"EGC","pages":"245-256","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BehjaTM05","ee":"http://editions-rnti.fr/?inprocid=1000263","url":"https://dblp.org/rec/conf/f-egc/BehjaTM05"},
+"url":"URL#3165860"
+},
+{
+"@score":"1",
+"@id":"3165861",
+"info":{"authors":{"author":["Rokia Bendaoud","Yannick Toussaint","Amedeo Napoli"]},"title":"Hiérarchisation des règles d&apos;association en fouille de textes.","venue":"EGC","pages":"263-274","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BendaoudTN05","ee":"http://editions-rnti.fr/?inprocid=1000268","url":"https://dblp.org/rec/conf/f-egc/BendaoudTN05"},
+"url":"URL#3165861"
+},
+{
+"@score":"1",
+"@id":"3165864",
+"info":{"authors":{"author":["Emmanuel Blanchard","Mounira Harzallah","Henri Briand"]},"title":"Raisonnement en gestion des compétences.","venue":"EGC","pages":"587-592","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BlanchardHB05","ee":"http://editions-rnti.fr/?inprocid=1000385","url":"https://dblp.org/rec/conf/f-egc/BlanchardHB05"},
+"url":"URL#3165864"
+},
+{
+"@score":"1",
+"@id":"3165865",
+"info":{"authors":{"author":["Julien Blanchard","Bertrand Petitjean","Thierry Artières","Patrick Gallinari"]},"title":"Un système d&apos;aide à la navigation dans des hypermédias.","venue":"EGC","pages":"281-292","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BlanchardPAG05","ee":"http://editions-rnti.fr/?inprocid=1000272","url":"https://dblp.org/rec/conf/f-egc/BlanchardPAG05"},
+"url":"URL#3165865"
+},
+{
+"@score":"1",
+"@id":"3165866",
+"info":{"authors":{"author":["Aliou Boly","Georges Hébrail","Marie-Luce Picard"]},"title":"Fonctions d&apos;oubli et Conservation de détail dans les entrepôts de données.","venue":"EGC","pages":"355","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BolyHP05","ee":"http://editions-rnti.fr/?inprocid=1000287","url":"https://dblp.org/rec/conf/f-egc/BolyHP05"},
+"url":"URL#3165866"
+},
+{
+"@score":"1",
+"@id":"3165867",
+"info":{"authors":{"author":["Nicolas Bonnel","Annie Morin","Alexandre Cotarmanac&apos;h"]},"title":"Classification non supervisée et visualisation 3D de documents.","venue":"EGC","pages":"557-562","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BonnelMC05","ee":"http://editions-rnti.fr/?inprocid=1000379","url":"https://dblp.org/rec/conf/f-egc/BonnelMC05"},
+"url":"URL#3165867"
+},
+{
+"@score":"1",
+"@id":"3165868",
+"info":{"authors":{"author":["Philippe Bouché","Marc Le Goc"]},"title":"Analyse stochastique de séquences d&apos;événements discrets pour la découverte de signatures.","venue":"EGC","pages":"103-114","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BoucheG05","ee":"http://editions-rnti.fr/?inprocid=1000219","url":"https://dblp.org/rec/conf/f-egc/BoucheG05"},
+"url":"URL#3165868"
+},
+{
+"@score":"1",
+"@id":"3165872",
+"info":{"authors":{"author":["Bruno Bouzy","Guillaume Chaslot"]},"title":"Extraction bayésienne et intégration de patterns représentés suivant les K plus proches voisins pour le go 19x19.","venue":"EGC","pages":"55-66","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BouzyC05","ee":"http://editions-rnti.fr/?inprocid=1000212","url":"https://dblp.org/rec/conf/f-egc/BouzyC05"},
+"url":"URL#3165872"
+},
+{
+"@score":"1",
+"@id":"3165875",
+"info":{"authors":{"author":["Philippe Caillou","Edwin Diday"]},"title":"Analyse de données symboliques et graphe de connaissances d&apos;un agent.","venue":"EGC","pages":"643-648","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CaillouD05","ee":"http://editions-rnti.fr/?inprocid=1000408","url":"https://dblp.org/rec/conf/f-egc/CaillouD05"},
+"url":"URL#3165875"
+},
+{
+"@score":"1",
+"@id":"3165877",
+"info":{"authors":{"author":["Christophe Candillier","Noureddine Mouaddib"]},"title":"Outil de classification et de visualisation de grands volumes de données mixtes.","venue":"EGC","pages":"533-544","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CandillierM05","ee":"http://editions-rnti.fr/?inprocid=1000369","url":"https://dblp.org/rec/conf/f-egc/CandillierM05"},
+"url":"URL#3165877"
+},
+{
+"@score":"1",
+"@id":"3165878",
+"info":{"authors":{"author":["Laurent Candillier","Isabelle Tellier","Fabien Torre","Olivier Bousquet"]},"title":"SSC - statistical subspace clustering.","venue":"EGC","pages":"177-182","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CandillierTTB05","ee":"http://editions-rnti.fr/?inprocid=1000241","url":"https://dblp.org/rec/conf/f-egc/CandillierTTB05"},
+"url":"URL#3165878"
+},
+{
+"@score":"1",
+"@id":"3165879",
+"info":{"authors":{"author":["C. Marie-Françoise Canut","Max Chevalier","André Péninou","Florence Sèdes"]},"title":"Modélisation des individus et de leurs relations pour l&apos;aide à l&apos;intégration des individus dans l&apos;organisation.","venue":"EGC","pages":"599-610","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CanutCPS05","ee":"http://editions-rnti.fr/?inprocid=1000392","url":"https://dblp.org/rec/conf/f-egc/CanutCPS05"},
+"url":"URL#3165879"
+},
+{
+"@score":"1",
+"@id":"3165881",
+"info":{"authors":{"author":["Yves Caron","Pascal Makris","Nicole Vincent"]},"title":"Caractérisation d&apos;une région d&apos;intérêt dans les images.","venue":"EGC","pages":"451-462","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CaronMV05","ee":"http://editions-rnti.fr/?inprocid=1000338","url":"https://dblp.org/rec/conf/f-egc/CaronMV05"},
+"url":"URL#3165881"
+},
+{
+"@score":"1",
+"@id":"3165882",
+"info":{"authors":{"author":["Valentina Ceausu","Sylvie Desprès"]},"title":"Fouille de textes pour orienter la construction d&apos;une ressource terminologique.","venue":"EGC","pages":"239-244","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CeausuD05","ee":"http://editions-rnti.fr/?inprocid=1000261","url":"https://dblp.org/rec/conf/f-egc/CeausuD05"},
+"url":"URL#3165882"
+},
+{
+"@score":"1",
+"@id":"3165884",
+"info":{"authors":{"author":["Sergiu Theodor Chelcea","Brigitte Trousse"]},"title":"Classification 2-3 hiérarchique de données du Web.","venue":"EGC","pages":"219","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/ChelceaT05","ee":"http://editions-rnti.fr/?inprocid=1000253","url":"https://dblp.org/rec/conf/f-egc/ChelceaT05"},
+"url":"URL#3165884"
+},
+{
+"@score":"1",
+"@id":"3165885",
+"info":{"authors":{"author":["Philippe Collet","Vincent Derozier","Gérard Dray","François Trousset","Pascal Poncelet","Michel Crampes"]},"title":"Tendances dans les expressions de gènes - application à l&apos;analyse du transcriptome de Plasmodium Falciparum.","venue":"EGC","pages":"649-654","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/ColletDDTPC05","ee":"http://editions-rnti.fr/?inprocid=1000411","url":"https://dblp.org/rec/conf/f-egc/ColletDDTPC05"},
+"url":"URL#3165885"
+},
+{
+"@score":"1",
+"@id":"3165886",
+"info":{"authors":{"author":["Raphaël Couturier","Régis Gras"]},"title":"CHIC - traitement de données avec l&apos;analyse implicative.","venue":"EGC","pages":"679-684","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CouturierG05","ee":"http://editions-rnti.fr/?inprocid=1000423","url":"https://dblp.org/rec/conf/f-egc/CouturierG05"},
+"url":"URL#3165886"
+},
+{
+"@score":"1",
+"@id":"3165887",
+"info":{"authors":{"author":["Pascal Cuxac","Martine Cadot","Claire François"]},"title":"Analyse comparative de classifications - apport des règles d&apos;association floues.","venue":"EGC","pages":"519-530","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CuxacCF05","ee":"http://editions-rnti.fr/?inprocid=1000359","url":"https://dblp.org/rec/conf/f-egc/CuxacCF05"},
+"url":"URL#3165887"
+},
+{
+"@score":"1",
+"@id":"3165888",
+"info":{"authors":{"author":["Romain Dailly","Christian Chervet","Rémi Lehn","Henri Briand"]},"title":"Problématiques de gestion de connaissances dans le cadre de l&apos;enseignement à distance sur l&apos;Internet.","venue":"EGC","pages":"593-598","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/DaillyCLB05","ee":"http://editions-rnti.fr/?inprocid=1000389","url":"https://dblp.org/rec/conf/f-egc/DaillyCLB05"},
+"url":"URL#3165888"
+},
+{
+"@score":"1",
+"@id":"3165889",
+"info":{"authors":{"author":["Tuyet-Tram Dang-Ngoc","Virginie Sans","Dominique Laurent"]},"title":"Classifying XML Materialized views for their maintenance on distributed Web sources.","venue":"EGC","pages":"433-444","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/Dang-NgocSL05","ee":"http://editions-rnti.fr/?inprocid=1000331","url":"https://dblp.org/rec/conf/f-egc/Dang-NgocSL05"},
+"url":"URL#3165889"
+}
+]
+}
+}
+}

@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2005w\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.50"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"63",
+"@dc":"63",
+"@oc":"63",
+"@id":"13466412",
+"text":":facetid:toc:db/conf/f-egc/egc2005w.bht"
+}
+},
+"hits":{
+"@total":"63",
+"@computed":"63",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3165849",
+"info":{"authors":{"author":["Macaire Ahlonsou","Emmanuel Blanchard","Henri Briand","Fabrice Guillet"]},"title":"Transformation des concepts du diagramme de classe UML en OWL full.","venue":"EGC","pages":"13-18","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AhlonsouBBG05","ee":"http://editions-rnti.fr/?inprocid=1000204","url":"https://dblp.org/rec/conf/f-egc/AhlonsouBBG05"},
+"url":"URL#3165849"
+},
+{
+"@score":"1",
+"@id":"3165850",
+"info":{"authors":{"author":["Walid Ben Ahmed","Mounib Mekhilef","Michel Bigand","Yves Page"]},"title":"Complexité de l&apos;extraction des connaissances de données - une vison systémique.","venue":"EGC","pages":"289-298","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AhmedMBP05","ee":"http://editions-rnti.fr/?inprocid=1000277","url":"https://dblp.org/rec/conf/f-egc/AhmedMBP05"},
+"url":"URL#3165850"
+},
+{
+"@score":"1",
+"@id":"3165853",
+"info":{"authors":{"author":["Abdouroihamane Anli","Emmanuelle Grislin-Le Strugeon","Mourad Abed"]},"title":"Une plate-forme de personnalisation basée sur une architecture multi-agents.","venue":"EGC","pages":"95-100","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/AnliSA05","ee":"http://editions-rnti.fr/?inprocid=1000233","url":"https://dblp.org/rec/conf/f-egc/AnliSA05"},
+"url":"URL#3165853"
+},
+{
+"@score":"1",
+"@id":"3165858",
+"info":{"authors":{"author":["Julien Barde","Jacques Divol","Thérèse Libourel","Pierre Maurel"]},"title":"Interface adaptable de requêtes pour un service de MétaDonnées.","venue":"EGC","pages":"133-140","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BardeDLM05","ee":"http://editions-rnti.fr/?inprocid=1000240","url":"https://dblp.org/rec/conf/f-egc/BardeDLM05"},
+"url":"URL#3165858"
+},
+{
+"@score":"1",
+"@id":"3165862",
+"info":{"authors":{"author":"Laure Berti-Équille"},"title":"Nettoyage des données XML - combien ça coûte ?","venue":"EGC","pages":"379-384","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/Berti-Equille05","ee":"http://editions-rnti.fr/?inprocid=1000298","url":"https://dblp.org/rec/conf/f-egc/Berti-Equille05"},
+"url":"URL#3165862"
+},
+{
+"@score":"1",
+"@id":"3165863",
+"info":{"authors":{"author":["Julien Blanchard","Fabrice Guillet","Henri Briand","Régis Gras"]},"title":"IPEE - Indice Probabiliste d&apos;Ecart à l&apos;Equilibre pour l&apos;évaluation de la qualité des règles.","venue":"EGC","pages":"391-396","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BlanchardGBG05","ee":"http://editions-rnti.fr/?inprocid=1000301","url":"https://dblp.org/rec/conf/f-egc/BlanchardGBG05"},
+"url":"URL#3165863"
+},
+{
+"@score":"1",
+"@id":"3165869",
+"info":{"authors":{"author":["Marinette Bouet","Marie-Aude Aufaure"]},"title":"Recherche d&apos;information multimédia - Apport de la fouille de données et des ontologies.","venue":"EGC","pages":"279-288","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BouetA05","ee":"http://editions-rnti.fr/?inprocid=1000275","url":"https://dblp.org/rec/conf/f-egc/BouetA05"},
+"url":"URL#3165869"
+},
+{
+"@score":"1",
+"@id":"3165870",
+"info":{"authors":{"author":["Julie Bourbeillon","Catherine Garbay","Françoise Giroud"]},"title":"Gestion de connaissances et de données dans l&apos;aide à la conception de Tissue Microarrays.","venue":"EGC","pages":"141-146","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BourbeillonGG05","ee":"http://editions-rnti.fr/?inprocid=1000242","url":"https://dblp.org/rec/conf/f-egc/BourbeillonGG05"},
+"url":"URL#3165870"
+},
+{
+"@score":"1",
+"@id":"3165871",
+"info":{"authors":{"author":["Mokrane Bouzeghoub","Verónika Peralta"]},"title":"Data Freshness Evaluation in Different Application Scenarios.","venue":"EGC","pages":"371-379","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BouzeghoubP05","ee":"http://editions-rnti.fr/?inprocid=1000297","url":"https://dblp.org/rec/conf/f-egc/BouzeghoubP05"},
+"url":"URL#3165871"
+},
+{
+"@score":"1",
+"@id":"3165873",
+"info":{"authors":{"author":["Patrick Brézillon","Charles Tijus"]},"title":"Représentation contextualisée des pratiques des utilisateurs.","venue":"EGC","pages":"81-88","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/BrezillonT05","ee":"http://editions-rnti.fr/?inprocid=1000230","url":"https://dblp.org/rec/conf/f-egc/BrezillonT05"},
+"url":"URL#3165873"
+},
+{
+"@score":"1",
+"@id":"3165874",
+"info":{"authors":{"author":["Sébastien Cahon","Nouredine Melab","El-Ghazali Talbi"]},"title":"Sélection d&apos;attributs en fouille de données sur grilles.","venue":"EGC","pages":"203-208","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CahonMT05","ee":"http://editions-rnti.fr/?inprocid=1001498","url":"https://dblp.org/rec/conf/f-egc/CahonMT05"},
+"url":"URL#3165874"
+},
+{
+"@score":"1",
+"@id":"3165876",
+"info":{"authors":{"author":["Pierre Camps","C. Marie-Françoise Canut","André Péninou","Florence Sèdes"]},"title":"Un cadre pour l&apos;étude des comportements sur une plate-forme pédagogique - du parcours individuel à la conscience du groupe.","venue":"EGC","pages":"185-190","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CampsCPS05","ee":"http://editions-rnti.fr/?inprocid=1000254","url":"https://dblp.org/rec/conf/f-egc/CampsCPS05"},
+"url":"URL#3165876"
+},
+{
+"@score":"1",
+"@id":"3165880",
+"info":{"authors":{"author":["Yonny Cardenas","Jean-Marc Pierson","Lionel Brunie"]},"title":"Service de Cache pour les Grilles de Calcul.","venue":"EGC","pages":"199-202","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/CardenasPB05","ee":"http://editions-rnti.fr/?inprocid=1000257","url":"https://dblp.org/rec/conf/f-egc/CardenasPB05"},
+"url":"URL#3165880"
+},
+{
+"@score":"1",
+"@id":"3165883",
+"info":{"authors":{"author":["Marie-Christine Chambrin","Samir Sharshar"]},"title":"Vers une analyse de la dynamique des paramètres physiologiques en Unité de Soins Intensifs.","venue":"EGC","pages":"235-242","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/ChambrinS05","ee":"http://editions-rnti.fr/?inprocid=1000267","url":"https://dblp.org/rec/conf/f-egc/ChambrinS05"},
+"url":"URL#3165883"
+},
+{
+"@score":"1",
+"@id":"3165890",
+"info":{"authors":{"author":["Jérôme David","Fabrice Guillet","Vincent Philippé","Henri Briand","Régis Gras"]},"title":"Validation d&apos;une expertise textuelle par une méthode de classification basée sur l&apos;intensité d&apos;implication.","venue":"EGC","pages":"409-414","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/DavidGPBG05","ee":"http://editions-rnti.fr/?inprocid=1000308","url":"https://dblp.org/rec/conf/f-egc/DavidGPBG05"},
+"url":"URL#3165890"
+},
+{
+"@score":"1",
+"@id":"3165892",
+"info":{"authors":{"author":["Sylvain Dehors","Catherine Faron-Zucker","Alain Giboin","Jean Paul Stromboni"]},"title":"Un Web sémantique de formation par questionnement.","venue":"EGC","pages":"173-178","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/DehorsFGS05","ee":"http://editions-rnti.fr/?inprocid=1000249","url":"https://dblp.org/rec/conf/f-egc/DehorsFGS05"},
+"url":"URL#3165892"
+},
+{
+"@score":"1",
+"@id":"3165899",
+"info":{"authors":{"author":["Florence Duchêne","Catherine Garbay","Vincent Rialle"]},"title":"Extraction non supervisée de motifs temporels, multidimensionnels et hétérogènes Application à la télésurveillance médicale à domicile.","venue":"EGC","pages":"217-222","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/DucheneGR05","ee":"http://editions-rnti.fr/?inprocid=1000262","url":"https://dblp.org/rec/conf/f-egc/DucheneGR05"},
+"url":"URL#3165899"
+},
+{
+"@score":"1",
+"@id":"3165902",
+"info":{"authors":{"author":["Güray Erus","Nicolas Loménie"]},"title":"Apprentissage automatique des modèles structurels d&apos;objets cartographiques.","venue":"EGC","pages":"349-354","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/ErusL05a","ee":"http://editions-rnti.fr/?inprocid=1000293","url":"https://dblp.org/rec/conf/f-egc/ErusL05a"},
+"url":"URL#3165902"
+},
+{
+"@score":"1",
+"@id":"3165905",
+"info":{"authors":{"author":["Ahmad Faour","Philippe Leray","Cédric Foll"]},"title":"Réseaux bayésiens pour le filtrage d&apos;alarmes dans les systèmes de détection d&apos;intrusions.","venue":"EGC","pages":"69-72","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/FaourLF05","ee":"http://editions-rnti.fr/?inprocid=1000225","url":"https://dblp.org/rec/conf/f-egc/FaourLF05"},
+"url":"URL#3165905"
+},
+{
+"@score":"1",
+"@id":"3165907",
+"info":{"authors":{"author":["Françoise Fessant","Christophe Dousson","Fabrice Clérot"]},"title":"Améliorer la découverte de chroniques par une découpe intelligente d&apos;un log d&apos;alarmes.","venue":"EGC","pages":"223-228","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/FessantDC05","ee":"http://editions-rnti.fr/?inprocid=1000265","url":"https://dblp.org/rec/conf/f-egc/FessantDC05"},
+"url":"URL#3165907"
+},
+{
+"@score":"1",
+"@id":"3165909",
+"info":{"authors":{"author":["Hermine Njike Fotzo","Thierry Artières","Patrick Gallinari","Julien Blanchard","Guillaume Letellier"]},"title":"Apprentissage d&apos;une hiérarchie de concepts pour la conception de modèles de domaine d&apos;hypermédias.","venue":"EGC","pages":"125-130","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/FotzoAGBL05","ee":"http://editions-rnti.fr/?inprocid=1000239","url":"https://dblp.org/rec/conf/f-egc/FotzoAGBL05"},
+"url":"URL#3165909"
+},
+{
+"@score":"1",
+"@id":"3165911",
+"info":{"authors":{"author":"Frédéric Fürst"},"title":"Modéliser des connaissances ontologiques dans le cadre du modèle des Graphes Conceptuels.","venue":"EGC","pages":"19-24","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/Furst05","ee":"http://editions-rnti.fr/?inprocid=1000205","url":"https://dblp.org/rec/conf/f-egc/Furst05"},
+"url":"URL#3165911"
+},
+{
+"@score":"1",
+"@id":"3165913",
+"info":{"authors":{"author":["Sylvain Gelly","Michèle Sebag","Nicolas Bredèche"]},"title":"Inférence dans les HMM hiérarchiques et factorisés - changement de représentation vers le formalisme des Réseaux Bayésiens.","venue":"EGC","pages":"57-60","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/GellySB05","ee":"http://editions-rnti.fr/?inprocid=1000216","url":"https://dblp.org/rec/conf/f-egc/GellySB05"},
+"url":"URL#3165913"
+},
+{
+"@score":"1",
+"@id":"3165914",
+"info":{"authors":{"author":["Jérôme Gensel","Hervé Martin","Céline Lopez-Velasco","Marlène Villanova-Oliver"]},"title":"Adaptabilité à l&apos;utilisateur dans le contexte des services Web.","venue":"EGC","pages":"153-158","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/GenselMLV05","ee":"http://editions-rnti.fr/?inprocid=1000245","url":"https://dblp.org/rec/conf/f-egc/GenselMLV05"},
+"url":"URL#3165914"
+},
+{
+"@score":"1",
+"@id":"3165915",
+"info":{"authors":{"author":["Pierre-Yves Glorennec","Souhir Fendri-Kharrat","Hassouna Fedhila"]},"title":"Logique Floue appliquée à l&apos;inférence du « Risque Inhérent » en audit financier.","venue":"EGC","pages":"37-42","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/GlorennecFF05","ee":"http://editions-rnti.fr/?inprocid=1000210","url":"https://dblp.org/rec/conf/f-egc/GlorennecFF05"},
+"url":"URL#3165915"
+},
+{
+"@score":"1",
+"@id":"3165917",
+"info":{"authors":{"author":["Régis Gras","Raphaël Couturier","Fabrice Guillet","Filippo Spagnolo"]},"title":"Extraction de Règles en Incertain par la Méthode Implicative.","venue":"EGC","pages":"385-390","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/GrasCGS05","ee":"http://editions-rnti.fr/?inprocid=1000300","url":"https://dblp.org/rec/conf/f-egc/GrasCGS05"},
+"url":"URL#3165917"
+},
+{
+"@score":"1",
+"@id":"3165919",
+"info":{"authors":{"author":["Adel Hafiane","Bertrand Zavidovique"]},"title":"Application des courbes de Peano en recherche d&apos;image par le contenu.","venue":"EGC","pages":"355-358","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/HafianeZ05","ee":"http://editions-rnti.fr/?inprocid=1000294","url":"https://dblp.org/rec/conf/f-egc/HafianeZ05"},
+"url":"URL#3165919"
+},
+{
+"@score":"1",
+"@id":"3165923",
+"info":{"authors":{"author":["Lamis Hawarah","Michel Simonet","Ana Simonet"]},"title":"Classement d&apos;objets incomplets dans un arbre de décision probabiliste.","venue":"EGC","pages":"309-318","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/HawarahSS05","ee":"http://editions-rnti.fr/?inprocid=1000282","url":"https://dblp.org/rec/conf/f-egc/HawarahSS05"},
+"url":"URL#3165923"
+},
+{
+"@score":"1",
+"@id":"3165925",
+"info":{"authors":{"author":["Sébastien Hergalant","Bertrand Aigle","Pierre Leblond","Jean-François Mari"]},"title":"Fouille de données du génome à l&apos;aide de modèles de Markov cachés.","venue":"EGC","pages":"319-328","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/HergalantALM05","ee":"http://editions-rnti.fr/?inprocid=1000285","url":"https://dblp.org/rec/conf/f-egc/HergalantALM05"},
+"url":"URL#3165925"
+},
+{
+"@score":"1",
+"@id":"3165926",
+"info":{"authors":{"author":["Hiep Xuan Huynh","Fabrice Guillet","Henri Briand"]},"title":"ARQAT - plateforme exploratoire pour la qualité des règles d&apos;association.","venue":"EGC","pages":"415-420","year":"2005","type":"Conference and Workshop Papers","key":"conf/f-egc/HuynhGB05","ee":"http://editions-rnti.fr/?inprocid=1000310","url":"https://dblp.org/rec/conf/f-egc/HuynhGB05"},
+"url":"URL#3165926"
+}
+]
+}
+}
+}

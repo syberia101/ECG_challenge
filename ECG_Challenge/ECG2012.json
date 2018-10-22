@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2012\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"107.71"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"94",
+"@dc":"94",
+"@oc":"94",
+"@id":"13466419",
+"text":":facetid:toc:db/conf/f-egc/egc2012.bht"
+}
+},
+"hits":{
+"@total":"94",
+"@computed":"94",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1754120",
+"info":{"authors":{"author":["Muhammad Aun Abbas","Giuseppe Berio"]},"title":"Dealing with upper ontologies and their mappings.","venue":"EGC","pages":"543-544","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AbbasB12","url":"https://dblp.org/rec/conf/f-egc/AbbasB12"},
+"url":"URL#1754120"
+},
+{
+"@score":"1",
+"@id":"1754121",
+"info":{"authors":{"author":["Imen Akermi","Rim Faiz"]},"title":"Mesure de similarité sémantique entre les mots en utilisant le contenu du Web.","venue":"EGC","pages":"545-546","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AkermiF12","url":"https://dblp.org/rec/conf/f-egc/AkermiF12"},
+"url":"URL#1754121"
+},
+{
+"@score":"1",
+"@id":"1754122",
+"info":{"authors":{"author":["Rachid Aknouche","Omar Boussaid","Fadila Bentayeb"]},"title":"RICSH - Recherche d&apos;information contextuelle par segmentation thématique de documents.","venue":"EGC","pages":"327-332","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AknoucheBB12","ee":"http://editions-rnti.fr/?inprocid=1001199","url":"https://dblp.org/rec/conf/f-egc/AknoucheBB12"},
+"url":"URL#1754122"
+},
+{
+"@score":"1",
+"@id":"1754123",
+"info":{"authors":{"author":["Nourhène Alaya","Sadok Ben Yahia","Myriam Lamolle"]},"title":"Modlson - une nouvelle approche de modularisation d&apos;ontologies à grande échelle.","venue":"EGC","pages":"279-284","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AlayaYL12","url":"https://dblp.org/rec/conf/f-egc/AlayaYL12"},
+"url":"URL#1754123"
+},
+{
+"@score":"1",
+"@id":"1754124",
+"info":{"authors":{"author":["Willy Allègre","Thomas Burger","Pascal Berruet","Jean-Yves Antoine"]},"title":"Modèle de supervision d&apos;interactions non-intrusif basé sur les ontologies.","venue":"EGC","pages":"285-290","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AllegreBBA12","ee":"http://editions-rnti.fr/?inprocid=1001148","url":"https://dblp.org/rec/conf/f-egc/AllegreBBA12"},
+"url":"URL#1754124"
+},
+{
+"@score":"1",
+"@id":"1754125",
+"info":{"authors":{"author":["Maha Amami","Aymen Elkhlifi","Rim Faiz"]},"title":"Biological event extraction using SVM and composite kernel function.","venue":"EGC","pages":"333-344","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AmamiEF12","ee":"http://editions-rnti.fr/?inprocid=1001150","url":"https://dblp.org/rec/conf/f-egc/AmamiEF12"},
+"url":"URL#1754125"
+},
+{
+"@score":"1",
+"@id":"1754126",
+"info":{"authors":{"author":["Rémi Auguste","Amel Aissaoui","Jean Martinet","Chabane Djeraba"]},"title":"Ré-identification de personnes dans les journaux télévisés basée sur les Histogrammes spatio-temporels.","venue":"EGC","pages":"547-548","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AugusteAMD12","url":"https://dblp.org/rec/conf/f-egc/AugusteAMD12"},
+"url":"URL#1754126"
+},
+{
+"@score":"1",
+"@id":"1754127",
+"info":{"authors":{"author":["Mustapha Aznag","Mohamed Quafafou","Nicolas Durand","Zahi Jarir"]},"title":"Représentations de services web - impact sur la découverte et la recommandation.","venue":"EGC","pages":"549-550","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/AznagQDJ12","ee":"http://editions-rnti.fr/?inprocid=1001203","url":"https://dblp.org/rec/conf/f-egc/AznagQDJ12"},
+"url":"URL#1754127"
+},
+{
+"@score":"1",
+"@id":"1754128",
+"info":{"authors":{"author":["Saaid Baraty","Dan A. Simovici"]},"title":"Evaluating Bayesian Networks by Sampling with Simplified Assumptions.","venue":"EGC","pages":"11-16","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BaratyS12","ee":"http://editions-rnti.fr/?inprocid=1001135","url":"https://dblp.org/rec/conf/f-egc/BaratyS12"},
+"url":"URL#1754128"
+},
+{
+"@score":"1",
+"@id":"1754129",
+"info":{"authors":{"author":["Adrien Basse","Fabien Gandon","Isabelle Mirbel","Moussa Lo"]},"title":"Représentation compacte du contenu de sources RDF.","venue":"EGC","pages":"551-552","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BasseGML12","url":"https://dblp.org/rec/conf/f-egc/BasseGML12"},
+"url":"URL#1754129"
+},
+{
+"@score":"1",
+"@id":"1754130",
+"info":{"authors":{"author":["Christian Belbèze","Max Chevalier","Chantal Soulé-Dupuy"]},"title":"Evaluation rapide du diamètre d&apos;un graphe.","venue":"EGC","pages":"17-28","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BelbezeCS12","ee":"http://editions-rnti.fr/?inprocid=1001183","url":"https://dblp.org/rec/conf/f-egc/BelbezeCS12"},
+"url":"URL#1754130"
+},
+{
+"@score":"1",
+"@id":"1754131",
+"info":{"authors":{"author":["Mohamed Benamina","Baghdad Atmani"]},"title":"Définition d&apos;un modèle booléen de raisonnement flou adapté à la planification.","venue":"EGC","pages":"553-554","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BenaminaA12","url":"https://dblp.org/rec/conf/f-egc/BenaminaA12"},
+"url":"URL#1754131"
+},
+{
+"@score":"1",
+"@id":"1754132",
+"info":{"authors":{"author":["Anne Bernard","Arthur Tenenhaus","Jean-François Zagury","Gilbert Saporta","Christiane Guinot"]},"title":"Méthodes multiblocs pour l&apos;identification de gènes associés au vieillissement cutané chez 502 femmes caucasiennes adultes.","venue":"EGC","pages":"555-556","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BernardTZSG12","url":"https://dblp.org/rec/conf/f-egc/BernardTZSG12"},
+"url":"URL#1754132"
+},
+{
+"@score":"1",
+"@id":"1754133",
+"info":{"authors":{"author":["Marc Bertin","Iana Atanassova","Jean-Pierre Desclés"]},"title":"Outils de fouille textuelle à partir d&apos;annotations sémantiques.","venue":"EGC","pages":"589-592","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BertinAD12","url":"https://dblp.org/rec/conf/f-egc/BertinAD12"},
+"url":"URL#1754133"
+},
+{
+"@score":"1",
+"@id":"1754134",
+"info":{"authors":{"author":["Souad Bouasker","Tarek Hamrouni","Sadok Ben Yahia"]},"title":"Algorithmes d&apos;extraction et d&apos;interrogation d&apos;une représentation concise exacte des motifs corrélés rares - Application à la détection d&apos;intrusions.","venue":"EGC","pages":"225-230","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BouaskerHY12","url":"https://dblp.org/rec/conf/f-egc/BouaskerHY12"},
+"url":"URL#1754134"
+},
+{
+"@score":"1",
+"@id":"1754135",
+"info":{"authors":{"author":["Lobna Bouchaala","Ahmed Rebai"]},"title":"BNTGUI - Construction et Apprentissage de Structure dans les Réseaux Bayésiens.","venue":"EGC","pages":"593-594","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BouchaalaR12","url":"https://dblp.org/rec/conf/f-egc/BouchaalaR12"},
+"url":"URL#1754135"
+},
+{
+"@score":"1",
+"@id":"1754136",
+"info":{"authors":{"author":"Marc Boullé"},"title":"Sélection Bayésienne de Modèles avec Prior Dépendant des Données.","venue":"EGC","pages":"29-34","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/Boulle12","ee":"http://editions-rnti.fr/?inprocid=1001136","url":"https://dblp.org/rec/conf/f-egc/Boulle12"},
+"url":"URL#1754136"
+},
+{
+"@score":"1",
+"@id":"1754137",
+"info":{"authors":{"author":["Marc Boullé","Romain Guigourès","Fabrice Rossi"]},"title":"Clustering hiérarchique non paramétrique de données fonctionnelles.","venue":"EGC","pages":"101-112","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BoulleGR12","ee":"http://editions-rnti.fr/?inprocid=1001137","url":"https://dblp.org/rec/conf/f-egc/BoulleGR12"},
+"url":"URL#1754137"
+},
+{
+"@score":"1",
+"@id":"1754139",
+"info":{"authors":{"author":["Khalil Riad Bouzidi","Catherine Faron-Zucker","Bruno Fiés","Olivier Corby","Nhan Le Thanh"]},"title":"Modélisation de documents réglementaires dans le domaine du bâtiment.","venue":"EGC","pages":"557-558","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BouzidiFFCT12","url":"https://dblp.org/rec/conf/f-egc/BouzidiFFCT12"},
+"url":"URL#1754139"
+},
+{
+"@score":"1",
+"@id":"1754140",
+"info":{"authors":{"author":["Paula Brito","Géraldine Polaillon"]},"title":"Classification Conceptuelle avec Généralisation par Intervalles.","venue":"EGC","pages":"113-118","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BritoP12","ee":"http://editions-rnti.fr/?inprocid=1001141","url":"https://dblp.org/rec/conf/f-egc/BritoP12"},
+"url":"URL#1754140"
+},
+{
+"@score":"1",
+"@id":"1754141",
+"info":{"authors":{"author":["Michel Buffa","Guillaume Husson","Nicolas Delaforge"]},"title":"SweetDeki - le wiki sémantique couteau suisse du réseau social ISICIL.","venue":"EGC","pages":"387-398","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BuffaHD12","ee":"http://editions-rnti.fr/?inprocid=1001151","url":"https://dblp.org/rec/conf/f-egc/BuffaHD12"},
+"url":"URL#1754141"
+},
+{
+"@score":"1",
+"@id":"1754142",
+"info":{"authors":{"author":["Reto Bürgin","Gilbert Ritschard","Emmanuel Rousseaux"]},"title":"Visualisation de séquences d&apos;événements.","venue":"EGC","pages":"559-560","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BurginRR12","url":"https://dblp.org/rec/conf/f-egc/BurginRR12"},
+"url":"URL#1754142"
+},
+{
+"@score":"1",
+"@id":"1754143",
+"info":{"authors":{"author":["Davide Buscaldi","Guillaume Cleuziou","Gaël Dias","Vincent Levorato"]},"title":"Exploitation de l&apos;asymétrie entre termes pour l&apos;extraction automatique de taxonomies à partir de textes.","venue":"EGC","pages":"345-356","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BuscaldiCDL12","ee":"http://editions-rnti.fr/?inprocid=1001200","url":"https://dblp.org/rec/conf/f-egc/BuscaldiCDL12"},
+"url":"URL#1754143"
+},
+{
+"@score":"1",
+"@id":"1754144",
+"info":{"authors":{"author":["Clément Caron","Justine Guillaumont","Arnaud Saval","Laurie Serrano"]},"title":"WebLab - une plateforme collaborative dédiée à la capitalisation de connaissances.","venue":"EGC","pages":"595-598","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/CaronGSS12","url":"https://dblp.org/rec/conf/f-egc/CaronGSS12"},
+"url":"URL#1754144"
+},
+{
+"@score":"1",
+"@id":"1754146",
+"info":{"authors":{"author":["Francisco de A. T. de Carvalho","Filipe M. de Melo","Yves Lechevallier","Thierry Despeyroux"]},"title":"Un algorithme de classification automatique pour des données relationnelles multivues.","venue":"EGC","pages":"125-136","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/CarvalhoMLD12","ee":"http://editions-rnti.fr/?inprocid=1001142","url":"https://dblp.org/rec/conf/f-egc/CarvalhoMLD12"},
+"url":"URL#1754146"
+},
+{
+"@score":"1",
+"@id":"1754147",
+"info":{"authors":{"author":["Amine Chaibi","Mustapha Lebbah","Hanane Azzag"]},"title":"Détection de groupes outliers en classification non supervisée.","venue":"EGC","pages":"119-124","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/ChaibiLA12","ee":"http://editions-rnti.fr/?inprocid=1001184","url":"https://dblp.org/rec/conf/f-egc/ChaibiLA12"},
+"url":"URL#1754147"
+},
+{
+"@score":"1",
+"@id":"1754148",
+"info":{"authors":{"author":["Raja Chiky","Renata Ghisloti","Zakia Kazi-Aoul"]},"title":"Development of a distributed recommender system using the Hadoop Framework.","venue":"EGC","pages":"495-500","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/ChikyGK12","ee":"http://editions-rnti.fr/?inprocid=1001179","url":"https://dblp.org/rec/conf/f-egc/ChikyGK12"},
+"url":"URL#1754148"
+},
+{
+"@score":"1",
+"@id":"1754149",
+"info":{"authors":{"author":["Hassan Chouaib","Florence Cloppet","Salvatore-Antoine Tabbone","Nicole Vincent"]},"title":"Combinaison de classificateurs simples pour une sélection rapide de caractéristiques.","venue":"EGC","pages":"459-471","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/ChouaibCTV12","ee":"http://editions-rnti.fr/?inprocid=1001196","url":"https://dblp.org/rec/conf/f-egc/ChouaibCTV12"},
+"url":"URL#1754149"
+},
+{
+"@score":"1",
+"@id":"1754151",
+"info":{"authors":{"author":["Ayale Daher","Thierry Dhorne"]},"title":"Classification spatiale par contrôle de l&apos;agrégation.","venue":"EGC","pages":"561-562","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/DaherD12","url":"https://dblp.org/rec/conf/f-egc/DaherD12"},
+"url":"URL#1754151"
+},
+{
+"@score":"1",
+"@id":"1754152",
+"info":{"authors":{"author":["The Anh Dang","Emmanuel Viennet"]},"title":"Community Detection in Social Networks with Attribute and Relationship Data.","venue":"EGC","pages":"563-564","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/DangV12","ee":"http://editions-rnti.fr/?inprocid=1001204","url":"https://dblp.org/rec/conf/f-egc/DangV12"},
+"url":"URL#1754152"
+}
+]
+}
+}
+}

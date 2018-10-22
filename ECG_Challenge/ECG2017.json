@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2017\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"107.87"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"74",
+"@dc":"74",
+"@oc":"74",
+"@id":"13466424",
+"text":":facetid:toc:db/conf/f-egc/egc2017.bht"
+}
+},
+"hits":{
+"@total":"74",
+"@computed":"74",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"363208",
+"info":{"authors":{"author":["Julien Ah-Pine","Xinyu Wang"]},"title":"Classification ascendante hiérarchique à noyaux et une application aux données textuelles.","venue":"EGC","pages":"405-410","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/Ah-PineW17","ee":"http://editions-rnti.fr/?inprocid=1002306","url":"https://dblp.org/rec/conf/f-egc/Ah-PineW17"},
+"url":"URL#363208"
+},
+{
+"@score":"1",
+"@id":"363209",
+"info":{"authors":{"author":["Oussama Ahmia","Nicolas Béchet","Pierre-François Marteau"]},"title":"Apprentissage de structures séquentielles pour lextraction dentités et de relations dans des textes dappels doffres.","venue":"EGC","pages":"351-356","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/AhmiaBM17","ee":"http://editions-rnti.fr/?inprocid=1002297","url":"https://dblp.org/rec/conf/f-egc/AhmiaBM17"},
+"url":"URL#363209"
+},
+{
+"@score":"1",
+"@id":"363210",
+"info":{"authors":{"author":["Sènami C. Fréjus Ahomagnon","Nicolas Voisine","Marc Boullé"]},"title":"Sélection et transformation de variables pour la classification Multi-Label par une approche MDL.","venue":"EGC","pages":"345-350","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/AhomagnonVB17","ee":"http://editions-rnti.fr/?inprocid=1002296","url":"https://dblp.org/rec/conf/f-egc/AhomagnonVB17"},
+"url":"URL#363210"
+},
+{
+"@score":"1",
+"@id":"363211",
+"info":{"authors":{"author":["Olfa Allani","Nedra Mellouli","Hajer Baazaoui Zghal","Herman Akdag"]},"title":"Sélection ciblée des descripteurs visuels pour la recherche dimages - une approche basée sur les règles dassociation.","venue":"EGC","pages":"441-442","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/AllaniMZA17","ee":"http://editions-rnti.fr/?inprocid=1002317","url":"https://dblp.org/rec/conf/f-egc/AllaniMZA17"},
+"url":"URL#363211"
+},
+{
+"@score":"1",
+"@id":"363212",
+"info":{"authors":{"author":["Noureddine Azzouza","Karima Akli-Astouati","Samy Ait Bachir","Amira Oussalah"]},"title":"Une plateforme danalyse dopinions en temps réel sur Twitter avec recommandation.","venue":"EGC","pages":"431-432","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/AzzouzaABO17","ee":"http://editions-rnti.fr/?inprocid=1002313","url":"https://dblp.org/rec/conf/f-egc/AzzouzaABO17"},
+"url":"URL#363212"
+},
+{
+"@score":"1",
+"@id":"363213",
+"info":{"authors":{"author":["Badre Belabbess","Jérémy Lhez","Olivier Curé"]},"title":"Gestion de Connaissances en Temps Réel depuis des Flux Massifs de Données et Apprentissage Automatique.","venue":"EGC","pages":"481-484","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BelabbessLC17","ee":"http://editions-rnti.fr/?inprocid=1002329","url":"https://dblp.org/rec/conf/f-egc/BelabbessLC17"},
+"url":"URL#363213"
+},
+{
+"@score":"1",
+"@id":"363214",
+"info":{"authors":{"author":["Oualid Benyahia","Christine Largeron","Baptiste Jeudy","Osmar R. Zaïane"]},"title":"Un générateur de réseaux dynamiques attribués avec structure communautaire.","venue":"EGC","pages":"449-452","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BenyahiaLJZ17","ee":"http://editions-rnti.fr/?inprocid=1002321","url":"https://dblp.org/rec/conf/f-egc/BenyahiaLJZ17"},
+"url":"URL#363214"
+},
+{
+"@score":"1",
+"@id":"363215",
+"info":{"authors":{"author":["Alexandre Blansché","Dylan Da Conceicao","Dylan Koby"]},"title":"Prédiction du montant levé lors dune campagne de financement participatif par la méthode des plus proches voisins.","venue":"EGC","pages":"387-392","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BlanscheCK17","ee":"http://editions-rnti.fr/?inprocid=1002303","url":"https://dblp.org/rec/conf/f-egc/BlanscheCK17"},
+"url":"URL#363215"
+},
+{
+"@score":"1",
+"@id":"363216",
+"info":{"authors":{"author":["Guillaume Bosc","Jean-François Boulicaut","Chedy Raïssi","Mehdi Kaytoue"]},"title":"Découverte de sous-groupes avec les arbres de recherche de Monte Carlo.","venue":"EGC","pages":"273-284","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BoscBRK17","ee":"http://editions-rnti.fr/?inprocid=1002287","url":"https://dblp.org/rec/conf/f-egc/BoscBRK17"},
+"url":"URL#363216"
+},
+{
+"@score":"1",
+"@id":"363217",
+"info":{"authors":{"author":["Aichetou Bouchareb","Marc Boullé","Fabrice Clérot","Fabrice Rossi"]},"title":"Application du coclustering à lanalyse exploratoire dune table de données.","venue":"EGC","pages":"177-188","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BoucharebBCR17","ee":"http://editions-rnti.fr/?inprocid=1002279","url":"https://dblp.org/rec/conf/f-egc/BoucharebBCR17"},
+"url":"URL#363217"
+},
+{
+"@score":"1",
+"@id":"363218",
+"info":{"authors":{"author":["Aichetou Bouchareb","Marc Boullé","Fabrice Rossi"]},"title":"Co-clustering de données mixtes à base des modèles de mélange.","venue":"EGC","pages":"141-152","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BoucharebBR17","ee":"http://editions-rnti.fr/?inprocid=1002276","url":"https://dblp.org/rec/conf/f-egc/BoucharebBR17"},
+"url":"URL#363218"
+},
+{
+"@score":"1",
+"@id":"363219",
+"info":{"authors":{"author":["Abdelhamid Boudane","Saïd Jabbour","Lakhdar Sais","Yakoub Salhi"]},"title":"Une approche logique pour la fouille de règles dassociation.","venue":"EGC","pages":"357-362","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BoudaneJSS17","ee":"http://editions-rnti.fr/?inprocid=1002298","url":"https://dblp.org/rec/conf/f-egc/BoudaneJSS17"},
+"url":"URL#363219"
+},
+{
+"@score":"1",
+"@id":"363220",
+"info":{"authors":{"author":["Mohamed Boussahoua","Omar Boussaid"]},"title":"Optimisation des performances dans les entrepôts de données NoSQL en colonnes.","venue":"EGC","pages":"69-80","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BoussahouaB17","ee":"http://editions-rnti.fr/?inprocid=1002270","url":"https://dblp.org/rec/conf/f-egc/BoussahouaB17"},
+"url":"URL#363220"
+},
+{
+"@score":"1",
+"@id":"363221",
+"info":{"authors":{"author":["Christophe Brouard","Christian Pomot"]},"title":"Veille dInformation sur le Web avec Re-Watch.","venue":"EGC","pages":"489-492","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BrouardP17","ee":"http://editions-rnti.fr/?inprocid=1002331","url":"https://dblp.org/rec/conf/f-egc/BrouardP17"},
+"url":"URL#363221"
+},
+{
+"@score":"1",
+"@id":"363222",
+"info":{"authors":{"author":["Pierrick Bruneau","Olivier Parisot","Thomas Tamisier"]},"title":"Faciliter les contributions personnelles pour préserver la mémoire des événements historiques.","venue":"EGC","pages":"309-314","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/BruneauPT17","ee":"http://editions-rnti.fr/?inprocid=1002290","url":"https://dblp.org/rec/conf/f-egc/BruneauPT17"},
+"url":"URL#363222"
+},
+{
+"@score":"1",
+"@id":"363223",
+"info":{"authors":{"author":["Gaëtan Caillaut","Guillaume Cleuziou"]},"title":"Apprentissage despaces prétopologiques dans un cadre multi-instance pour la structuration de données.","venue":"EGC","pages":"369-374","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/CaillautC17","ee":"http://editions-rnti.fr/?inprocid=1002300","url":"https://dblp.org/rec/conf/f-egc/CaillautC17"},
+"url":"URL#363223"
+},
+{
+"@score":"1",
+"@id":"363224",
+"info":{"authors":{"author":"Dominique Cardon"},"title":"Une approche sociologique de la place des calculs dans les mondes numériques.","venue":"EGC","pages":"5-6","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/Cardon17","ee":"http://editions-rnti.fr/?inprocid=1002263","url":"https://dblp.org/rec/conf/f-egc/Cardon17"},
+"url":"URL#363224"
+},
+{
+"@score":"1",
+"@id":"363225",
+"info":{"authors":{"author":["Zhi Cheng","Frédéric Flouvat","Nazha Selmaoui-Folcher"]},"title":"Extraction des évolutions récurrentes dans un unique graphe dynamique attribué.","venue":"EGC","pages":"105-116","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/ChengFS17","ee":"http://editions-rnti.fr/?inprocid=1002273","url":"https://dblp.org/rec/conf/f-egc/ChengFS17"},
+"url":"URL#363225"
+},
+{
+"@score":"1",
+"@id":"363226",
+"info":{"authors":{"author":["Emmanuelle Claeys","Pierre Gançarski","Myriam Maumy-Bertrand","Hubert Wassner"]},"title":"Conception dun modèle généraliste pour lévaluation dun test A/B.","venue":"EGC","pages":"423-424","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/ClaeysGMW17","ee":"http://editions-rnti.fr/?inprocid=1002309","url":"https://dblp.org/rec/conf/f-egc/ClaeysGMW17"},
+"url":"URL#363226"
+},
+{
+"@score":"1",
+"@id":"363227",
+"info":{"authors":{"author":["Brieuc Conan-Guez","Alain Gély","Lydia Boudjeloud-Assala","Alexandre Blansché"]},"title":"K-Spectral Centroïd pour des données massives.","venue":"EGC","pages":"129-140","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/Conan-GuezGBB17","ee":"http://editions-rnti.fr/?inprocid=1002275","url":"https://dblp.org/rec/conf/f-egc/Conan-GuezGBB17"},
+"url":"URL#363227"
+},
+{
+"@score":"1",
+"@id":"363228",
+"info":{"authors":{"author":["Benjamin Coste","Cyril Ray","Gouenou Coatrieux"]},"title":"Mesure de la confiance dans les systèmes dinformation - application aux données de navires.","venue":"EGC","pages":"117-128","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/CosteRC17","ee":"http://editions-rnti.fr/?inprocid=1002274","url":"https://dblp.org/rec/conf/f-egc/CosteRC17"},
+"url":"URL#363228"
+},
+{
+"@score":"1",
+"@id":"363229",
+"info":{"authors":{"author":["Yann Dauxais","David Gross-Amblard","Thomas Guyet","André Happe"]},"title":"Extraction de chroniques discriminantes.","venue":"EGC","pages":"165-176","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/DauxaisGGH17","ee":"http://editions-rnti.fr/?inprocid=1002278","url":"https://dblp.org/rec/conf/f-egc/DauxaisGGH17"},
+"url":"URL#363229"
+},
+{
+"@score":"1",
+"@id":"363230",
+"info":{"authors":{"author":"Florent Domenach"},"title":"Mesure de Similarité entre Treillis Basée sur des Correspondances Explicites.","venue":"EGC","pages":"363-368","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/Domenach17","ee":"http://editions-rnti.fr/?inprocid=1002299","url":"https://dblp.org/rec/conf/f-egc/Domenach17"},
+"url":"URL#363230"
+},
+{
+"@score":"1",
+"@id":"363231",
+"info":{"authors":{"author":["Florent Domenach","George Portides"]},"title":"Comparaison et Évaluation de Mesures de Similarité entre Concepts dun Treillis.","venue":"EGC","pages":"303-308","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/DomenachP17","ee":"http://editions-rnti.fr/?inprocid=1002289","url":"https://dblp.org/rec/conf/f-egc/DomenachP17"},
+"url":"URL#363231"
+},
+{
+"@score":"1",
+"@id":"363232",
+"info":{"authors":{"author":["Maísa Cristina Duarte","Pierre Maret"]},"title":"Vers une instance française de NELL - chaîne TLN multilingue et modélisation dontologie.","venue":"EGC","pages":"469-472","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/DuarteM17","ee":"http://editions-rnti.fr/?inprocid=1002326","url":"https://dblp.org/rec/conf/f-egc/DuarteM17"},
+"url":"URL#363232"
+},
+{
+"@score":"1",
+"@id":"363233",
+"info":{"authors":{"author":["Adrien Dufraux","Benjamin Renoust","Shin&apos;ichi Satoh"]},"title":"Face2Graph - Base de données graphe et visualisation pour lannotation darchives vidéos.","venue":"EGC","pages":"453-456","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/DufrauxRS17","ee":"http://editions-rnti.fr/?inprocid=1002322","url":"https://dblp.org/rec/conf/f-egc/DufrauxRS17"},
+"url":"URL#363233"
+},
+{
+"@score":"1",
+"@id":"363234",
+"info":{"authors":{"author":["Nicolas Dugué","Jean-Charles Lamirel"]},"title":"Une métrique de sélection de variables appliquée à la centralité et à la détection des rôles communautaires.","venue":"EGC","pages":"9-20","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/DugueL17","ee":"http://editions-rnti.fr/?inprocid=1002265","url":"https://dblp.org/rec/conf/f-egc/DugueL17"},
+"url":"URL#363234"
+},
+{
+"@score":"1",
+"@id":"363235",
+"info":{"authors":{"author":["Françoise Fessant","Tarek Benkhelif","Fabrice Clérot"]},"title":"Anonymiser des données multidimensionnelles à laide du coclustering.","venue":"EGC","pages":"153-164","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/FessantBC17","ee":"http://editions-rnti.fr/?inprocid=1002277","url":"https://dblp.org/rec/conf/f-egc/FessantBC17"},
+"url":"URL#363235"
+},
+{
+"@score":"1",
+"@id":"363236",
+"info":{"authors":{"author":["Jean-Benoît Griesner","Talel Abdessalem","Hubert Naacke"]},"title":"Un Modèle de Factorisation de Poisson pour la Recommandation de Points dIntérêt.","venue":"EGC","pages":"411-416","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/GriesnerAN17","ee":"http://editions-rnti.fr/?inprocid=1002307","url":"https://dblp.org/rec/conf/f-egc/GriesnerAN17"},
+"url":"URL#363236"
+},
+{
+"@score":"1",
+"@id":"363237",
+"info":{"authors":{"author":["Mohamed Guendouz","Abdelmalek Amine","Reda Mohamed Hamou"]},"title":"Machine Learning Based Classification of Android Apps through Text Features.","venue":"EGC","pages":"429-430","year":"2017","type":"Conference and Workshop Papers","key":"conf/f-egc/GuendouzAH17","ee":"http://editions-rnti.fr/?inprocid=1002312","url":"https://dblp.org/rec/conf/f-egc/GuendouzAH17"},
+"url":"URL#363237"
+}
+]
+}
+}
+}

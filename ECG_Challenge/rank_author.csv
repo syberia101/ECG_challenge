@@ -1,0 +1,27 @@
+,,authors,authors,authors,authors,nom,nom,nom,nom,prenom,prenom,prenom,prenom,title,title,title,title,year,year,year,year
+,,count,unique,top,freq,count,unique,top,freq,count,unique,top,freq,count,unique,top,freq,count,unique,top,freq
+sex,rank_author,,,,,,,,,,,,,,,,,,,,
+Female,1,138,110,Aliou Boly,3,138,110,Bouchareb,3,138,98,Marie,5,138,138,RAS - Un outil pour l&apos;annotation de documents basée sur les liens de citation.,1,138,17,2006,12
+Female,2,112,83,Christine Largeron,5,112,83,Largeron,5,112,70,Christine,10,112,112,RAS - Un outil pour l&apos;annotation de documents basée sur les liens de citation.,1,112,17,2014,9
+Female,3,82,68,Marie-Luce Picard,3,82,67,Loudcher,3,82,60,Sabine,3,82,82,Recherche de règles d&apos;association hiérarchiques par une approche anthropocentrée.,1,82,17,2013,10
+Female,4,29,29,Raja Chiky,1,29,29,Barigou,1,29,29,Emmanuelle,1,29,29,Une nouvelle mesure pour l&apos;évaluation des méthodes d&apos;extraction de thématiques - la Vraisemblance Généralisée.,1,29,13,2013,5
+Female,5,8,8,Mimoun Malki,1,8,8,Vrain,1,8,8,Mimoun,1,8,8,"Bien cube, les données textuelles peuvent s&apos;agréger !",1,8,6,2010,2
+Female,6,2,2,Catherine Faron-Zucker,1,2,2,Nadah,1,2,2,Nadia,1,2,2,ISICIL - intégration sémantique d&apos;informations à travers des communautés d&apos;intelligence en ligne.,1,2,2,2010,1
+Female,7,1,1,Tao-Yuan Jen,1,1,1,Jen,1,1,1,Tao-Yuan,1,1,1,DBFrequentQueries - Extraction de requêtes fréquentes.,1,1,1,2009,1
+Female,9,1,1,Maylis Delest,1,1,1,Delest,1,1,1,Maylis,1,1,1,Tulip - a scalable graph visualization framework.,1,1,1,2010,1
+Female,10,1,1,Audrey Baneyx,1,1,1,Baneyx,1,1,1,Audrey,1,1,1,DaFOE - une plateforme pour construire des ontologies à partir de textes et de thésaurus.,1,1,1,2010,1
+Male,1,337,242,Marc Boullé,10,337,233,Boullé,10,337,168,Mohamed,15,337,337,Gradients de prototypicalité conceptuelle et lexicale - une contribution à la pragmatisation des ontologies de domaine.,1,337,17,2002,24
+Male,2,317,238,Mustapha Lebbah,6,317,229,Lebbah,6,317,149,Marc,12,317,317,Gradients de prototypicalité conceptuelle et lexicale - une contribution à la pragmatisation des ontologies de domaine.,1,317,17,2017,23
+Male,3,198,162,Amedeo Napoli,5,198,159,Napoli,5,198,108,Olivier,7,198,198,Un système cellulaire neuro-symbolique pour l&apos;extraction et la gestion de connaissances.,1,198,17,2014,16
+Male,4,99,82,Chabane Djeraba,6,99,82,Djeraba,6,99,61,Chabane,6,99,99,Gradients de prototypicalité conceptuelle et lexicale - une contribution à la pragmatisation des ontologies de domaine.,1,99,17,2014,8
+Male,5,24,24,Budi Sentana,1,24,23,Le,2,24,21,Arnaud,2,24,24,Apport de la fouille de données pour la prévention du risque suicidaire.,1,24,15,2015,3
+Male,6,6,6,Guy Melançon,1,6,6,Boulicaut,1,6,6,Enrique,1,6,6,Apport de la fouille de données pour la prévention du risque suicidaire.,1,6,6,2010,1
+Male,7,4,4,Éric Sardet,1,4,4,Sardet,1,4,4,Eric,1,4,4,Apport de la fouille de données pour la prévention du risque suicidaire.,1,4,3,2010,2
+Male,8,4,4,Jean Delahousse,1,4,4,Lenca,1,4,4,Bruno,1,4,4,DaFOE - une plateforme pour construire des ontologies à partir de textes et de thésaurus.,1,4,3,2010,2
+Male,9,2,2,Guillaume Husson,1,2,2,Valéry,1,2,2,Guillaume,1,2,2,ISICIL - intégration sémantique d&apos;informations à travers des communautés d&apos;intelligence en ligne.,1,2,2,2010,1
+Male,10,2,2,Guy Melançon,1,2,2,Melançon,1,2,2,Freddy,1,2,2,ISICIL - intégration sémantique d&apos;informations à travers des communautés d&apos;intelligence en ligne.,1,2,2,2010,1
+UKN,1,31,26,Badre Belabbess,3,31,26,Belabbess,3,31,23,Rim,3,31,31,Méta-analyse ordinale d&apos;enquêtes d&apos;opinion Application aux usages de l&apos;Internet des objets en entreprise.,1,31,10,2010,5
+UKN,2,26,19,Hanane Azzag,4,26,19,Azzag,4,26,18,Hanane,4,26,26,Sémantique et contextes conceptuels pour la recherche d&apos;information.,1,26,11,2013,6
+UKN,3,26,19,Sadok Ben Yahia,3,26,19,Azzag,3,26,18,Hanane,3,26,26,XEWGraph - Outil de Visualisation et Analyse des Hypergraphes pour un Système d&apos;Intelligence Economique.,1,26,13,2015,5
+UKN,4,6,6,Frédérique Touffet,1,6,6,Haoyuan,1,6,6,Dominique,1,6,6,Mean-shift - Clustering scalable et distribué.,1,6,5,2018,2
+UKN,6,1,1,Dominique Laurent,1,1,1,Laurent,1,1,1,Dominique,1,1,1,DBFrequentQueries - Extraction de requêtes fréquentes.,1,1,1,2009,1

@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2002\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.42"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"52",
+"@dc":"52",
+"@oc":"52",
+"@id":"13466408",
+"text":":facetid:toc:db/conf/f-egc/egc2002.bht"
+}
+},
+"hits":{
+"@total":"52",
+"@computed":"52",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3518756",
+"info":{"authors":{"author":"Érick Alphonse"},"title":"Sélection d&apos;attributs en apprentissage relationnel.","venue":"EGC","pages":"167-172","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/Alphonse02","url":"https://dblp.org/rec/conf/f-egc/Alphonse02"},
+"url":"URL#3518756"
+},
+{
+"@score":"1",
+"@id":"3518757",
+"info":{"authors":{"author":["Ikram Amous","Florence Sèdes"]},"title":"Reconstruction dynamique de documents.","venue":"EGC","pages":"363-374","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/AmousS02","url":"https://dblp.org/rec/conf/f-egc/AmousS02"},
+"url":"URL#3518757"
+},
+{
+"@score":"1",
+"@id":"3518758",
+"info":{"authors":{"author":"Sylvain Aubin"},"title":"NeuroNav - Un environnement d&apos;analyse statistique de textes.","venue":"EGC","pages":"413","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/Aubin02","url":"https://dblp.org/rec/conf/f-egc/Aubin02"},
+"url":"URL#3518758"
+},
+{
+"@score":"1",
+"@id":"3518759",
+"info":{"authors":{"author":["Jérôme Azé","Yves Kodratoff"]},"title":"Evaluation de la résistance au bruit de quelques mesures d&apos;extraction de règles d&apos;association.","venue":"EGC","pages":"143-154","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/AzeK02","url":"https://dblp.org/rec/conf/f-egc/AzeK02"},
+"url":"URL#3518759"
+},
+{
+"@score":"1",
+"@id":"3518760",
+"info":{"authors":{"author":["Jaume Baixeries","Gemma Casas-Garriga","José L. Balcázar"]},"title":"A Best-First Strategy for Finding Frequent Sets.","venue":"EGC","pages":"101-106","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BaixeriesCB02","url":"https://dblp.org/rec/conf/f-egc/BaixeriesCB02"},
+"url":"URL#3518760"
+},
+{
+"@score":"1",
+"@id":"3518761",
+"info":{"authors":{"author":["Daniel Beauchêne","Cécile Million-Rousseau","Christophe Roche"]},"title":"Ontologies et traitement du courrier électronique.","venue":"EGC","pages":"414","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BeaucheneMR02","url":"https://dblp.org/rec/conf/f-egc/BeaucheneMR02"},
+"url":"URL#3518761"
+},
+{
+"@score":"1",
+"@id":"3518762",
+"info":{"authors":{"author":["Mohamed Bendou","Paul Munteanu"]},"title":"Modèles graphiques semi-orientés pour l&apos;apprentissage des réseaux bayésiens.","venue":"EGC","pages":"331-343","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BendouM02","url":"https://dblp.org/rec/conf/f-egc/BendouM02"},
+"url":"URL#3518762"
+},
+{
+"@score":"1",
+"@id":"3518763",
+"info":{"authors":{"author":["Julien Blanchard","Fabrice Guillet","Henri Briand"]},"title":"L&apos;intensité d&apos;implication entropique pour la recherche de règles de prédiction intéressantes dans des séquences de pannes d&apos;ascenseurs.","venue":"EGC","pages":"77-88","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BlanchardGB02","url":"https://dblp.org/rec/conf/f-egc/BlanchardGB02"},
+"url":"URL#3518763"
+},
+{
+"@score":"1",
+"@id":"3518764",
+"info":{"authors":{"author":"Marc Boullé"},"title":"Khiops - une méthode statistique de discrétisation.","venue":"EGC","pages":"107-118","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/Boulle02","url":"https://dblp.org/rec/conf/f-egc/Boulle02"},
+"url":"URL#3518764"
+},
+{
+"@score":"1",
+"@id":"3518765",
+"info":{"authors":{"author":["Marc Boyer","Laurent Chaudron"]},"title":"Classification formelle de règles - Un système de gradation des règles contextuelles.","venue":"EGC","pages":"319-324","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BoyerC02","url":"https://dblp.org/rec/conf/f-egc/BoyerC02"},
+"url":"URL#3518765"
+},
+{
+"@score":"1",
+"@id":"3518766",
+"info":{"authors":{"author":["Joost Breuker","Radboud Winkels"]},"title":"Taking ontological commitments seriously - FOLaw, a functional core ontology of legal knowledge.","venue":"EGC","pages":"9-25","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BreukerW02","url":"https://dblp.org/rec/conf/f-egc/BreukerW02"},
+"url":"URL#3518766"
+},
+{
+"@score":"1",
+"@id":"3518767",
+"info":{"authors":{"author":["Bianka Buschbeck","Luc Grivel","Sylvie Guillemin-Lanne","Christian Lautier"]},"title":"Une application industrielle d&apos;extraction de l&apos;information pour l&apos;intelligence économique.","venue":"EGC","pages":"415","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/BuschbeckGGL02","url":"https://dblp.org/rec/conf/f-egc/BuschbeckGGL02"},
+"url":"URL#3518767"
+},
+{
+"@score":"1",
+"@id":"3518768",
+"info":{"authors":{"author":["Jean-Pierre Cahier","Manuel Zacklad"]},"title":"Approche cognitive de la co-construction d&apos;un catalogue multi-point de vue et multi-expert.","venue":"EGC","pages":"221-226","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/CahierZ02","url":"https://dblp.org/rec/conf/f-egc/CahierZ02"},
+"url":"URL#3518768"
+},
+{
+"@score":"1",
+"@id":"3518769",
+"info":{"authors":{"author":["Matthieu Capelle","Jean-François Boulicaut","Cyrille Masson"]},"title":"Extraction de motifs séquentiels sous contraintes de similarité.","venue":"EGC","pages":"65-76","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/CapelleBM02","url":"https://dblp.org/rec/conf/f-egc/CapelleBM02"},
+"url":"URL#3518769"
+},
+{
+"@score":"1",
+"@id":"3518770",
+"info":{"authors":{"author":["Youssef Chahir","Sophie Schüpp","Liming Chen 0002"]},"title":"Indexation d&apos;images utilisant une segmentation par ensembles de niveaux.","venue":"EGC","pages":"387-392","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/ChahirSC02","url":"https://dblp.org/rec/conf/f-egc/ChahirSC02"},
+"url":"URL#3518770"
+},
+{
+"@score":"1",
+"@id":"3518771",
+"info":{"authors":{"author":["Jean-Hugues Chauchat","Ricco Rakotomalala","François Pellegrino"]},"title":"Estimation du taux d&apos;erreur sur données en grappes - Application à la reconnaissance de la parole.","venue":"EGC","pages":"269-280","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/ChauchatRP02","url":"https://dblp.org/rec/conf/f-egc/ChauchatRP02"},
+"url":"URL#3518771"
+},
+{
+"@score":"1",
+"@id":"3518772",
+"info":{"authors":{"author":["Nadjim Chelghoum","Karine Zeitouni","Azedine Boulmakoul"]},"title":"Fouille de données spatiales par arbre de décision multi-thème.","venue":"EGC","pages":"281-286","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/ChelghoumZB02","url":"https://dblp.org/rec/conf/f-egc/ChelghoumZB02"},
+"url":"URL#3518772"
+},
+{
+"@score":"1",
+"@id":"3518773",
+"info":{"authors":{"author":["Cherif Chiraz Latiri","Samir Elloumi","Sadok Ben Yahia","Ali Jaoua"]},"title":"Textmining - extension de la connexion de Galois floue.","venue":"EGC","pages":"375-386","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/CherifEYJ02","url":"https://dblp.org/rec/conf/f-egc/CherifEYJ02"},
+"url":"URL#3518773"
+},
+{
+"@score":"1",
+"@id":"3518774",
+"info":{"authors":{"author":["Max Chevalier","Christine Julien 0002"]},"title":"Aide à la navigation sur le web - Réutilisation de l&apos;expérience des utilisateurs.","venue":"EGC","pages":"399-405","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/ChevalierJ02","url":"https://dblp.org/rec/conf/f-egc/ChevalierJ02"},
+"url":"URL#3518774"
+},
+{
+"@score":"1",
+"@id":"3518775",
+"info":{"authors":{"author":["Arnaud Coatanhay","Cédric Richard","Luc Staner"]},"title":"Classification en temps-fréquence à partir de données expertisées - Application à la détection des complexes-K.","venue":"EGC","pages":"293-304","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/CoatanhayRS02","url":"https://dblp.org/rec/conf/f-egc/CoatanhayRS02"},
+"url":"URL#3518775"
+},
+{
+"@score":"1",
+"@id":"3518776",
+"info":{"authors":{"author":["Catherine Combes","André Flory"]},"title":"Utilisation de la théorie des dépendances fonctionnelles pour la conception logique d&apos;un entrepôt de données.","venue":"EGC","pages":"245-256","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/CombesF02","url":"https://dblp.org/rec/conf/f-egc/CombesF02"},
+"url":"URL#3518776"
+},
+{
+"@score":"1",
+"@id":"3518777",
+"info":{"authors":{"author":["Antoine Courteille","Philippe Allot","Jean-Pierre Tarditi","Jean-Louis Ermine","Marc Le Coq"]},"title":"Ingénierie des connaissances et innovation - Application dans le domaine automobile.","venue":"EGC","pages":"203-220","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/CourteilleATEC02","url":"https://dblp.org/rec/conf/f-egc/CourteilleATEC02"},
+"url":"URL#3518777"
+},
+{
+"@score":"1",
+"@id":"3518778",
+"info":{"authors":{"author":["Hugues Delalin","Jean Léger","Gérard Ramstein"]},"title":"Analyse de l&apos;expression de gènes à partir de puces à ADN.","venue":"EGC","pages":"421","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/DelalinLR02","url":"https://dblp.org/rec/conf/f-egc/DelalinLR02"},
+"url":"URL#3518778"
+},
+{
+"@score":"1",
+"@id":"3518779",
+"info":{"authors":{"author":["Frédéric Fürst","Michel Leclère","Francky Trichet"]},"title":"Construction d&apos;une ontologie opérationnelle - un retour d&apos;expérience.","venue":"EGC","pages":"227-232","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/FurstLT02","url":"https://dblp.org/rec/conf/f-egc/FurstLT02"},
+"url":"URL#3518779"
+},
+{
+"@score":"1",
+"@id":"3518780",
+"info":{"authors":{"author":"Aïcha El Golli"},"title":"Bases de données relationnelles - construction d&apos;objets symboliques par généralisation.","venue":"EGC","pages":"422","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/Golli02","url":"https://dblp.org/rec/conf/f-egc/Golli02"},
+"url":"URL#3518780"
+},
+{
+"@score":"1",
+"@id":"3518781",
+"info":{"authors":{"author":["Régis Gras","Fabrice Guillet","Robin Gras","Jacques Philippe"]},"title":"Réduction des colonnes d&apos;un tableau de données par quasi-équivalence entre variables.","venue":"EGC","pages":"197-202","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/GrasGGP02","url":"https://dblp.org/rec/conf/f-egc/GrasGGP02"},
+"url":"URL#3518781"
+},
+{
+"@score":"1",
+"@id":"3518782",
+"info":{"authors":{"author":"Sylvie Guillaume"},"title":"Découverte de règles d&apos;association ordinales.","venue":"EGC","pages":"29-40","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/Guillaume02","url":"https://dblp.org/rec/conf/f-egc/Guillaume02"},
+"url":"URL#3518782"
+},
+{
+"@score":"1",
+"@id":"3518783",
+"info":{"authors":{"author":["André Hardy","Pascale Lallemand"]},"title":"Application du test des Hypervolumes à des données symboliques de type intervalle.","venue":"EGC","pages":"287-292","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/HardyL02","url":"https://dblp.org/rec/conf/f-egc/HardyL02"},
+"url":"URL#3518783"
+},
+{
+"@score":"1",
+"@id":"3518784",
+"info":{"authors":{"author":"Mounira Harzallah"},"title":"CRAIM - un modèle générique des compétences.","venue":"EGC","pages":"416","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/Harzallah02","url":"https://dblp.org/rec/conf/f-egc/Harzallah02"},
+"url":"URL#3518784"
+},
+{
+"@score":"1",
+"@id":"3518785",
+"info":{"authors":{"author":["François-Xavier Jollois","Mohamed Nadif"]},"title":"Evaluation du nombre de classes dans un cadre bayésien.","venue":"EGC","pages":"357-362","year":"2002","type":"Conference and Workshop Papers","key":"conf/f-egc/JolloisN02","url":"https://dblp.org/rec/conf/f-egc/JolloisN02"},
+"url":"URL#3518785"
+}
+]
+}
+}
+}

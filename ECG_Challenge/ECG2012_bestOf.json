@@ -1,0 +1,92 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"sci2012\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"103.12"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"13466428",
+"text":":facetid:toc:db/conf/f-egc/sci2012.bht"
+}
+},
+"hits":{
+"@total":"10",
+"@computed":"10",
+"@sent":"10",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1328764",
+"info":{"authors":{"author":["Fabrice Guillet","Bruno Pinaud","Gilles Venturini","Djamel Abdelkader Zighed"]},"title":"Advances in Knowledge Discovery and Management - Volume 4 [Best of EGC 2012, Bordeaux, France]","venue":["EGC","Studies in Computational Intelligence"],"volume":"527","publisher":"Springer","year":"2014","type":"Editorship","key":"conf/f-egc/2012sci","doi":"10.1007/978-3-319-02999-3","ee":"https://doi.org/10.1007/978-3-319-02999-3","url":"https://dblp.org/rec/conf/f-egc/2012sci"},
+"url":"URL#1328764"
+},
+{
+"@score":"1",
+"@id":"1754138",
+"info":{"authors":{"author":["Marc Boullé","Romain Guigourès","Fabrice Rossi"]},"title":"Nonparametric Hierarchical Clustering of Functional Data.","venue":"EGC","pages":"15-35","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/BoulleGR12a","doi":"10.1007/978-3-319-02999-3_2","ee":"https://doi.org/10.1007/978-3-319-02999-3_2","url":"https://dblp.org/rec/conf/f-egc/BoulleGR12a"},
+"url":"URL#1754138"
+},
+{
+"@score":"1",
+"@id":"1754145",
+"info":{"authors":{"author":["Francisco de A. T. de Carvalho","Yves Lechevallier","Thierry Despeyroux","Filipe M. de Melo"]},"title":"Multi-view Clustering on Relational Data.","venue":"EGC","pages":"37-51","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/CarvalhoLDM12","doi":"10.1007/978-3-319-02999-3_3","ee":"https://doi.org/10.1007/978-3-319-02999-3_3","url":"https://dblp.org/rec/conf/f-egc/CarvalhoLDM12"},
+"url":"URL#1754145"
+},
+{
+"@score":"1",
+"@id":"1754150",
+"info":{"authors":{"author":["Hassan Chouaib","Florence Cloppet","Nicole Vincent"]},"title":"Combination of Single Feature Classifiers for Fast Feature Selection.","venue":"EGC","pages":"113-131","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/ChouaibCV12","doi":"10.1007/978-3-319-02999-3_7","ee":"https://doi.org/10.1007/978-3-319-02999-3_7","url":"https://dblp.org/rec/conf/f-egc/ChouaibCV12"},
+"url":"URL#1754150"
+},
+{
+"@score":"1",
+"@id":"1754159",
+"info":{"authors":{"author":["Thanh-Nghi Doan","François Poulet"]},"title":"Large Scale Image Classification - Fast Feature Extraction, Multi-codebook Approach and Multi-core SVM Training.","venue":"EGC","pages":"155-172","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/DoanP12a","doi":"10.1007/978-3-319-02999-3_9","ee":"https://doi.org/10.1007/978-3-319-02999-3_9","url":"https://dblp.org/rec/conf/f-egc/DoanP12a"},
+"url":"URL#1754159"
+},
+{
+"@score":"1",
+"@id":"1754162",
+"info":{"authors":{"author":["Rim Faiz","Maha Amami","Aymen Elkhlifi"]},"title":"Semantic Event Extraction from Biological Texts Using a Kernel-Based Method.","venue":"EGC","pages":"77-94","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/FaizAE12","doi":"10.1007/978-3-319-02999-3_5","ee":"https://doi.org/10.1007/978-3-319-02999-3_5","url":"https://dblp.org/rec/conf/f-egc/FaizAE12"},
+"url":"URL#1754162"
+},
+{
+"@score":"1",
+"@id":"1754185",
+"info":{"authors":{"author":["Dhafer Lahbib","Marc Boullé","Dominique Laurent"]},"title":"Supervised Pre-processing of Numerical Variables for Multi-Relational Data Mining.","venue":"EGC","pages":"95-109","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/LahbibBL12a","doi":"10.1007/978-3-319-02999-3_6","ee":"https://doi.org/10.1007/978-3-319-02999-3_6","url":"https://dblp.org/rec/conf/f-egc/LahbibBL12a"},
+"url":"URL#1754185"
+},
+{
+"@score":"1",
+"@id":"1754199",
+"info":{"authors":{"author":"François Queyroi"},"title":"Optimizing a Hierarchical Community Structure of a Complex Network.","venue":"EGC","pages":"3-14","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/Queyroi12a","doi":"10.1007/978-3-319-02999-3_1","ee":"https://doi.org/10.1007/978-3-319-02999-3_1","url":"https://dblp.org/rec/conf/f-egc/Queyroi12a"},
+"url":"URL#1754199"
+},
+{
+"@score":"1",
+"@id":"1754216",
+"info":{"authors":{"author":["Laurent Vezard","Pierrick Legrand","Marie Chavent","Frédérique Faïta-Aïnseba","Julien Clauzel","Leonardo Trujillo"]},"title":"Classification of EEG Signals by an Evolutionary Algorithm.","venue":"EGC","pages":"133-153","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/VezardLCFCT12","doi":"10.1007/978-3-319-02999-3_8","ee":"https://doi.org/10.1007/978-3-319-02999-3_8","url":"https://dblp.org/rec/conf/f-egc/VezardLCFCT12"},
+"url":"URL#1754216"
+},
+{
+"@score":"1",
+"@id":"1754220",
+"info":{"authors":{"author":["Asma Ben Zakour","Sofian Maabout","Mohamed Mosbah","Marc Sistiaga"]},"title":"Relaxing Time Granularity for Mining Frequent Sequences.","venue":"EGC","pages":"53-76","year":"2012","type":"Conference and Workshop Papers","key":"conf/f-egc/ZakourMMS12a","doi":"10.1007/978-3-319-02999-3_4","ee":"https://doi.org/10.1007/978-3-319-02999-3_4","url":"https://dblp.org/rec/conf/f-egc/ZakourMMS12a"},
+"url":"URL#1754220"
+}
+]
+}
+}
+}

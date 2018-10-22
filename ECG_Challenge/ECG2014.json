@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"egc2014\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.08"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"88",
+"@dc":"88",
+"@oc":"88",
+"@id":"13466421",
+"text":":facetid:toc:db/conf/f-egc/egc2014.bht"
+}
+},
+"hits":{
+"@total":"88",
+"@computed":"88",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1225922",
+"info":{"authors":{"author":["Marie Arcadias","Guillaume Cleuziou","Edmond Lassalle","Christel Vrain"]},"title":"Apprentissage non supervisé de dépendances syntaxiques à partir de texte étiqueté, plusieurs variantes de PCFG légères.","venue":"EGC","pages":"155-160","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ArcadiasCLV14","ee":"http://editions-rnti.fr/?inprocid=1001924","url":"https://dblp.org/rec/conf/f-egc/ArcadiasCLV14"},
+"url":"URL#1225922"
+},
+{
+"@score":"1",
+"@id":"1225923",
+"info":{"authors":{"author":["Billel Arres","Nadia Kabachi","Fadila Bentayeb","Omar Boussaïd"]},"title":"Application du paradigme MapReduce aux données ouvertes Cas - Accessibilité des personnes à mobilité réduite aux musées.","venue":"EGC","pages":"497-500","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ArresKBB14","ee":"http://editions-rnti.fr/?inprocid=1001963","url":"https://dblp.org/rec/conf/f-egc/ArresKBB14"},
+"url":"URL#1225923"
+},
+{
+"@score":"1",
+"@id":"1225924",
+"info":{"authors":{"author":["Bissan Audeh","Philippe Beaune","Michel Beigbeder"]},"title":"L&apos;utilisation des entités nommées pour l&apos;expansion sémantique des requêtes Web.","venue":"EGC","pages":"11-22","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/AudehBB14","ee":"http://editions-rnti.fr/?inprocid=1001910","url":"https://dblp.org/rec/conf/f-egc/AudehBB14"},
+"url":"URL#1225924"
+},
+{
+"@score":"1",
+"@id":"1225925",
+"info":{"authors":{"author":["Boris Baldassari","Flavien Huynh","Philippe Preux"]},"title":"De l&apos;ombre à la lumière - plus de visibilité sur l&apos;Eclipse.","venue":"EGC","pages":"513-516","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BaldassariHP14","ee":"http://editions-rnti.fr/?inprocid=1001967","url":"https://dblp.org/rec/conf/f-egc/BaldassariHP14"},
+"url":"URL#1225925"
+},
+{
+"@score":"1",
+"@id":"1225926",
+"info":{"authors":{"author":["Saaid Baraty","Dan A. Simovici"]},"title":"Representative training sets for classification and the variability of empirical distributions.","venue":"EGC","pages":"299-304","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BaratyS14","ee":"http://editions-rnti.fr/?inprocid=1001940","url":"https://dblp.org/rec/conf/f-egc/BaratyS14"},
+"url":"URL#1225926"
+},
+{
+"@score":"1",
+"@id":"1225927",
+"info":{"authors":{"author":["Fatiha Barigou","Naouel Barigou","Baghdad Atmani","Bouziane Beldjilali"]},"title":"Sélection de prototypes en vue d&apos;une catégorisation de textes avec les K plus proches voisins - étude comparative.","venue":"EGC","pages":"167-172","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BarigouBAB14","ee":"http://editions-rnti.fr/?inprocid=1001926","url":"https://dblp.org/rec/conf/f-egc/BarigouBAB14"},
+"url":"URL#1225927"
+},
+{
+"@score":"1",
+"@id":"1225928",
+"info":{"authors":{"author":["William Correa Beltran","Hélène Jaudoin","Olivier Pivert"]},"title":"Prédiction de valeurs manquantes dans les bases de données - Une première approche fondée sur la notion de proportion analogique.","venue":"EGC","pages":"485-490","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BeltranJP14","ee":"http://editions-rnti.fr/?inprocid=1001961","url":"https://dblp.org/rec/conf/f-egc/BeltranJP14"},
+"url":"URL#1225928"
+},
+{
+"@score":"1",
+"@id":"1225929",
+"info":{"authors":{"author":["Nacéra Bennacer","Coriane Nana Jipmo","Antonio Penta","Gianluca Quercini"]},"title":"Réconciliation des profils dans les réseaux sociaux.","venue":"EGC","pages":"65-76","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BennacerJPQ14","ee":"http://editions-rnti.fr/?inprocid=1001915","url":"https://dblp.org/rec/conf/f-egc/BennacerJPQ14"},
+"url":"URL#1225929"
+},
+{
+"@score":"1",
+"@id":"1225930",
+"info":{"authors":{"author":["Noureddine Yacine Nair Benrekia","Pascale Kuntz","Frank Meyer"]},"title":"Sélection d&apos;une méthode de classification multi-label pour un système interactif.","venue":"EGC","pages":"305-310","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BenrekiaKM14","ee":"http://editions-rnti.fr/?inprocid=1001941","url":"https://dblp.org/rec/conf/f-egc/BenrekiaKM14"},
+"url":"URL#1225930"
+},
+{
+"@score":"1",
+"@id":"1225931",
+"info":{"authors":{"author":"Julien Blanchard"},"title":"Motifs récursifs - extraction ascendante hiérarchique d&apos;ensembles d&apos;items ou d&apos;évènements pour le résumé de données transactionnelles ou séquentielles.","venue":"EGC","pages":"443-448","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/Blanchard14","ee":"http://editions-rnti.fr/?inprocid=1001956","url":"https://dblp.org/rec/conf/f-egc/Blanchard14"},
+"url":"URL#1225931"
+},
+{
+"@score":"1",
+"@id":"1225932",
+"info":{"authors":{"author":["Guillaume Bosc","Mehdi Kaytoue-Uberall","Chedy Raïssi","Jean-François Boulicaut"]},"title":"Fouille de motifs séquentiels pour l&apos;élicitation de stratégies à partir de traces d&apos;interactions entre agents en compétition.","venue":"EGC","pages":"359-370","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BoscKRB14","ee":"http://editions-rnti.fr/?inprocid=1001948","url":"https://dblp.org/rec/conf/f-egc/BoscKRB14"},
+"url":"URL#1225932"
+},
+{
+"@score":"1",
+"@id":"1225933",
+"info":{"authors":{"author":["Flavien Bouillot","Pascal Poncelet","Mathieu Roche"]},"title":"De nouvelles pondérations adaptées à la classification de petits volumes de données textuelles.","venue":"EGC","pages":"131-142","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BouillotPR14","ee":"http://editions-rnti.fr/?inprocid=1001922","url":"https://dblp.org/rec/conf/f-egc/BouillotPR14"},
+"url":"URL#1225933"
+},
+{
+"@score":"1",
+"@id":"1225934",
+"info":{"authors":{"author":["Sarra Bouzayane","Inès Saad"]},"title":"Stratégies argumentatives pour la classification collaborative multicritères des connaissances cruciales.","venue":"EGC","pages":"569-572","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BouzayaneS14","ee":"http://editions-rnti.fr/?inprocid=1001981","url":"https://dblp.org/rec/conf/f-egc/BouzayaneS14"},
+"url":"URL#1225934"
+},
+{
+"@score":"1",
+"@id":"1225935",
+"info":{"authors":{"author":["Pierrick Bruneau","Olivier Parisot","Philippe Pinheiro"]},"title":"Une heuristique pour le paramétrage automatique de l&apos;algorithme de clustering spectral.","venue":"EGC","pages":"233-238","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/BruneauPP14","ee":"http://editions-rnti.fr/?inprocid=1001933","url":"https://dblp.org/rec/conf/f-egc/BruneauPP14"},
+"url":"URL#1225935"
+},
+{
+"@score":"1",
+"@id":"1225936",
+"info":{"authors":{"author":["Martine Cadot","Yves Laprie"]},"title":"Méthodologie 3-way d&apos;extraction d&apos;un modèle articulatoire de la parole à partir des données d&apos;un locuteur.","venue":"EGC","pages":"585-588","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/CadotL14","ee":"http://editions-rnti.fr/?inprocid=1001985","url":"https://dblp.org/rec/conf/f-egc/CadotL14"},
+"url":"URL#1225936"
+},
+{
+"@score":"1",
+"@id":"1225937",
+"info":{"authors":{"author":["Mathieu Castets","Pascal Degenne","Danny Lo Seen","Pascal Poncelet"]},"title":"Intégration de plusieurs formes de représentations spatiales dans un modèle de simulation.","venue":"EGC","pages":"597-600","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/CastetsDSP14","ee":"http://editions-rnti.fr/?inprocid=1001988","url":"https://dblp.org/rec/conf/f-egc/CastetsDSP14"},
+"url":"URL#1225937"
+},
+{
+"@score":"1",
+"@id":"1225938",
+"info":{"authors":{"author":["Yoan Chabot","Aurélie Bertaux","M. Tahar Kechadi","Christophe Nicolle"]},"title":"Reconstruction et analyse sémantique de chronologies cybercriminelles.","venue":"EGC","pages":"521-524","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ChabotBKN14","ee":"http://editions-rnti.fr/?inprocid=1001969","url":"https://dblp.org/rec/conf/f-egc/ChabotBKN14"},
+"url":"URL#1225938"
+},
+{
+"@score":"1",
+"@id":"1225939",
+"info":{"authors":{"author":["Amine Chaibi","Hanane Azzag","Mustapha Lebbah"]},"title":"Pondération de blocs de variables en bi-partitionnement topologique.","venue":"EGC","pages":"317-328","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ChaibiAL14","ee":"http://editions-rnti.fr/?inprocid=1001943","url":"https://dblp.org/rec/conf/f-egc/ChaibiAL14"},
+"url":"URL#1225939"
+},
+{
+"@score":"1",
+"@id":"1225940",
+"info":{"authors":{"author":"Vincent Claveau"},"title":"Agrégation de sac-de-sacs-de-mots pour la recherche d&apos;information par modèles vectoriels.","venue":"EGC","pages":"161-166","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/Claveau14","ee":"http://editions-rnti.fr/?inprocid=1001925","url":"https://dblp.org/rec/conf/f-egc/Claveau14"},
+"url":"URL#1225940"
+},
+{
+"@score":"1",
+"@id":"1225941",
+"info":{"authors":{"author":["Vincent Claveau","Patrick Gros"]},"title":"Clustering de données relationnelles pour la structuration de flux télévisuels.","venue":"EGC","pages":"239-244","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ClaveauG14","ee":"http://editions-rnti.fr/?inprocid=1001934","url":"https://dblp.org/rec/conf/f-egc/ClaveauG14"},
+"url":"URL#1225941"
+},
+{
+"@score":"1",
+"@id":"1225942",
+"info":{"authors":{"author":"Guillaume Cleuziou"},"title":"Passage aux noyaux en classification recouvrante.","venue":"EGC","pages":"209-220","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/Cleuziou14","ee":"http://editions-rnti.fr/?inprocid=1001931","url":"https://dblp.org/rec/conf/f-egc/Cleuziou14"},
+"url":"URL#1225942"
+},
+{
+"@score":"1",
+"@id":"1225943",
+"info":{"authors":{"author":["Régis Clouard","François Rioult"]},"title":"Fouille de données par programmation visuelle structurée avec KD-Ariane.","venue":"EGC","pages":"601-604","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ClouardR14","ee":"http://editions-rnti.fr/?inprocid=1001989","url":"https://dblp.org/rec/conf/f-egc/ClouardR14"},
+"url":"URL#1225943"
+},
+{
+"@score":"1",
+"@id":"1225944",
+"info":{"authors":{"author":["Dana Codreanu","André Péninou","Florence Sèdes"]},"title":"Modélisation de trajectoires cible/caméra - requêtes spatio-temporelles dans le cadre de la videosurveillance.","venue":"EGC","pages":"573-576","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/CodreanuPS14","ee":"http://editions-rnti.fr/?inprocid=1001982","url":"https://dblp.org/rec/conf/f-egc/CodreanuPS14"},
+"url":"URL#1225944"
+},
+{
+"@score":"1",
+"@id":"1225945",
+"info":{"authors":{"author":["Caroline Collet","Alexandre Pauchet","Laurent Vercouter","Khaled Khelif"]},"title":"Détection d&apos;opinions dans des tweets.","venue":"EGC","pages":"501-504","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/ColletPVK14","ee":"http://editions-rnti.fr/?inprocid=1001964","url":"https://dblp.org/rec/conf/f-egc/ColletPVK14"},
+"url":"URL#1225945"
+},
+{
+"@score":"1",
+"@id":"1225946",
+"info":{"authors":{"author":["David Combe","Christine Largeron","Elöd Egyed-Zsigmond","Mathias Géry"]},"title":"Vers une modularité pour données vectorielles.","venue":"EGC","pages":"53-64","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/CombeLEG14","ee":"http://editions-rnti.fr/?inprocid=1001914","url":"https://dblp.org/rec/conf/f-egc/CombeLEG14"},
+"url":"URL#1225946"
+},
+{
+"@score":"1",
+"@id":"1225947",
+"info":{"authors":{"author":["Alexandra Degeest","Benoît Frénay","Michel Verleysen"]},"title":"Automatic correction of SVM for drifted data classification.","venue":"EGC","pages":"311-316","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/DegeestFV14","ee":"http://editions-rnti.fr/?inprocid=1001942","url":"https://dblp.org/rec/conf/f-egc/DegeestFV14"},
+"url":"URL#1225947"
+},
+{
+"@score":"1",
+"@id":"1225948",
+"info":{"authors":{"author":["Khaled Dehdouh","Fadila Bentayeb","Nadia Kabachi","Omar Boussaïd"]},"title":"Construction de cube OLAP à partir d&apos;un entrepôt de données orienté colonnes.","venue":"EGC","pages":"525-528","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/DehdouBKB14","ee":"http://editions-rnti.fr/?inprocid=1001970","url":"https://dblp.org/rec/conf/f-egc/DehdouBKB14"},
+"url":"URL#1225948"
+},
+{
+"@score":"1",
+"@id":"1225949",
+"info":{"authors":{"author":["Elise Desmier","Marc Plantevit","Jean-François Boulicaut"]},"title":"Granularité des motifs de co-variations dans des graphes attribués dynamiques.","venue":"EGC","pages":"431-442","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/DesmierPB14","ee":"http://editions-rnti.fr/?inprocid=1001955","url":"https://dblp.org/rec/conf/f-egc/DesmierPB14"},
+"url":"URL#1225949"
+},
+{
+"@score":"1",
+"@id":"1225950",
+"info":{"authors":{"author":"Didier Dubois"},"title":"Les nouvelles théories de l&apos;incertain.","venue":"EGC","pages":"3-4","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/Dubois14","ee":"http://editions-rnti.fr/?inprocid=1001906","url":"https://dblp.org/rec/conf/f-egc/Dubois14"},
+"url":"URL#1225950"
+},
+{
+"@score":"1",
+"@id":"1225951",
+"info":{"authors":{"author":["Nicolas Dugué","Vincent Labatut","Anthony Perez 0001"]},"title":"Identification de rôles communautaires dans des réseaux orientés appliquée à Twitter.","venue":"EGC","pages":"125-130","year":"2014","type":"Conference and Workshop Papers","key":"conf/f-egc/DugueLP14","ee":"http://editions-rnti.fr/?inprocid=1001921","url":"https://dblp.org/rec/conf/f-egc/DugueLP14"},
+"url":"URL#1225951"
+}
+]
+}
+}
+}

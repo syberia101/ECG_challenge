@@ -1,0 +1,146 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"f\"-\"egc\"/\"sci2009\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"116.90"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"19",
+"@dc":"19",
+"@oc":"19",
+"@id":"13466426",
+"text":":facetid:toc:db/conf/f-egc/sci2009.bht"
+}
+},
+"hits":{
+"@total":"19",
+"@computed":"19",
+"@sent":"19",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2317195",
+"info":{"authors":{"author":["Fabrice Guillet","Gilbert Ritschard","Djamel Abdelkader Zighed","Henri Briand"]},"title":"Advances in Knowledge Discovery and Management [Best of EGC 2009, Strasbourg, France]","venue":["EGC","Studies in Computational Intelligence"],"volume":"292","publisher":"Springer","year":"2010","type":"Editorship","key":"conf/f-egc/2009sci","doi":"10.1007/978-3-642-00580-0","ee":"https://doi.org/10.1007/978-3-642-00580-0","url":"https://dblp.org/rec/conf/f-egc/2009sci"},
+"url":"URL#2317195"
+},
+{
+"@score":"1",
+"@id":"2440049",
+"info":{"authors":{"author":["Emanuel Aldea","Isabelle Bloch"]},"title":"Toward a Better Integration of Spatial Relations in Learning with Graphical Models.","venue":"EGC","pages":"77-94","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/AldeaB09","doi":"10.1007/978-3-642-00580-0_5","ee":"https://doi.org/10.1007/978-3-642-00580-0_5","url":"https://dblp.org/rec/conf/egc/AldeaB09"},
+"url":"URL#2440049"
+},
+{
+"@score":"1",
+"@id":"2440050",
+"info":{"authors":{"author":["Romain Bourqui","Paolo Simonetto","Fabien Jourdan"]},"title":"A Stable Decomposition Algorithm for Dynamic Social Network Analysis.","venue":"EGC","pages":"167-178","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/BourquiSJ09","doi":"10.1007/978-3-642-00580-0_10","ee":"https://doi.org/10.1007/978-3-642-00580-0_10","url":"https://dblp.org/rec/conf/egc/BourquiSJ09"},
+"url":"URL#2440050"
+},
+{
+"@score":"1",
+"@id":"2440051",
+"info":{"authors":{"author":"Farid Cerbah"},"title":"Learning Ontologies with Deep Class Hierarchies by Mining the Content of Relational Databases.","venue":"EGC","pages":"271-286","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/Cerbah09","doi":"10.1007/978-3-642-00580-0_16","ee":"https://doi.org/10.1007/978-3-642-00580-0_16","url":"https://dblp.org/rec/conf/egc/Cerbah09"},
+"url":"URL#2440051"
+},
+{
+"@score":"1",
+"@id":"2440052",
+"info":{"authors":{"author":"Guillaume Cleuziou"},"title":"Two Variants of the OKM for Overlapping Clustering.","venue":"EGC","pages":"149-166","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/Cleuziou09","doi":"10.1007/978-3-642-00580-0_9","ee":"https://doi.org/10.1007/978-3-642-00580-0_9","url":"https://dblp.org/rec/conf/egc/Cleuziou09"},
+"url":"URL#2440052"
+},
+{
+"@score":"1",
+"@id":"2440053",
+"info":{"authors":{"author":["Thanh-Nghi Do","Philippe Lenca","Stéphane Lallich","Nguyen-Khang Pham"]},"title":"Classifying Very-High-Dimensional Data with Random Forests of Oblique Decision Trees.","venue":"EGC","pages":"39-55","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/DoLLP09","doi":"10.1007/978-3-642-00580-0_3","ee":"https://doi.org/10.1007/978-3-642-00580-0_3","url":"https://dblp.org/rec/conf/egc/DoLLP09"},
+"url":"URL#2440053"
+},
+{
+"@score":"1",
+"@id":"2440054",
+"info":{"authors":{"author":["Nesrine Gabsi","Fabrice Clérot","Georges Hébrail"]},"title":"An Hybrid Data Stream Summarizing Approach by Sampling and Clustering.","venue":"EGC","pages":"181-200","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/GabsiCH09","doi":"10.1007/978-3-642-00580-0_11","ee":"https://doi.org/10.1007/978-3-642-00580-0_11","url":"https://dblp.org/rec/conf/egc/GabsiCH09"},
+"url":"URL#2440054"
+},
+{
+"@score":"1",
+"@id":"2440055",
+"info":{"authors":{"author":["Nistor Grozavu","Younès Bennani","Mustapha Lebbah"]},"title":"Cluster-Dependent Feature Selection through a Weighted Learning Paradigm.","venue":"EGC","pages":"133-147","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/GrozavuBL09","doi":"10.1007/978-3-642-00580-0_8","ee":"https://doi.org/10.1007/978-3-642-00580-0_8","url":"https://dblp.org/rec/conf/egc/GrozavuBL09"},
+"url":"URL#2440055"
+},
+{
+"@score":"1",
+"@id":"2440056",
+"info":{"authors":{"author":["Fayçal Hamdi","Brigitte Safar","Chantal Reynaud","Haïfa Zargayouna"]},"title":"Alignment-Based Partitioning of Large-Scale Ontologies.","venue":"EGC","pages":"251-269","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/HamdiSRZ09","doi":"10.1007/978-3-642-00580-0_15","ee":"https://doi.org/10.1007/978-3-642-00580-0_15","url":"https://dblp.org/rec/conf/egc/HamdiSRZ09"},
+"url":"URL#2440056"
+},
+{
+"@score":"1",
+"@id":"2440057",
+"info":{"authors":{"author":["Gilles Hubert","Olivier Teste"]},"title":"Multigranular Manipulations for OLAP Querying.","venue":"EGC","pages":"97-112","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/HubertT09","doi":"10.1007/978-3-642-00580-0_6","ee":"https://doi.org/10.1007/978-3-642-00580-0_6","url":"https://dblp.org/rec/conf/egc/HubertT09"},
+"url":"URL#2440057"
+},
+{
+"@score":"1",
+"@id":"2440058",
+"info":{"authors":{"author":"Sébastien Lefèvre"},"title":"A New Approach for Unsupervised Classification in Image Segmentation.","venue":"EGC","pages":"113-131","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/Lefevre09","doi":"10.1007/978-3-642-00580-0_7","ee":"https://doi.org/10.1007/978-3-642-00580-0_7","url":"https://dblp.org/rec/conf/egc/Lefevre09"},
+"url":"URL#2440058"
+},
+{
+"@score":"1",
+"@id":"2440059",
+"info":{"authors":{"author":["Alain Lelu","Martine Cadot"]},"title":"Statistically Valid Links and Anti-links BetweenWords and Between Documents - Applying TourneBool Randomization Test to a Reuters Collection.","venue":"EGC","pages":"307-324","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/LeluC09","doi":"10.1007/978-3-642-00580-0_18","ee":"https://doi.org/10.1007/978-3-642-00580-0_18","url":"https://dblp.org/rec/conf/egc/LeluC09"},
+"url":"URL#2440059"
+},
+{
+"@score":"1",
+"@id":"2440060",
+"info":{"authors":{"author":["Alina Dia Miron","Jérôme Gensel","Marlène Villanova-Oliver"]},"title":"Semantic Analysis for the Geospatial Semantic Web.","venue":"EGC","pages":"287-306","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/MironGV09","doi":"10.1007/978-3-642-00580-0_17","ee":"https://doi.org/10.1007/978-3-642-00580-0_17","url":"https://dblp.org/rec/conf/egc/MironGV09"},
+"url":"URL#2440060"
+},
+{
+"@score":"1",
+"@id":"2440061",
+"info":{"authors":{"author":["Nguyen-Khang Pham","Annie Morin","Patrick Gros","Quyet-Thang Le"]},"title":"Intensive Use of Correspondence Analysis for Large Scale Content-Based Image Retrieval.","venue":"EGC","pages":"57-76","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/PhamMGL09","doi":"10.1007/978-3-642-00580-0_4","ee":"https://doi.org/10.1007/978-3-642-00580-0_4","url":"https://dblp.org/rec/conf/egc/PhamMGL09"},
+"url":"URL#2440061"
+},
+{
+"@score":"1",
+"@id":"2440062",
+"info":{"authors":{"author":["Goverdhan Singh","Florent Masseglia","Céline Fiot","Alice Marascu","Pascal Poncelet"]},"title":"Mining Common Outliers for Intrusion Detection.","venue":"EGC","pages":"217-234","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/SinghMFMP09","doi":"10.1007/978-3-642-00580-0_13","ee":"https://doi.org/10.1007/978-3-642-00580-0_13","url":"https://dblp.org/rec/conf/egc/SinghMFMP09"},
+"url":"URL#2440062"
+},
+{
+"@score":"1",
+"@id":"2440063",
+"info":{"authors":{"author":["Matthias Studer","Gilbert Ritschard","Alexis Gabadinho","Nicolas S. Müller"]},"title":"Discrepancy Analysis of Complex Objects Using Dissimilarities.","venue":"EGC","pages":"3-19","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/StuderRGM09","doi":"10.1007/978-3-642-00580-0_1","ee":"https://doi.org/10.1007/978-3-642-00580-0_1","url":"https://dblp.org/rec/conf/egc/StuderRGM09"},
+"url":"URL#2440063"
+},
+{
+"@score":"1",
+"@id":"2440064",
+"info":{"authors":{"author":["Nischal Verma","François Trousset","Pascal Poncelet","Florent Masseglia"]},"title":"Intrusion Detections in Collaborative Organizations by Preserving Privacy.","venue":"EGC","pages":"235-247","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/VermaTPM09","doi":"10.1007/978-3-642-00580-0_14","ee":"https://doi.org/10.1007/978-3-642-00580-0_14","url":"https://dblp.org/rec/conf/egc/VermaTPM09"},
+"url":"URL#2440064"
+},
+{
+"@score":"1",
+"@id":"2440065",
+"info":{"authors":{"author":["Lionel Vinceslas","Jean-Emile Symphor","Alban Mancheron","Pascal Poncelet"]},"title":"SPAMS - A Novel Incremental Approach for Sequential Pattern Mining in Data Streams.","venue":"EGC","pages":"201-216","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/VinceslasSMP09","doi":"10.1007/978-3-642-00580-0_12","ee":"https://doi.org/10.1007/978-3-642-00580-0_12","url":"https://dblp.org/rec/conf/egc/VinceslasSMP09"},
+"url":"URL#2440065"
+},
+{
+"@score":"1",
+"@id":"2440066",
+"info":{"authors":{"author":["Nicolas Voisine","Marc Boullé","Carine Hue"]},"title":"A Bayes Evaluation Criterion for Decision Trees.","venue":"EGC","pages":"21-38","year":"2009","type":"Conference and Workshop Papers","key":"conf/egc/VoisineBH09","doi":"10.1007/978-3-642-00580-0_2","ee":"https://doi.org/10.1007/978-3-642-00580-0_2","url":"https://dblp.org/rec/conf/egc/VoisineBH09"},
+"url":"URL#2440066"
+}
+]
+}
+}
+}
