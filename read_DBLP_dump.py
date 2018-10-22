@@ -14,7 +14,7 @@ all_features = {"address", "author", "booktitle", "cdrom", "chapter", "cite", "c
 
 
 
-root_path='/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/'
+root_path='/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/dblpFile/'
 
 def log_msg(message):
     """Produce a log with current time"""
@@ -217,7 +217,7 @@ def main():
     dblp_path = root_path+'dblp.xml'
     save_path = root_path+'procedessing'+conf_name+'.json'
 
-    
+
 
     try:
         context_iter(dblp_path)
