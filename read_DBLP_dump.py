@@ -13,7 +13,10 @@ all_features = {"address", "author", "booktitle", "cdrom", "chapter", "cite", "c
                 "volume", "year","venue"}
 
 
+<<<<<<< HEAD
 root_path='/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/'
+=======
+>>>>>>> db53e5b5f119e06ec9e087e44c81c8d4e3638a8b
 def log_msg(message):
     """Produce a log with current time"""
     print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"), message)
@@ -210,9 +213,15 @@ def parse_publications(dblp_path, save_path, save_to_csv=False, include_key=Fals
 
 
 def main():
+
     conf_name='cikm'
     dblp_path = root_path+'dblp.xml'
     save_path = root_path+'procedessing'+conf_name+'.json'
+
+    dblp_path = '/Users/derib/Downloads/dblp.xml'
+    save_path = '/Users/derib/Downloads/procedessingCIKM.json'
+    conf_name='cikm'
+
     try:
         context_iter(dblp_path)
         log_msg("LOG: Successfully loaded \"{}\".".format(dblp_path))
