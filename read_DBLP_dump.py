@@ -213,12 +213,9 @@ def parse_publications(dblp_path, save_path, save_to_csv=False, include_key=Fals
 
 def main():
 
-    conf_name='cikm'
+    conf_name='conf/cikm/'
     dblp_path = root_path+'dblp.xml'
-    save_path = root_path+'procedessing'+conf_name+'.json'
-
-
-
+    save_path = root_path+'procedessing_cikm.json'
     try:
         context_iter(dblp_path)
         log_msg("LOG: Successfully loaded \"{}\".".format(dblp_path))
