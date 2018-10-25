@@ -6,13 +6,13 @@ import read_ECG_document as readECG
 import PDFX as pdfx
 
 def main():
-<<<<<<< HEAD
-    path_root='/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/'
-    listAuthor = rj.readJsonFile_createDataFrame(path_root+'touteLesAnneeECG.json',path_root+'touteLesAnneeECG.csv',path_root+'only_prenom_ecg.csv')
-=======
 
-    listAuthor = rj.readJsonFile_createDataFrame('/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.json','/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_ecg.csv')
->>>>>>> db53e5b5f119e06ec9e087e44c81c8d4e3638a8b
+    path_root='/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/'
+    #listAuthor = rj.readJsonFile_createDataFrame(path_root+'procedessingCIKM.json',path_root+'procedessingCIKM.csv',path_root+'only_prenom_CIKM.csv')
+    #listAuthor = rj.read_json_from_xmlDump(path_root+'procedessingCIKM.json',path_root+'procedessingCIKM.csv',path_root+'only_prenom_CIKM.csv')
+
+    #listAuthor = rj.readJsonFile_createDataFrame('/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.json','/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_ecg.csv')
+
     #print(listAuthor['authors'])
     ##extract the name of the author from the dataFrame
     #listAuthor['prenom'].to_csv('/Users/derib/Desktop/listAuthorDBLP.cvs')
@@ -39,38 +39,41 @@ def main():
 #
     #rg.concat_all_nameFile('/Users/derib/Desktop/allConcatName.csv','/Users/derib/Desktop/maleCleaned.cvs', '/Users/derib/Desktop/femaleCleaned.cvs',  '/Users/derib/Desktop/bothSexName.cvs')
 
-    df=rg.retrieve_gender_fromfile(listAuthor,path_root+'ECG_Challenge/predictionNameBayesCorrected.csv')
+    #df=rg.retrieve_gender_fromfile(listAuthor,path_root+'ECG_Challenge/predictionNameBayesCorrected.csv')
 
-    df=rg.retrieve_gender_fromfile(listAuthor,'/Users/derib/Desktop/ECG_Challenge/predictionNameBayesCorrected.csv')
+    #df=rg.retrieve_gender_fromfile(listAuthor,path_root+'predictionNameBayesCorrected.csv')
 
     # rg.all_female_male_author(df,'/Users/derib/Desktop/ECG_Challenge/plot1ECG')
     # rg.authorList_dataframe(df,'/Users/derib/Desktop/authorListAll.csv')
     # rg.first_author_female_male(df,'/Users/derib/Desktop/ECG_Challenge/plot2ECG')
     # rg.only_one_author(df,'/Users/derib/Desktop/ECG_Challenge/plot3ECG')
-    rg.get_author_nb_pub(df)
+    #rg.get_author_nb_pub(df)
+
+    file=readECG.Document_ECG(path_root+'pdf/100162/1002106.pdf')
+    file.extractFilePdf()
+    print(file.references)
+
+    #file=readECG.extractFilePdf(path_root+'pdf/100162/1002106.pdf',path_root+'pdf/4586/1000895.txt')
+    #readECG.extract_title(path_root+'authorListAll.csv',file)
 
 
-    file=readECG.extract(path_root+'pdf/4586/1000895.pdf')
-    readECG.extract_title(path_root+'authorListAll.csv',file)
-
-
-    #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv')
-    listAuthorIC = rj.read_json_from_xmlDump(path_root+'/procedessingIC.json',path_root+'/procedessingIC.csv',path_root+'/ECG_Challenge/only_prenom_IC.csv')
-    df=rg.retrieve_gender_fromfile(listAuthorIC,path_root+'/predictionNameBayesCorrected.csv')
-
-    file=readECG.extract('/Users/derib/Desktop/ECG_Challenge/4586/1000895.pdf')
-    readECG.extract_title('/Users/derib/Desktop/authorListAll.csv',file)
-
-
-    #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv','titit')
-    listAuthorIC = rj.read_json_from_xmlDump('/Users/derib/Desktop/procedessingIC.json','/Users/derib/Desktop/procedessingIC.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_IC.csv')
-    df=rg.retrieve_gender_fromfile(listAuthorIC,'/Users/derib/Desktop/ECG_Challenge/predictionNameBayesCorrected.csv')
-
-    #rg.all_female_male_author(df,'/Users/derib/Desktop/ECG_Challenge/plot1IC')
-    #rg.authorList_dataframe(df,'/Users/derib/Desktop/authorListAllIC.csv')
-    #rg.first_author_female_male(df,'/Users/derib/Desktop/ECG_Challenge/plot2IC')
-    #rg.only_one_author(df,'/Users/derib/Desktop/ECG_Challenge/plot3IC')
-    rg.get_author_nb_pub(df)
+    # #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv')
+    # listAuthorIC = rj.read_json_from_xmlDump(path_root+'/procedessingIC.json',path_root+'/procedessingIC.csv',path_root+'/ECG_Challenge/only_prenom_IC.csv')
+    # df=rg.retrieve_gender_fromfile(listAuthorIC,path_root+'/predictionNameBayesCorrected.csv')
+    #
+    # file=readECG.extract('/Users/derib/Desktop/ECG_Challenge/4586/1000895.pdf')
+    # readECG.extract_title('/Users/derib/Desktop/authorListAll.csv',file)
+    #
+    #
+    # #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv','titit')
+    # listAuthorIC = rj.read_json_from_xmlDump('/Users/derib/Desktop/procedessingIC.json','/Users/derib/Desktop/procedessingIC.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_IC.csv')
+    # df=rg.retrieve_gender_fromfile(listAuthorIC,'/Users/derib/Desktop/ECG_Challenge/predictionNameBayesCorrected.csv')
+    #
+    # #rg.all_female_male_author(df,'/Users/derib/Desktop/ECG_Challenge/plot1IC')
+    # #rg.authorList_dataframe(df,'/Users/derib/Desktop/authorListAllIC.csv')
+    # #rg.first_author_female_male(df,'/Users/derib/Desktop/ECG_Challenge/plot2IC')
+    # #rg.only_one_author(df,'/Users/derib/Desktop/ECG_Challenge/plot3IC')
+    # rg.get_author_nb_pub(df)
 
 if __name__ == '__main__':
     main()
