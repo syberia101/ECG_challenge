@@ -1,6 +1,14 @@
 import pandas as pd
 import retrieve_gender_dbpedia as rgd
+from sklearn import svm
+from sklearn import tree
+from sklearn.model_selection import train_test_split
+
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
+
+#import matplotlib.pyplot as plt
 import numpy as np
 import unidecode as unidecode
 desired_width = 300
@@ -135,10 +143,71 @@ def only_one_author(df,name_plot):
 
 
 def get_author_nb_pub(df):
-    print(df)
     df=df.groupby(['authors','sex','rank_author']).count()
     df=df.sort_values(by=['authors'])
-    print(df['title'])
+
+    df=df['title']
+
+    df.to_csv('/Users/derib/Desktop/NbAuthorRankSex.csv',header=True);
+    return df
+
+def predict_author_sex(df):
+    pop_df = df.unstack()
+    pop_df=pop_df.fillna(value=0)
+    pop_df = pop_df.reset_index()
+    pop_df=pop_df.reindex()
+
+
+    #change column name
+    pop_df=pop_df.rename(index=str,columns={"authors":"authors","sex":"sex",1:"First",2:"Second",3:"Third",4:"Fourth",5:"Fifth",6:"Six",7:
+        "Seven",8:"Height",9:"Nine",10:"Ten",11:"Eleven",12:"Twlef",13:"Thirtheen"})
+
+    #change sex values
+    sex={'Male':1,'Female':2, 'UKN':3}
+    pop_df['sex']=[sex[item] for item in pop_df['sex']]
+
+    print(pop_df)
+    Y = pop_df.sex
+    X= pop_df.drop(['authors','sex'],axis=1)
+    #change sex values
+
+
+    #print(clf.predict_proba([[2., 2.,2., 2.,2., 2.,2., 2.,2., 2.,2., 2.,2.]]))
+
+    X_train,X_test,y_train,y_test = train_test_split(X,Y,test_size=0.33, random_state=42)
+    print (X_train)
+    clf = tree.DecisionTreeClassifier()
+    clf = clf.fit(X_train,y_train)
+    print(clf.score(X_test,y_test))
+
+    clf = svm.SVC(kernel = 'poly', gamma='scale')
+    clf = clf.fit(X_train,y_train)
+    print(clf.score(X_test,y_test))
+    prediction = clf.predict(X_test)
+
+    plt.scatter(y_test, prediction)
+    plt.xlabel("True Values")
+    plt.ylabel("Predictions")
+    #plt.show()
+    print(X_test[0:5],y_test[0:5])
+    print(prediction[0:5])
+
+
+
+
+
+    # lm = LinearRegression()
+    # lm.fit(x,pop_df.sex)
+    #
+    # pdCoeff=pd.DataFrame(zip(x.columns,lm.coef_),columns=['position author','estimatedCoefficients'])
+    # #print(pdCoeff)
+    # #plt.scatter(pop_df.Twlef,pop_df.sex)
+    # #plt.show()
+    #
+    # print(lm.predict(x)[0:5])
+
+
+
 
 
 
@@ -194,7 +263,7 @@ def get_author_nb_pub(df):
     #print('title',df['rank_author'].groupby(df['sex']).count())
     #print(df.groupby(['sex','year']).count().add_prefix('_count'))
     #print(df['year'].groupby(df['sex','title']).count())
-    #combien de titre sont écrit par des Femmes vs des Male
+    #combien de titre sont ecrit par des Femmes vs des Male
     #print('print dfffff',df['title'][df['sex'] == 'Male'].count())
     #print(len(df.groupby(['sex','year']).groups.keys()))
     #print(len(df.groupby(['sex','year']).groups['Female']))

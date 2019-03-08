@@ -6,9 +6,10 @@ import read_ECG_document as readECG
 import PDFX as pdfx
 
 def main():
+    # /Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/dblpFile/procedessing_icse.json
 
-    path_root='/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/'
-    #listAuthor = rj.readJsonFile_createDataFrame(path_root+'procedessingCIKM.json',path_root+'procedessingCIKM.csv',path_root+'only_prenom_CIKM.csv')
+    path_root='/Users/derib/PycharmProjects/EGCDefi/data/ECG_Challenge/'
+    listAuthor = rj.readJsonFile_createDataFrameFromCSV(path_root+'procedessingEGC.json',path_root+'procedessing_icse.csv',path_root+'only_prenom_ICSE.csv')
     #listAuthor = rj.read_json_from_xmlDump(path_root+'procedessingCIKM.json',path_root+'procedessingCIKM.csv',path_root+'only_prenom_CIKM.csv')
 
     #listAuthor = rj.readJsonFile_createDataFrame('/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.json','/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_ecg.csv')
@@ -58,8 +59,10 @@ def main():
 
 
     # #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv')
-    # listAuthorIC = rj.read_json_from_xmlDump(path_root+'/procedessingIC.json',path_root+'/procedessingIC.csv',path_root+'/ECG_Challenge/only_prenom_IC.csv')
-    # df=rg.retrieve_gender_fromfile(listAuthorIC,path_root+'/predictionNameBayesCorrected.csv')
+    listAuthorIC = rj.read_json_from_xmlDump(path_root+'/procedessingIC.json',path_root+'/procedessingIC.csv',path_root+'only_prenom_IC_ecg.csv')
+    df=rg.retrieve_gender_fromfile(listAuthorIC,path_root+'/predictionNameBayesCorrected.csv')
+    print(df)
+
     #
     # file=readECG.extract('/Users/derib/Desktop/ECG_Challenge/4586/1000895.pdf')
     # readECG.extract_title('/Users/derib/Desktop/authorListAll.csv',file)
@@ -67,13 +70,14 @@ def main():
     #
     # #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv','titit')
     # listAuthorIC = rj.read_json_from_xmlDump('/Users/derib/Desktop/procedessingIC.json','/Users/derib/Desktop/procedessingIC.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_IC.csv')
-    # df=rg.retrieve_gender_fromfile(listAuthorIC,'/Users/derib/Desktop/ECG_Challenge/predictionNameBayesCorrected.csv')
+    #df=rg.retrieve_gender_fromfile(listAuthorIC,'/Users/derib/Desktop/ECG_Challenge/predictionNameBayesCorrected.csv')
     #
-    # #rg.all_female_male_author(df,'/Users/derib/Desktop/ECG_Challenge/plot1IC')
+    #rg.all_female_male_author(df,'/Users/derib/Desktop/ECG_Challenge/plot1IC')
     # #rg.authorList_dataframe(df,'/Users/derib/Desktop/authorListAllIC.csv')
     # #rg.first_author_female_male(df,'/Users/derib/Desktop/ECG_Challenge/plot2IC')
     # #rg.only_one_author(df,'/Users/derib/Desktop/ECG_Challenge/plot3IC')
-    # rg.get_author_nb_pub(df)
+    df= rg.get_author_nb_pub(df)
+    rg.predict_author_sex(df)
 
 if __name__ == '__main__':
     main()

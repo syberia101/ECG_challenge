@@ -30,13 +30,15 @@ class Document_ECG:
         p=[]
         para=body_tag.find_all('p')
         for pp in para:
-            #print(pp)
+            #print('ppppppp',pp)
+            if ('Reference' or 'Reference') in pp:
+                print('References ',pp)
             p.append(pp.text.replace('\\n',' '))
         #print(p)
         self.title=p[1:2]
         self.authors=p[2:3]
         for i,t in enumerate(p):
-            if ('Référence' or 'Reference') in t:
+            if ('Reference' or 'Reference') in t:
                 print(i,t)
         self.references=p[65:]
         self.document=p[6:]

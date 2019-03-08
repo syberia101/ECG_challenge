@@ -32,7 +32,7 @@ def main():
 
 
 
-    listAuthor=readJsonFile_createDataFrame('/Users/derib/Desktop/ecg_conf_2001.json')
+    listAuthor=readJsonFile_createDataFrame('/Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/dblpFile/procedessing_icse.json')
     # print(type(listAuthor))
     # word = []
     # for a in listAuthor:
