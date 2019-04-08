@@ -1,7 +1,6 @@
 import fitz #fitz is the module MuPyPDF.
 import re
-import probablepeople
-from StringMatcher import cleanString
+from analyseGenderConference.StringMatcher import cleanString
 
 
 def extract(fileName):

@@ -1,20 +1,22 @@
-import loadJsonDBLP as rj
-import retrieve_gender_dbpedia as db
-import Retrieve_gender as rg
+import read_extract_dblp.loadJsonDBLP as rj
+import name_extraction.retrieve_gender_dbpedia as db
+import analyse_data.Retrieve_gender as rg
 #import matplotlib.pyplot as plt
-import read_ECG_document as readECG
-import PDFX as pdfx
+import read_extract_dblp.read_ECG_document as readECG
+import read_pdf.PDFX as pdfx
+
+
 
 def main():
     # /Users/derib/PycharmProjects/EGCDefi/ECG_Challenge/dblpFile/procedessing_icse.json
 
-    path_root='/Users/derib/PycharmProjects/EGCDefi/data/ECG_Challenge/'
-    listAuthor = rj.readJsonFile_createDataFrameFromCSV(path_root+'procedessingEGC.json',path_root+'procedessing_icse.csv',path_root+'only_prenom_ICSE.csv')
-    #listAuthor = rj.read_json_from_xmlDump(path_root+'procedessingCIKM.json',path_root+'procedessingCIKM.csv',path_root+'only_prenom_CIKM.csv')
+    path_root='/Users/derib/PycharmProjects/EGCDefi/data/ECG_Challenge/dblpFile/'
+    #listAuthor = rj.readJsonFile_createDataFrameFromCSV(path_root+'procedessing_icse.json',path_root+'procedessing_icse.csv',path_root+'only_prenom_ICSE.csv')
+    listAuthor = rj.readJsonFile_createDataFrameFromCSV(path_root+'procedessing_icse.json',path_root+'procedessing_icse.csv',path_root+'procedessing_icse_onlyPrenom.csv')
 
-    #listAuthor = rj.readJsonFile_createDataFrame('/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.json','/Users/derib/Desktop/ECG_Challenge/touteLesAnneeECG.csv','/Users/derib/Desktop/ECG_Challenge/only_prenom_ecg.csv')
+    #listAuthor = rj.readJsonFile_createDataFrame('/Users/derib/PycharmProjects/EGCDefi/data/ECG_Challenge/dblpFile/procedessing_icse.json',' /Users/derib/PycharmProjects/EGCDefi/data/ECG_Challenge/dblpFile/procedessing_icse.csv',' /Users/derib/PycharmProjects/EGCDefi/data/ECG_Challenge/dblpFile/onlyPrenomICSE.csv')
 
-    #print(listAuthor['authors'])
+    print(listAuthor['authors'])
     ##extract the name of the author from the dataFrame
     #listAuthor['prenom'].to_csv('/Users/derib/Desktop/listAuthorDBLP.cvs')
     #rj.retrieve_gender_fromdbpedia_dict('/Users/derib/Desktop/femaleName.json')
@@ -50,18 +52,20 @@ def main():
     # rg.only_one_author(df,'/Users/derib/Desktop/ECG_Challenge/plot3ECG')
     #rg.get_author_nb_pub(df)
 
-    file=readECG.Document_ECG(path_root+'pdf/100162/1002106.pdf')
-    file.extractFilePdf()
-    print(file.references)
+    #file=readECG.Document_ECG(path_root+'pdf/100162/1002106.pdf')
+    #file.extractFilePdf()
+    #print(file.references)
 
     #file=readECG.extractFilePdf(path_root+'pdf/100162/1002106.pdf',path_root+'pdf/4586/1000895.txt')
     #readECG.extract_title(path_root+'authorListAll.csv',file)
 
 
     # #rj.read_json_from_xmlDump('/Users/derib/Downloads/procedessingIC.json','/Users/derib/Downloads/procedessingIC.csv')
-    listAuthorIC = rj.read_json_from_xmlDump(path_root+'/procedessingIC.json',path_root+'/procedessingIC.csv',path_root+'only_prenom_IC_ecg.csv')
-    df=rg.retrieve_gender_fromfile(listAuthorIC,path_root+'/predictionNameBayesCorrected.csv')
-    print(df)
+    #rj.read_json_from_xmlDump(path_root+'/procedessing_icse.json',path_root+'/procedessing_icse.csv',path_root+'only_prenom_icse.csv')
+    #df = rg.retrieve_gender_fromfileV2(path_root+'/procedessing_icse.csv',path_root+'/predictionNameBayesCorrected.csv')
+
+    #df=rg.retrieve_gender_fromfile(listAuthorIC,path_root+'/predictionNameBayesCorrected.csv')
+    #print(df)
 
     #
     # file=readECG.extract('/Users/derib/Desktop/ECG_Challenge/4586/1000895.pdf')
@@ -76,8 +80,11 @@ def main():
     # #rg.authorList_dataframe(df,'/Users/derib/Desktop/authorListAllIC.csv')
     # #rg.first_author_female_male(df,'/Users/derib/Desktop/ECG_Challenge/plot2IC')
     # #rg.only_one_author(df,'/Users/derib/Desktop/ECG_Challenge/plot3IC')
-    df= rg.get_author_nb_pub(df)
-    rg.predict_author_sex(df)
+    #df = rg.get_author_nb_pub(df)
+    #df = rg.normalise_gender(df)
+
+    #rg.predict_author_sex(df)
+    #rg.predict_firstAuthor(df)
 
 if __name__ == '__main__':
     main()
