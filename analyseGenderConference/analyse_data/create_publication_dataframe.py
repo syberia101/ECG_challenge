@@ -14,7 +14,10 @@ def merge_dataframe_publication_with_names_on_prenom(fileCSV, allNameConcat):
     df = df.sort_values(by=['authors'])
     df = df.drop(['Unnamed: 0_x','Unnamed: 0_y'],axis=1)
     df = df.drop_duplicates(keep="first", inplace=False)
-    df.to_csv('/Users/derib/PycharmProjects/EGCDefi/data/publication_csv_withGender/allPublicationsTest.csv')
+    #df.to_csv('/Users/derib/PycharmProjects/EGCDefi/data/publication_csv_withGender/allPublicationsTest.csv')
     return df
 
 
+def csv_to_dataframe(fileCSV):
+    conference_dataFrame = pd.read_csv(fileCSV)
+    return conference_dataFrame

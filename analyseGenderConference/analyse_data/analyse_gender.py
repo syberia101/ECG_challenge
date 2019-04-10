@@ -34,7 +34,8 @@ def all_female_male_authorV2(df,namePlot):
     #print(dfYearAuthor)
     fig=dfYearAuthor.plot.bar().get_figure()
     plt.ylim(0, 1)
-    plt.ylabel('Y Axis limit is (-0.5,100)')
+    plt.ylabel('percentage of female/male publication')
+    plt.xlabel('conference year')
     plt.show()
     fig.savefig(namePlot)
     plt.close()
@@ -58,6 +59,8 @@ def first_author_female_male(df,namePlot):
     dfYearFirstAuthor.reset_index(drop=True)
     print(dfYearFirstAuthor)
     fig=dfYearFirstAuthor.plot.bar().get_figure()
+    plt.ylabel('percentage of female/male publication first author')
+    plt.xlabel('conference year')
     plt.ylim(0, 1)
     fig.savefig(namePlot)
     plt.show()
@@ -104,11 +107,37 @@ def get_author_nb_pub(df):
     print(df1)
     return df1
 
+def get_author_nb_pub_without_sex(df):
+    df=df.groupby(['authors','rank_author']).count()
+    df=df.sort_values(by=['authors'])
+    df = df['title']
+    df1 = df.reset_index()
+    df1 = df1.rename(index=str,columns={"authors":"authors","rank_author":"rank_author","title":"nbTimes"})
+    print(df1)
+    return df1
+
+def get_author_nbTimes_publish_without_sex(df,nbPublication,name_plot,path_file):
+    df = get_author_nb_pub_without_sex(df)
+    df = df.groupby(['authors']).nbTimes.agg({'nbTimesSum':'sum'})
+    df = df[df['nbTimesSum']>nbPublication]
+    df = df.reset_index()
+
+    df = df.sort_values(['nbTimesSum'])
+    print(df)
+    df.to_csv(path_file)
+    fig1 = df.plot.bar().get_figure()
+    plt.ylabel('nb of times an author publish in the conference')
+    plt.xlabel('Nb of authors that publish the nb of times')
+    plt.show()
+    fig1.savefig(name_plot)
+    return df
+
 
 def get_author_nbTimes_publish(df,nbPublication,name_plot):
     df = get_author_nb_pub(df)
     df = df.groupby(['authors','sex']).nbTimes.agg({'nbTimesSum':'sum'})
     df = df[df['nbTimesSum']>nbPublication]
+    print(df)
     df = df.reset_index()
     df = df.groupby(['nbTimesSum','sex']).count().unstack()
     df = df.fillna(0)
@@ -123,6 +152,8 @@ def get_author_nbTimes_publish(df,nbPublication,name_plot):
     #dfFemale = df[df['sex']=='Female']
 
     fig1 = df.plot.bar(x='nbTimesSum',y='nbAuthors').get_figure()
+    plt.ylabel('nb of times an author publish in the conference')
+    plt.xlabel('Nb of authors that publish the nb of times')
     #fig2 = dfFemale.plot.bar(ax=fig1,x='nbAuthors',y=['nbTimesSum']).get_figure()
 
     plt.show()

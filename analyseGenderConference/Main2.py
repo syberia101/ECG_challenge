@@ -29,31 +29,46 @@ def clean_names_csv():
     read.concat_all_nameFile(path_root+"male_female_name/bothSexFileClean.csv",path_root+"male_female_name/onlyMale.csv",path_root+"male_female_name/onlyFemale.csv")
 
 #change the name of the fileName for changing the corpus to analyse
-def prepare_dataframe_publication(conf_name, file_name):
-    ##/Users/derib/PycharmProjects/EGCDefi/data/dblp_dump/dblp.xml
-    ##read the dblp
-
-    #dblp=dblpE.read_DBLP_dump(path_root)
-    ##prepare the json file
-
-    #dblp.parse_dblp('dblp_dump/dblp.xml',conf_name,'dblp_processed/'+file_name)
-    ##read the json_file
-
-    #dblpExtract.readJsonFile_createDataFrameFromCSV(path_root+'dblp_processed/'+file_name+".json",path_root+'dblp_processed/'+file_name+'.csv',path_root+'dblp_processed/'+file_name+'onlyPrenom.csv')
+def prepare_dataframe_publication(file_name):
 
     dataframePublication = dataframePub.merge_dataframe_publication_with_names_on_prenom(path_root+'dblp_processed/'+file_name+'.csv',path_root+'male_female_name/bothSexFileClean.csv')
     #print(dataframePublication)
     return dataframePublication
 
+def prepare_dataframe_publication_without_Sex(file_name):
+
+    dataframePublication = dataframePub.csv_to_dataframe\
+        (path_root+'dblp_processed/'+file_name+'.csv')
+    #print(dataframePublication)
+    return dataframePublication
+
+def read_dblp(conf_name, file_name):
+    ##/Users/derib/PycharmProjects/EGCDefi/data/dblp_dump/dblp.xml
+    ##read the dblp
+
+    dblp=dblpE.read_DBLP_dump(path_root)
+    ##prepare the json file
+
+    dblp.parse_dblp('dblp_dump/dblp.xml',conf_name,'dblp_processed/'+file_name)
+    ##read the json_file
+
+    dblpExtract.readJsonFile_createDataFrameFromCSV(path_root+'dblp_processed/'+file_name+".json",path_root+'dblp_processed/'+file_name+'.csv',path_root+'dblp_processed/'+file_name+'onlyPrenom.csv')
+
+
 def main():
-    df = prepare_dataframe_publication('conf/icse/','conf_icse')
-    print(df)
+    conf_name='mldm'
+    read_dblp('conf/'+conf_name+'/','conf_'+conf_name)
+    df = prepare_dataframe_publication('conf_'+conf_name)
+    df_without_sex = prepare_dataframe_publication_without_Sex('conf_'+conf_name)
+    print(df_without_sex)
+    #print(df)
     #mesure the number of women man in a conference
-    analyseG.all_female_male_authorV2(df,path_root+"export_plot/allFemaleMaleAuthors_icse.png")
+    analyseG.all_female_male_authorV2(df,path_root+"export_plot/allFemaleMaleAuthors_"+conf_name+".png")
     #mesure the percentage first author, women man
-    analyseG.first_author_female_male(df,path_root+"export_plot/FirstFemaleMaleAuthors_icse.png")
+    analyseG.first_author_female_male(df,path_root+"export_plot/FirstFemaleMaleAuthors_"+conf_name+".png")
     #mesure the nb of times of one author
-    analyseG.get_author_nbTimes_publish(df,2,path_root+"export_plot/nb_authorPublication_icse.png")
+    analyseG.get_author_nbTimes_publish_without_sex(df_without_sex,1,
+    path_root+"export_plot/nb_authorPublication_without_sex"+conf_name+".png",path_root+"dblp_processed/nb_authorPublication_without_sex_"+conf_name+".csv")
 
 
 
